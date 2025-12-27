@@ -1,10 +1,10 @@
 "use client";
 
-import { useState, useEffect } from "react";
 import Link from "next/link";
+import { useTheme } from "@/context/ThemeContext";
 
 // Icons
-const PlusIcon = ({ isDark }: { isDark: boolean }) => (
+const PlusIcon = () => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     width="32"
@@ -15,7 +15,7 @@ const PlusIcon = ({ isDark }: { isDark: boolean }) => (
     strokeWidth="1.5"
     strokeLinecap="round"
     strokeLinejoin="round"
-    className={isDark ? "text-gray-500" : "text-gray-400"}
+    className="text-gray-400 dark:text-gray-500"
   >
     <path d="M5 12h14" />
     <path d="M12 5v14" />
@@ -120,27 +120,6 @@ const projects = [
       "Banyak individu kesulitan mengelola keuangan mereka secara efektif, bukan karena kurangnya kemauan, tetapi karena ketidaksadaran akan pola perilaku...",
     createdAt: "20 days ago",
   },
-  {
-    id: 9,
-    title: "Sentin",
-    description:
-      "Sistem pencahayaan tradisional seringkali tidak efisien, membuang energi karena lampu menyala di ruangan kosong atau memerlukan intervensi manual yang...",
-    createdAt: "20 days ago",
-  },
-  {
-    id: 10,
-    title: "Neura",
-    description:
-      "Banyak aplikasi belajar bahasa Inggris yang ada saat ini menawarkan kurikulum generik dan metode 'satu ukuran untuk semua', seperti hafalan repetitif, yang gagal...",
-    createdAt: "3 months ago",
-  },
-  {
-    id: 11,
-    title: "Apex",
-    description:
-      "Para pembuat konten sering menghadapi tantangan dalam memaksimalkan potensi viralitas video mereka dan memastikan kepatuhan hukum terkait hak cipta...",
-    createdAt: "3 months ago",
-  },
 ];
 
 // Get current date
@@ -154,55 +133,22 @@ const getCurrentDate = () => {
   return new Date().toLocaleDateString("en-US", options);
 };
 
-export default function HistoryPage() {
-  const [isDark, setIsDark] = useState(false);
-
-  // Load theme from localStorage on mount
-  useEffect(() => {
-    const savedTheme = localStorage.getItem("theme");
-    if (savedTheme === "dark") {
-      setIsDark(true);
-    }
-  }, []);
-
-  // Toggle theme and save to localStorage
-  const toggleTheme = () => {
-    const newTheme = !isDark;
-    setIsDark(newTheme);
-    localStorage.setItem("theme", newTheme ? "dark" : "light");
-  };
+export default function DashboardPage() {
+  const { toggleTheme, isDark } = useTheme();
 
   return (
-    <div
-      className={`min-h-screen transition-colors duration-500 ease-in-out ${
-        isDark ? "bg-[#0f0f0f]" : "bg-[#f9fafb]"
-      }`}
-    >
+    <div className="min-h-screen transition-colors duration-500 bg-[#f9fafb] dark:bg-[#0f0f0f]">
       {/* Header */}
       <header className="flex items-center justify-between px-8 py-6">
-        <span
-          className={`text-xl font-light tracking-widest transition-colors duration-500 ${
-            isDark ? "text-gray-400" : "text-gray-600"
-          }`}
-        >
-          FARABI PROJECT
-        </span>
+        <span className="text-xl font-light tracking-widest text-gray-600 dark:text-gray-400 transition-colors duration-500"></span>
 
         <div className="flex items-center gap-4">
-          <span
-            className={`text-sm transition-colors duration-500 ${
-              isDark ? "text-gray-500" : "text-gray-500"
-            }`}
-          >
+          <span className="text-sm text-gray-700 dark:text-gray-400 transition-colors duration-500">
             {getCurrentDate()}
           </span>
           <button
             onClick={toggleTheme}
-            className={`p-2 rounded-full transition-all duration-500 ${
-              isDark
-                ? "bg-gray-800 hover:bg-gray-700 text-yellow-400"
-                : "bg-gray-100 hover:bg-gray-200 text-gray-600"
-            }`}
+            className="p-2 rounded-full transition-all duration-500 bg-gray-100 hover:bg-gray-200 text-gray-600 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-yellow-400"
           >
             {isDark ? <MoonIcon /> : <SunIcon />}
           </button>
@@ -216,54 +162,26 @@ export default function HistoryPage() {
       <main className="max-w-6xl mx-auto px-8 py-8">
         {/* Greeting */}
         <div className="mb-10">
-          <h1
-            className={`text-4xl font-bold mb-2 transition-colors duration-500 ${
-              isDark ? "text-white" : "text-[#1a1a1a]"
-            }`}
-          >
+          <h1 className="text-4xl font-bold mb-2 transition-colors duration-500 text-[#1a1a1a] dark:text-white">
             Hi, bagas kawan!
           </h1>
-          <p
-            className={`transition-colors duration-500 ${
-              isDark ? "text-gray-400" : "text-gray-500"
-            }`}
-          >
+          <p className="transition-colors duration-500 text-gray-500 dark:text-gray-400">
             Let's turn your brilliant ideas into real projects today.
           </p>
         </div>
 
         {/* Projects Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-          {/* Create New Idea Card */}
+          {/* Create New Project Card */}
           <Link href="/search">
-            <div
-              className={`border border-dashed rounded-xl p-6 flex flex-col items-center justify-center min-h-[200px] cursor-pointer group transition-all duration-500 ${
-                isDark
-                  ? "bg-[#1a1a1a] border-gray-700 hover:border-gray-500 hover:shadow-lg hover:shadow-gray-900/20"
-                  : "bg-white border-gray-100 hover:border-gray-300 hover:shadow-sm"
-              }`}
-            >
-              <div
-                className={`w-12 h-12 rounded-full border flex items-center justify-center mb-4 transition-colors duration-500 ${
-                  isDark
-                    ? "border-gray-600 group-hover:border-gray-400"
-                    : "border-gray-200 group-hover:border-gray-400"
-                }`}
-              >
-                <PlusIcon isDark={isDark} />
+            <div className="border border-dashed rounded-xl p-6 flex flex-col items-center justify-center min-h-[200px] cursor-pointer group transition-all duration-500 bg-white border-gray-100 hover:border-gray-300 hover:shadow-sm dark:bg-[#1a1a1a] dark:border-gray-700 dark:hover:border-gray-500 dark:hover:shadow-lg dark:hover:shadow-gray-900/20">
+              <div className="w-12 h-12 rounded-full border flex items-center justify-center mb-4 transition-colors duration-500 border-gray-200 group-hover:border-gray-400 dark:border-gray-600 dark:group-hover:border-gray-400">
+                <PlusIcon />
               </div>
-              <h3
-                className={`text-base font-semibold mb-1 transition-colors duration-500 ${
-                  isDark ? "text-white" : "text-[#1a1a1a]"
-                }`}
-              >
+              <h3 className="text-base font-semibold mb-1 transition-colors duration-500 text-[#1a1a1a] dark:text-white">
                 Create New Project
               </h3>
-              <p
-                className={`text-sm text-center transition-colors duration-500 ${
-                  isDark ? "text-gray-500" : "text-gray-400"
-                }`}
-              >
+              <p className="text-sm text-center transition-colors duration-500 text-gray-400 dark:text-gray-500">
                 Click here to add a new project.
               </p>
             </div>
@@ -273,37 +191,16 @@ export default function HistoryPage() {
           {projects.map((project) => (
             <div
               key={project.id}
-              className={`rounded-xl p-6 cursor-pointer min-h-[200px] flex flex-col transition-all duration-500 ${
-                isDark
-                  ? "bg-[#1a1a1a] border border-gray-800 hover:border-gray-600 hover:shadow-lg hover:shadow-gray-900/20"
-                  : "bg-white border border-gray-100 hover:border-gray-200 hover:shadow-md"
-              }`}
+              className="rounded-xl p-6 cursor-pointer min-h-[200px] flex flex-col transition-all duration-500 bg-white border border-gray-100 hover:border-gray-200 hover:shadow-md dark:bg-[#1a1a1a] dark:border-gray-800 dark:hover:border-gray-600 dark:hover:shadow-lg dark:hover:shadow-gray-900/20"
             >
-              {/* Title */}
-              <h3
-                className={`text-lg font-bold mb-2 transition-colors duration-500 ${
-                  isDark ? "text-white" : "text-[#1a1a1a]"
-                }`}
-              >
+              <h3 className="text-lg font-bold mb-2 transition-colors duration-500 text-[#1a1a1a] dark:text-white">
                 {project.title}
               </h3>
-
-              {/* Description */}
-              <p
-                className={`text-sm leading-relaxed flex-1 mb-4 transition-colors duration-500 ${
-                  isDark ? "text-gray-400" : "text-gray-500"
-                }`}
-              >
+              <p className="text-sm leading-relaxed flex-1 mb-4 transition-colors duration-500 text-gray-500 dark:text-gray-400">
                 {project.description}
               </p>
-
-              {/* Created Date */}
               <p className="text-sm">
-                <span
-                  className={`transition-colors duration-500 ${
-                    isDark ? "text-gray-500" : "text-gray-400"
-                  }`}
-                >
+                <span className="transition-colors duration-500 text-gray-400 dark:text-gray-500">
                   Created{" "}
                 </span>
                 <span className="text-amber-500">{project.createdAt}</span>

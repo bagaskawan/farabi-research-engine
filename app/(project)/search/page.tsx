@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useState } from "react";
+import ThemeToggle from "@/components/ThemeToggle";
 
 // Icon components
 const SearchIcon = () => (
@@ -138,7 +139,9 @@ export default function Home() {
   const [selectedMode, setSelectedMode] = useState<"deep" | "broad">("deep");
 
   return (
-    <div className="min-h-screen bg-[#f9fafb]">
+    <div className="min-h-screen bg-[#f9fafb] dark:bg-[#0f0f0f] transition-colors duration-500">
+      {/* Theme Toggle */}
+      <ThemeToggle />
       {/* Header */}
       <header className="flex items-center justify-center p-8 relative">
         <Link href="/">
@@ -156,12 +159,12 @@ export default function Home() {
         {/* Hero Section */}
         <div className="text-center mb-10">
           <h1
-            className="text-7xl md:text-8xl font-bold tracking-tight text-gray-800 mb-3"
+            className="text-7xl md:text-8xl font-bold tracking-tight text-gray-600 dark:text-gray-200 mb-3 transition-colors duration-500"
             style={{ fontFamily: "var(--font-title)" }}
           >
             Deep Research Engine
           </h1>
-          <p className="text-gray-500 text-md">
+          <p className="text-gray-500 dark:text-gray-400 text-md transition-colors duration-500">
             Distraction-free intelligence for creators
           </p>
         </div>
@@ -179,7 +182,7 @@ export default function Home() {
               placeholder="What is your YouTube content topic today?"
               className="flex-1 py-4 px-4 bg-transparent text-gray-900 placeholder-gray-400 focus:outline-none text-base"
             />
-            <button className="m-1.5 px-6 py-3 bg-gray-800 text-white rounded-full font-medium hover:bg-gray-800 transition-colors">
+            <button className="m-1.5 px-6 py-3 bg-gray-700 text-white rounded-full font-medium transition-colors">
               Search
             </button>
           </div>
@@ -192,7 +195,7 @@ export default function Home() {
             className={`flex items-center gap-2 px-5 py-2.5 rounded-full border text-sm font-medium transition-all ${
               selectedMode === "deep"
                 ? "bg-white border-gray-300 text-gray-900 shadow-sm"
-                : "border-gray-200 text-gray-600 hover:border-gray-300 hover:bg-white"
+                : "border-gray-200 text-gray-600 dark:border-gray-700 dark:text-gray-400"
             }`}
           >
             <BookIcon />
@@ -203,7 +206,7 @@ export default function Home() {
             className={`flex items-center gap-2 px-5 py-2.5 rounded-full border text-sm font-medium transition-all ${
               selectedMode === "broad"
                 ? "bg-white border-gray-300 text-gray-900 shadow-sm"
-                : "border-gray-200 text-gray-600 hover:border-gray-300 hover:bg-white"
+                : "border-gray-200 text-gray-600 dark:border-gray-700 dark:text-gray-400"
             }`}
           >
             <GridIcon />
@@ -226,10 +229,12 @@ export default function Home() {
                   {project.icon === "chart" ? <ChartIcon /> : <DocumentIcon />}
                 </div>
                 <div className="flex-1 min-w-0">
-                  <p className="text-sm font-medium text-gray-900 truncate">
+                  <p className="text-sm font-medium text-gray-900 dark:text-white truncate">
                     {project.title}
                   </p>
-                  <p className="text-xs text-gray-400">{project.editedAt}</p>
+                  <p className="text-xs text-gray-400 dark:text-white-500">
+                    {project.editedAt}
+                  </p>
                 </div>
               </button>
             ))}

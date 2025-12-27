@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import ThemeToggle from "@/components/ThemeToggle";
 
 // Icon components
 const AudioWaveIcon = () => (
@@ -297,7 +298,9 @@ export default function ResearchPage() {
   };
 
   return (
-    <div className="flex flex-col h-screen bg-white">
+    <div className="flex flex-col h-screen bg-white dark:bg-[#0f0f0f] transition-colors duration-500">
+      {/* Theme Toggle */}
+      <ThemeToggle />
       {/* Header */}
       <header className="flex items-center justify-between px-6 py-4 border-b border-gray-100">
         <div className="flex items-center gap-3">
