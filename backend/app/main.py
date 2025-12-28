@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.routers import interview
+from app.routers import interview, semantic_scholar, research_pipeline, projects
 from app.config import FRONTEND_URL
 
 app = FastAPI(
@@ -20,6 +20,9 @@ app.add_middleware(
 
 # Include routers
 app.include_router(interview.router, prefix="/interview", tags=["Interview"])
+app.include_router(semantic_scholar.router, prefix="/semantic-scholar", tags=["Semantic Scholar"])
+app.include_router(research_pipeline.router, prefix="/research", tags=["Research Pipeline"])
+app.include_router(projects.router, prefix="/projects", tags=["Projects"])
 
 @app.get("/")
 async def root():

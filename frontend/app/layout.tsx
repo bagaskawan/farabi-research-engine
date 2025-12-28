@@ -1,12 +1,7 @@
 import type { Metadata } from "next";
-import { Inter, Bebas_Neue, Barlow } from "next/font/google";
+import { Bebas_Neue, Barlow } from "next/font/google";
 import { ThemeProvider } from "@/context/ThemeContext";
 import "./globals.css";
-
-const inter = Inter({
-  variable: "--font-inter",
-  subsets: ["latin"],
-});
 
 const bebasNeue = Bebas_Neue({
   variable: "--font-title",

@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useCallback, useRef } from "react";
+import { useRouter } from "next/navigation";
 import { useUser } from "@/hooks/use-user";
 import { SendIcon } from "@/components/ui/icons";
 
@@ -67,6 +68,58 @@ interface AIResponse {
   final_keywords?: string; // Final keywords for Semantic Scholar search
 }
 
+// Paper from Semantic Scholar
+interface Paper {
+  paperId: string;
+  title: string;
+  abstract: string | null;
+  authors: { name: string }[];
+  year: number | null;
+  citationCount: number | null;
+  url: string | null;
+}
+
+// Key Insight extracted from papers
+interface KeyInsight {
+  insight: string;
+  source: string;
+  paperId: string;
+}
+
+// Narrative structure for video script
+interface NarrativeStructure {
+  hook: string;
+  problem: string;
+  science: string;
+  takeaway: string;
+}
+
+// Reference for sources
+interface Reference {
+  title: string;
+  authors: string;
+  year: number | null;
+  url: string | null;
+}
+
+// Final Content Blueprint
+interface ContentBlueprint {
+  key_insights: KeyInsight[];
+  narrative: NarrativeStructure;
+  references: Reference[];
+}
+
+// Research step for animation
+interface ResearchStepItem {
+  id: number;
+  label: string;
+  status: "pending" | "in-progress" | "completed";
+  subItems?: string[];
+}
+
+// Research phase enum
+type ResearchPhase = "chat" | "researching" | "complete";
+
 interface ResearchStepProps {
   searchQuery: string;
   searchMode: "deep" | "broad";
@@ -81,7 +134,9 @@ export default function ResearchStep({
   searchMode,
   onBack,
 }: ResearchStepProps) {
-  const { username, avatarUrl } = useUser();
+  const router = useRouter();
+  const { user, username, avatarUrl } = useUser();
+  const [isSaving, setIsSaving] = useState(false);
 
   // State
   const [messages, setMessages] = useState<Message[]>([
@@ -99,6 +154,19 @@ export default function ResearchStep({
   const [currentOptions, setCurrentOptions] = useState<ResearchOption[]>([]);
   const [showCustomInput, setShowCustomInput] = useState(false);
   const [finalKeywords, setFinalKeywords] = useState<string | null>(null);
+
+  // Research pipeline state
+  const [researchPhase, setResearchPhase] = useState<ResearchPhase>("chat");
+  const [papers, setPapers] = useState<Paper[]>([]);
+  const [researchSteps, setResearchSteps] = useState<ResearchStepItem[]>([
+    { id: 1, label: "Searching papers...", status: "pending" },
+    { id: 2, label: "Reading papers...", status: "pending" },
+    { id: 3, label: "Analyzing insights...", status: "pending" },
+    { id: 4, label: "Drafting content...", status: "pending" },
+  ]);
+  const [readingPaperTitle, setReadingPaperTitle] = useState<string>("");
+  const [contentBlueprint, setContentBlueprint] =
+    useState<ContentBlueprint | null>(null);
 
   // Refs
   const messagesEndRef = useRef<HTMLDivElement>(null);
@@ -253,6 +321,168 @@ export default function ResearchStep({
     // Don't hide options - user might want to select them later
   };
 
+  // Update a specific research step status
+  const updateStepStatus = (
+    stepId: number,
+    status: "pending" | "in-progress" | "completed",
+    subItems?: string[]
+  ) => {
+    setResearchSteps((prev) =>
+      prev.map((step) =>
+        step.id === stepId
+          ? { ...step, status, subItems: subItems || step.subItems }
+          : step
+      )
+    );
+  };
+
+  // Save Content Blueprint to Supabase and redirect to workspace
+  const handleSaveToWorkspace = async () => {
+    if (!contentBlueprint || !user) {
+      console.error("No content blueprint or user not logged in");
+      return;
+    }
+
+    setIsSaving(true);
+
+    try {
+      const response = await fetch(`${API_URL}/projects/save-project`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          user_id: user.id,
+          title: searchQuery,
+          query_topic: finalKeywords || searchQuery,
+          key_insights: contentBlueprint.key_insights,
+          narrative: contentBlueprint.narrative,
+          papers: papers.map((p) => ({
+            paperId: p.paperId,
+            title: p.title,
+            abstract: p.abstract,
+            authors: p.authors.map((a) => a.name),
+            year: p.year,
+            citationCount: p.citationCount,
+            url: p.url,
+            isOpenAccess: false,
+          })),
+        }),
+      });
+
+      if (!response.ok) {
+        const errorData = await response.json().catch(() => ({}));
+        throw new Error(errorData.detail || "Failed to save project");
+      }
+
+      const data = await response.json();
+      router.push(`/workspace/${data.project_id}`);
+    } catch (error: any) {
+      console.error("Error saving to workspace:", error.message || error);
+      alert(`Gagal menyimpan: ${error.message || "Unknown error"}`);
+      setIsSaving(false);
+    }
+  };
+
+  // Handle "Lanjut Cari Paper" button - start full research pipeline
+  const handleStartResearch = async () => {
+    if (!finalKeywords) return;
+
+    setResearchPhase("researching");
+
+    try {
+      // Step 1: SEARCHING - Call Semantic Scholar API
+      updateStepStatus(1, "in-progress");
+
+      const searchResponse = await fetch(`${API_URL}/semantic-scholar/search`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ keywords: finalKeywords, limit: 15 }),
+      });
+
+      if (!searchResponse.ok) throw new Error("Failed to search papers");
+
+      const searchData = await searchResponse.json();
+      const fetchedPapers: Paper[] = searchData.papers;
+      setPapers(fetchedPapers);
+      updateStepStatus(1, "completed", [
+        `Found ${fetchedPapers.length} papers`,
+      ]);
+
+      // Step 2: READING (Illusion) - Loop through paper titles
+      updateStepStatus(2, "in-progress");
+
+      for (const paper of fetchedPapers) {
+        setReadingPaperTitle(paper.title);
+        await new Promise((resolve) => setTimeout(resolve, 300)); // 300ms delay
+      }
+      setReadingPaperTitle("");
+      updateStepStatus(2, "completed");
+
+      // Step 3: ANALYZING - Send abstracts to AI
+      updateStepStatus(3, "in-progress");
+
+      const papersForAnalysis = fetchedPapers
+        .filter((p) => p.abstract)
+        .slice(0, 10)
+        .map((p) => ({
+          paperId: p.paperId,
+          title: p.title,
+          abstract: p.abstract || "",
+          authors: p.authors.map((a) => a.name),
+          year: p.year,
+          url: p.url,
+        }));
+
+      const analyzeResponse = await fetch(`${API_URL}/research/analyze`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ papers: papersForAnalysis, topic: searchQuery }),
+      });
+
+      if (!analyzeResponse.ok) throw new Error("Failed to analyze papers");
+
+      const analyzeData = await analyzeResponse.json();
+      const insights: KeyInsight[] = analyzeData.insights;
+      updateStepStatus(3, "completed", [
+        `Extracted ${insights.length} insights`,
+      ]);
+
+      // Step 4: DRAFTING - Generate Content Blueprint
+      updateStepStatus(4, "in-progress");
+
+      const scriptResponse = await fetch(
+        `${API_URL}/research/generate-script`,
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            insights,
+            papers: papersForAnalysis,
+            topic: searchQuery,
+          }),
+        }
+      );
+
+      if (!scriptResponse.ok) throw new Error("Failed to generate script");
+
+      const blueprint: ContentBlueprint = await scriptResponse.json();
+      setContentBlueprint(blueprint);
+      updateStepStatus(4, "completed");
+
+      // Complete!
+      setResearchPhase("complete");
+    } catch (error) {
+      console.error("Research pipeline error:", error);
+      // Reset to chat phase on error
+      setResearchPhase("chat");
+      setResearchSteps([
+        { id: 1, label: "Searching papers...", status: "pending" },
+        { id: 2, label: "Reading papers...", status: "pending" },
+        { id: 3, label: "Analyzing insights...", status: "pending" },
+        { id: 4, label: "Drafting content...", status: "pending" },
+      ]);
+    }
+  };
+
   const handleKeyDown = (e: React.KeyboardEvent) => {
     if (e.key === "Enter" && !e.shiftKey) {
       e.preventDefault();
@@ -277,67 +507,68 @@ export default function ResearchStep({
 
           {/* Messages */}
           <div className="max-w-2xl mx-auto space-y-6">
-            {messages.map((message) => (
-              <div
-                key={message.id}
-                className={`flex ${
-                  message.type === "user" ? "justify-end" : "justify-start"
-                }`}
-              >
-                {message.type === "ai" ? (
-                  <div
-                    className="flex gap-3 max-w-lg animate-fade-in-up"
-                    style={{
-                      animation: "fadeInUp 0.4s ease-out forwards",
-                    }}
-                  >
-                    {/* AI Avatar */}
-                    <div className="w-8 h-8 rounded-full bg-green-600 flex items-center justify-center flex-shrink-0">
-                      <span className="text-white text-xs font-bold">F</span>
-                    </div>
-                    <div>
-                      <p className="text-xs text-green-600 mb-1 font-medium">
-                        {message.sender}
-                      </p>
-                      <div className="bg-gray-100 rounded-2xl rounded-tl-sm px-4 py-3">
-                        <p className="text-sm text-[#1a1a1a] leading-relaxed whitespace-pre-wrap">
-                          {message.content}
+            {isClient &&
+              messages.map((message) => (
+                <div
+                  key={message.id}
+                  className={`flex ${
+                    message.type === "user" ? "justify-end" : "justify-start"
+                  }`}
+                >
+                  {message.type === "ai" ? (
+                    <div
+                      className="flex gap-3 max-w-lg animate-fade-in-up"
+                      style={{
+                        animation: "fadeInUp 0.4s ease-out forwards",
+                      }}
+                    >
+                      {/* AI Avatar */}
+                      <div className="w-8 h-8 rounded-full bg-green-600 flex items-center justify-center flex-shrink-0">
+                        <span className="text-white text-xs font-bold">F</span>
+                      </div>
+                      <div>
+                        <p className="text-xs text-green-600 mb-1 font-medium">
+                          {message.sender}
                         </p>
+                        <div className="bg-gray-100 rounded-2xl rounded-tl-sm px-4 py-3">
+                          <p className="text-sm text-[#1a1a1a] leading-relaxed whitespace-pre-wrap">
+                            {message.content}
+                          </p>
+                        </div>
                       </div>
                     </div>
-                  </div>
-                ) : (
-                  <div className="flex gap-3 max-w-lg items-end">
-                    <div className="text-right">
-                      <div className="bg-blue-500 text-white rounded-2xl rounded-br-sm px-4 py-3">
-                        <p className="text-sm leading-relaxed">
-                          {message.content}
-                        </p>
+                  ) : (
+                    <div className="flex gap-3 max-w-lg items-end">
+                      <div className="text-right">
+                        <div className="bg-blue-500 text-white rounded-2xl rounded-br-sm px-4 py-2.5">
+                          <p className="text-sm leading-relaxed text-left whitespace-pre-wrap">
+                            {message.content}
+                          </p>
+                        </div>
+                        {message.timestamp && (
+                          <p className="text-xs text-gray-400 mt-1">
+                            {message.timestamp}
+                          </p>
+                        )}
                       </div>
-                      {message.timestamp && (
-                        <p className="text-xs text-gray-400 mt-1">
-                          {message.timestamp}
-                        </p>
-                      )}
+                      {/* User Avatar */}
+                      <div className="w-8 h-8 rounded-full bg-amber-100 flex items-center justify-center flex-shrink-0 overflow-hidden">
+                        {avatarUrl ? (
+                          <img
+                            src={avatarUrl}
+                            alt="Avatar"
+                            className="w-full h-full object-cover"
+                          />
+                        ) : (
+                          <span className="text-amber-800 text-sm font-medium uppercase">
+                            {username?.charAt(0) || "U"}
+                          </span>
+                        )}
+                      </div>
                     </div>
-                    {/* User Avatar */}
-                    <div className="w-8 h-8 rounded-full bg-amber-100 flex items-center justify-center flex-shrink-0 overflow-hidden">
-                      {avatarUrl ? (
-                        <img
-                          src={avatarUrl}
-                          alt="Avatar"
-                          className="w-full h-full object-cover"
-                        />
-                      ) : (
-                        <span className="text-amber-800 text-sm font-medium uppercase">
-                          {username?.charAt(0) || "U"}
-                        </span>
-                      )}
-                    </div>
-                  </div>
-                )}
-              </div>
-            ))}
+                  )}
+                </div>
+              ))}
 
             {/* Loading Indicator */}
             {isLoading && (
@@ -408,7 +639,7 @@ export default function ResearchStep({
             )}
 
             {/* Final Keywords Display */}
-            {finalKeywords && !isLoading && (
+            {finalKeywords && !isLoading && researchPhase === "chat" && (
               <div className="flex justify-start">
                 <div className="flex gap-3 max-w-lg w-full">
                   <div className="w-8 flex-shrink-0" />
@@ -420,11 +651,278 @@ export default function ResearchStep({
                       <p className="text-sm font-mono text-green-800 bg-white px-3 py-2 rounded-lg border border-green-100">
                         {finalKeywords}
                       </p>
-                      <button className="mt-3 w-full bg-green-600 hover:bg-green-700 text-white text-sm font-medium py-2 px-4 rounded-lg transition-colors">
+                      <button
+                        onClick={handleStartResearch}
+                        className="mt-3 w-full bg-green-600 hover:bg-green-700 text-white text-sm font-medium py-2 px-4 rounded-lg transition-colors"
+                      >
                         🚀 Lanjut Cari Paper
                       </button>
                     </div>
                   </div>
+                </div>
+              </div>
+            )}
+
+            {/* Research Progress Panel - Show during researching and complete */}
+            {(researchPhase === "researching" ||
+              researchPhase === "complete") && (
+              <div className="max-w-lg mx-auto my-6">
+                <div className="bg-white border border-gray-100 rounded-2xl p-5 shadow-sm">
+                  {/* Header */}
+                  <div className="flex items-center gap-2 mb-4">
+                    {researchPhase === "researching" ? (
+                      <div className="w-2.5 h-2.5 rounded-full bg-green-500 animate-pulse" />
+                    ) : (
+                      <div className="w-2.5 h-2.5 rounded-full bg-green-500" />
+                    )}
+                    <span className="text-sm font-medium text-green-600">
+                      {researchPhase === "researching"
+                        ? "Researching Deeply..."
+                        : "✅ Research Complete"}
+                    </span>
+                  </div>
+
+                  {/* Steps */}
+                  <div className="space-y-3">
+                    {researchSteps.map((step) => (
+                      <div key={step.id} className="flex items-start gap-3">
+                        {/* Status Icon */}
+                        <div className="flex-shrink-0 mt-0.5">
+                          {step.status === "completed" && (
+                            <div className="w-5 h-5 rounded-full bg-green-500 flex items-center justify-center">
+                              <svg
+                                className="w-3 h-3 text-white"
+                                fill="none"
+                                viewBox="0 0 24 24"
+                                stroke="currentColor"
+                              >
+                                <path
+                                  strokeLinecap="round"
+                                  strokeLinejoin="round"
+                                  strokeWidth={3}
+                                  d="M5 13l4 4L19 7"
+                                />
+                              </svg>
+                            </div>
+                          )}
+                          {step.status === "in-progress" && (
+                            <div className="w-5 h-5 flex items-center justify-center">
+                              <div className="w-4 h-4 border-2 border-green-500 border-t-transparent rounded-full animate-spin" />
+                            </div>
+                          )}
+                          {step.status === "pending" && (
+                            <div className="w-5 h-5 rounded-full bg-gray-200" />
+                          )}
+                        </div>
+
+                        {/* Label */}
+                        <div className="flex-1">
+                          <p
+                            className={`text-sm ${
+                              step.status === "completed"
+                                ? "text-gray-700"
+                                : step.status === "in-progress"
+                                ? "text-green-600 font-medium"
+                                : "text-gray-400"
+                            }`}
+                          >
+                            {step.label}
+                          </p>
+                          {step.subItems && (
+                            <div className="flex flex-wrap gap-2 mt-1">
+                              {step.subItems.map((item, idx) => (
+                                <span
+                                  key={idx}
+                                  className="text-xs text-green-500 font-mono"
+                                >
+                                  {item}
+                                </span>
+                              ))}
+                            </div>
+                          )}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+
+                  {/* Reading Paper Title Illusion */}
+                  {readingPaperTitle && (
+                    <div className="mt-4 p-3 bg-gray-50 rounded-lg">
+                      <p className="text-xs text-gray-500 mb-1">📖 Reading:</p>
+                      <p className="text-sm text-gray-700 font-medium truncate">
+                        {readingPaperTitle}
+                      </p>
+                    </div>
+                  )}
+                </div>
+              </div>
+            )}
+
+            {/* Content Blueprint Display - Final Output */}
+            {researchPhase === "complete" && contentBlueprint && (
+              <div className="max-w-2xl mx-auto my-6 space-y-6">
+                {/* Header */}
+                <div className="text-center">
+                  <h2 className="text-xl font-bold text-gray-800">
+                    📋 Content Blueprint
+                  </h2>
+                  <p className="text-sm text-gray-500 mt-1">
+                    Kerangka konten berbasis sitasi untuk video Anda
+                  </p>
+                </div>
+
+                {/* Key Insights */}
+                <div className="bg-white border border-gray-100 rounded-2xl p-5 shadow-sm">
+                  <h3 className="text-lg font-semibold text-gray-800 mb-4 flex items-center gap-2">
+                    🧠 Key Insights & Facts
+                  </h3>
+                  <div className="space-y-3">
+                    {contentBlueprint.key_insights.map((insight, idx) => (
+                      <div
+                        key={idx}
+                        className="p-3 bg-blue-50 rounded-lg border-l-4 border-blue-400"
+                      >
+                        <p className="text-sm text-gray-700">
+                          {insight.insight}
+                        </p>
+                        <p className="text-xs text-blue-600 mt-1 font-medium">
+                          📄 {insight.source}
+                        </p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Narrative Structure */}
+                <div className="bg-white border border-gray-100 rounded-2xl p-5 shadow-sm">
+                  <h3 className="text-lg font-semibold text-gray-800 mb-4 flex items-center gap-2">
+                    🎬 Narrative Structure
+                  </h3>
+                  <div className="space-y-4">
+                    <div className="p-4 bg-amber-50 rounded-lg">
+                      <p className="text-xs font-bold text-amber-700 mb-1">
+                        🎣 THE HOOK
+                      </p>
+                      <p className="text-sm text-gray-700">
+                        {contentBlueprint.narrative.hook}
+                      </p>
+                    </div>
+                    <div className="p-4 bg-red-50 rounded-lg">
+                      <p className="text-xs font-bold text-red-700 mb-1">
+                        ❓ THE PROBLEM
+                      </p>
+                      <p className="text-sm text-gray-700">
+                        {contentBlueprint.narrative.problem}
+                      </p>
+                    </div>
+                    <div className="p-4 bg-purple-50 rounded-lg">
+                      <p className="text-xs font-bold text-purple-700 mb-1">
+                        🔬 THE SCIENCE
+                      </p>
+                      <p className="text-sm text-gray-700 whitespace-pre-wrap">
+                        {contentBlueprint.narrative.science}
+                      </p>
+                    </div>
+                    <div className="p-4 bg-green-50 rounded-lg">
+                      <p className="text-xs font-bold text-green-700 mb-1">
+                        💡 THE TAKEAWAY
+                      </p>
+                      <p className="text-sm text-gray-700">
+                        {contentBlueprint.narrative.takeaway}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                {/* References - Use papers state */}
+                <div className="bg-white border border-gray-100 rounded-2xl p-5 shadow-sm">
+                  <h3 className="text-lg font-semibold text-gray-800 mb-4 flex items-center gap-2">
+                    📚 Reference List ({papers.length} papers)
+                  </h3>
+                  <div className="space-y-2">
+                    {papers.slice(0, 10).map((paper, idx) => (
+                      <div
+                        key={paper.paperId || idx}
+                        className="p-2 text-sm border-b border-gray-100 last:border-0"
+                      >
+                        <p className="text-gray-700">
+                          {paper.authors
+                            .map((a) => a.name)
+                            .slice(0, 3)
+                            .join(", ")}
+                          {paper.authors.length > 3 && " et al."} (
+                          {paper.year || "n.d."}). <em>{paper.title}</em>
+                        </p>
+                        {paper.url && (
+                          <a
+                            href={paper.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-xs text-blue-500 hover:underline"
+                          >
+                            🔗 View Paper
+                          </a>
+                        )}
+                      </div>
+                    ))}
+                    {papers.length === 0 && (
+                      <p className="text-gray-400 text-sm">
+                        No references available
+                      </p>
+                    )}
+                  </div>
+                </div>
+
+                {/* Action Buttons */}
+                <div className="flex items-center justify-center gap-3">
+                  {/* Save to Workspace - Primary */}
+                  <button
+                    onClick={handleSaveToWorkspace}
+                    disabled={isSaving || !user}
+                    className="bg-green-600 hover:bg-green-700 disabled:opacity-50 disabled:cursor-not-allowed text-white text-sm font-medium py-2.5 px-6 rounded-lg transition-colors flex items-center gap-2"
+                  >
+                    {isSaving ? (
+                      <>
+                        <div className="w-4 h-4 border-2 border-white border-t-transparent rounded-full animate-spin" />
+                        Menyimpan...
+                      </>
+                    ) : (
+                      <>💾 Simpan ke Workspace</>
+                    )}
+                  </button>
+
+                  {/* Start New Research */}
+                  <button
+                    onClick={() => {
+                      setResearchPhase("chat");
+                      setContentBlueprint(null);
+                      setResearchSteps([
+                        {
+                          id: 1,
+                          label: "Searching papers...",
+                          status: "pending",
+                        },
+                        {
+                          id: 2,
+                          label: "Reading papers...",
+                          status: "pending",
+                        },
+                        {
+                          id: 3,
+                          label: "Analyzing insights...",
+                          status: "pending",
+                        },
+                        {
+                          id: 4,
+                          label: "Drafting content...",
+                          status: "pending",
+                        },
+                      ]);
+                    }}
+                    className="bg-gray-100 hover:bg-gray-200 text-gray-700 text-sm font-medium py-2.5 px-6 rounded-lg transition-colors"
+                  >
+                    🔄 Riset Baru
+                  </button>
                 </div>
               </div>
             )}
@@ -438,15 +936,25 @@ export default function ResearchStep({
         <div className="px-6 pb-6">
           <div className="max-w-2xl mx-auto">
             <div
-              className={`flex items-center gap-3 bg-gray-50 border border-gray-200 rounded-full px-5 py-3 ${
+              className={`flex items-end gap-3 bg-gray-50 border border-gray-200 rounded-3xl px-4 py-3 ${
                 isLoading ? "opacity-60" : ""
               }`}
             >
-              <input
-                type="text"
+              <textarea
                 value={inputValue}
-                onChange={(e) => setInputValue(e.target.value)}
-                onKeyDown={handleKeyDown}
+                onChange={(e) => {
+                  setInputValue(e.target.value);
+                  // Auto-resize textarea
+                  e.target.style.height = "auto";
+                  e.target.style.height =
+                    Math.min(e.target.scrollHeight, 200) + "px";
+                }}
+                onKeyDown={(e) => {
+                  if (e.key === "Enter" && !e.shiftKey) {
+                    e.preventDefault();
+                    handleSend();
+                  }
+                }}
                 disabled={isLoading}
                 placeholder={
                   isLoading
@@ -455,12 +963,14 @@ export default function ResearchStep({
                     ? "Tulis topik yang kamu inginkan..."
                     : "Ketik pesanmu..."
                 }
-                className="flex-1 bg-transparent text-sm text-[#1a1a1a] placeholder-gray-400 focus:outline-none disabled:cursor-not-allowed"
+                rows={1}
+                className="flex-1 bg-transparent text-sm text-[#1a1a1a] placeholder-gray-400 focus:outline-none disabled:cursor-not-allowed resize-none max-h-[200px] leading-relaxed py-1"
+                style={{ minHeight: "24px" }}
               />
               <button
                 onClick={handleSend}
                 disabled={isLoading || !inputValue.trim()}
-                className="w-9 h-9 flex items-center justify-center bg-blue-500 text-white rounded-full hover:bg-blue-600 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+                className="w-9 h-9 flex-shrink-0 flex items-center justify-center bg-blue-500 text-white rounded-full hover:bg-blue-600 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
               >
                 <SendIcon />
               </button>
@@ -468,7 +978,7 @@ export default function ResearchStep({
 
             {/* Disclaimer */}
             <p className="text-center text-xs text-gray-400 mt-3">
-              Farabi dapat membuat kesalahan. Periksa informasi penting.
+              Farabi can make mistakes. Please verify important information.
             </p>
           </div>
         </div>
