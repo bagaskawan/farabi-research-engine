@@ -11,14 +11,14 @@ class ConversationRequest(BaseModel):
 class ResearchOption(BaseModel):
     label: str
     description: str
-    academic_keywords: str
 
 class AIAnalysis(BaseModel):
     clarity_score: float
     reasoning: str
 
 class InterviewResponse(BaseModel):
-    analysis: AIAnalysis
-    next_action: Literal["probe", "propose"]
+    analysis: Optional[AIAnalysis] = None
+    next_action: Literal["probe", "propose", "finalize"]
     reply_message: str
-    options: List[ResearchOption]
+    options: List[ResearchOption] = []
+    final_keywords: Optional[str] = None  # Final keywords for Semantic Scholar search
