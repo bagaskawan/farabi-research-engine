@@ -68,69 +68,6 @@ export default function ProjectSidebar({
   return (
     <aside className="w-80 flex-shrink-0 bg-background">
       <div className="sticky top-12 h-[calc(100vh-48px)] overflow-y-auto p-4">
-        {/* Problem Statement */}
-        <SidebarSection
-          title="Problem Statement"
-          icon={
-            <svg
-              className="w-4 h-4"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
-              />
-            </svg>
-          }
-        >
-          <p className="text-sm text-muted-foreground leading-relaxed">
-            {problemStatement ||
-              "Mencari dan memfilter literatur ilmiah yang relevan dan kredibel merupakan tantangan besar bagi peneliti dan pembelajar sepanjang hayat."}
-          </p>
-        </SidebarSection>
-
-        {/* Key Insights */}
-        <SidebarSection
-          title="Key Insights"
-          icon={
-            <svg
-              className="w-4 h-4"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"
-              />
-            </svg>
-          }
-        >
-          <ul className="space-y-2">
-            {keyInsights.length > 0 ? (
-              keyInsights.slice(0, 5).map((insight, idx) => (
-                <li
-                  key={idx}
-                  className="text-sm text-muted-foreground flex gap-2"
-                >
-                  <span className="text-primary">›</span>
-                  <span>{insight}</span>
-                </li>
-              ))
-            ) : (
-              <li className="text-sm text-muted-foreground italic">
-                No key insights available yet.
-              </li>
-            )}
-          </ul>
-        </SidebarSection>
-
         {/* References */}
         <SidebarSection
           title={`References (${papers.length})`}
@@ -151,7 +88,7 @@ export default function ProjectSidebar({
           }
         >
           <div className="space-y-3">
-            {papers.slice(0, 10).map((paper) => (
+            {papers.map((paper) => (
               <div key={paper.id} className="group">
                 <div className="flex gap-2">
                   <span className="text-primary text-sm">›</span>
@@ -193,39 +130,6 @@ export default function ProjectSidebar({
                 No references yet.
               </p>
             )}
-          </div>
-        </SidebarSection>
-
-        {/* Tech Stack / Tags */}
-        <SidebarSection
-          title="Topics"
-          icon={
-            <svg
-              className="w-4 h-4"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"
-              />
-            </svg>
-          }
-          defaultOpen={false}
-        >
-          <div className="flex flex-wrap gap-2">
-            <span className="px-2 py-1 text-xs font-medium bg-muted text-muted-foreground rounded-md">
-              Research
-            </span>
-            <span className="px-2 py-1 text-xs font-medium bg-muted text-muted-foreground rounded-md">
-              Science
-            </span>
-            <span className="px-2 py-1 text-xs font-medium bg-muted text-muted-foreground rounded-md">
-              Academic
-            </span>
           </div>
         </SidebarSection>
       </div>

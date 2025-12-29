@@ -38,11 +38,19 @@ async def search_papers(request: SearchRequest):
     Search for papers on Semantic Scholar using keywords.
     Returns top papers with abstracts for analysis.
     """
-    headers = {}
+    # IMPORTANT: User-Agent header prevents API blocking
+    headers = {
+        "User-Agent": "Farabi-Research-Engine/1.0 (Academic Research Tool)"
+    }
+    
+    # Add API key if available
     if SEMANTIC_SCHOLAR_KEY:
         headers["x-api-key"] = SEMANTIC_SCHOLAR_KEY
     
     fields = "paperId,title,abstract,authors,year,citationCount,url,openAccessPdf"
+    
+    # Debug logging
+    print(f"🔍 SEARCHING Semantic Scholar: '{request.keywords}'")
     
     try:
         async with httpx.AsyncClient(timeout=30.0) as client:
@@ -56,7 +64,11 @@ async def search_papers(request: SearchRequest):
                 headers=headers
             )
             
+            # Debug: Log response status
+            print(f"📡 API Response Status: {response.status_code}")
+            
             if response.status_code != 200:
+                print(f"❌ API ERROR {response.status_code}: {response.text}")
                 raise HTTPException(
                     status_code=response.status_code,
                     detail=f"Semantic Scholar API error: {response.text}"
@@ -66,8 +78,11 @@ async def search_papers(request: SearchRequest):
             papers = data.get("data", [])
             total = data.get("total", 0)
             
-            # Filter papers with abstracts (we need them for analysis)
-            papers_with_abstract = [
+            # Debug: Log raw results
+            print(f"📊 Raw results: {len(papers)} papers, total available: {total}")
+            
+            # Parse papers (include all papers, not just those with abstracts)
+            parsed_papers = [
                 Paper(
                     paperId=p.get("paperId", ""),
                     title=p.get("title", ""),
@@ -79,15 +94,24 @@ async def search_papers(request: SearchRequest):
                     openAccessPdf=p.get("openAccessPdf")
                 )
                 for p in papers
-                if p.get("abstract")  # Only include papers with abstracts
+                if p.get("title")  # Only require title
             ]
             
+            # Debug: Log results
+            papers_with_abstract = len([p for p in parsed_papers if p.abstract])
+            print(f"✅ FOUND: {len(parsed_papers)} papers ({papers_with_abstract} with abstracts)")
+            
             return SearchResponse(
-                papers=papers_with_abstract,
+                papers=parsed_papers,
                 total=total
             )
             
     except httpx.TimeoutException:
+        print("❌ TIMEOUT: Semantic Scholar API did not respond in time")
         raise HTTPException(status_code=504, detail="Semantic Scholar API timeout")
+    except HTTPException:
+        raise  # Re-raise HTTP exceptions as-is
     except Exception as e:
+        print(f"❌ CRITICAL ERROR in search_papers: {str(e)}")
         raise HTTPException(status_code=500, detail=f"Error searching papers: {str(e)}")
+

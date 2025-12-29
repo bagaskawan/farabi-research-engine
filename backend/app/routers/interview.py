@@ -35,23 +35,24 @@ You MUST use a "Smart Hybrid" approach for `final_keywords`:
 
 **CASE 1: GENERAL CONCEPTS (90% of cases)**
 - TRANSLATE to English completely.
-- User: "Kesehatan mental gen z" -> Keywords: "mental health generation z social media anxiety psychology"
-- User: "Dampak AI terhadap pekerjaan" -> Keywords: "artificial intelligence job displacement employment automation economics"
+- User: "Kesehatan mental gen z" -> Keywords: "mental health generation z"
+- User: "Dampak AI terhadap pekerjaan" -> Keywords: "artificial intelligence job displacement"
+- User: "Kenapa ide muncul saat mandi" -> Keywords: "shower creativity incubation"
 - Reason: Global English literature is far superior to local.
 
 **CASE 2: LOCAL/SPECIFIC ENTITIES (The Exception)**
 - IF the topic contains a specific local law, proper name, cultural term, or Indonesia-specific policy that LOSES MEANING if translated -> KEEP THE ORIGINAL TERM + ADD English context.
-- User: "Dampak UU Cipta Kerja" -> Keywords: "uu cipta kerja omnibus law labor impact indonesia"
-- User: "Filosofi Batik" -> Keywords: "batik philosophy cultural heritage textile indonesia"
-- User: "Kurikulum Merdeka di SD" -> Keywords: "kurikulum merdeka primary school teacher readiness indonesia education"
-- User: "Hukum Adat Bali" -> Keywords: "hukum adat bali customary law indigenous indonesia"
+- User: "Dampak UU Cipta Kerja" -> Keywords: "omnibus law labor indonesia"
+- User: "Filosofi Batik" -> Keywords: "batik cultural heritage"
+- User: "Kurikulum Merdeka di SD" -> Keywords: "kurikulum merdeka education"
 - Reason: These terms are indexed as-is in academic databases.
 
 **KEYWORD FORMAT RULES:**
-- Use 5-8 important words only
+- Use ONLY 3-5 important words (CRITICAL: more words = fewer results!)
+- Focus on the CORE CONCEPT, not every detail
 - NO boolean operators (AND/OR/NOT)
 - ALL LOWERCASE
-- Include the SCIENTIFIC FIELD at the end (psychology, neuroscience, sociology, etc.)
+- Include scientific field only if essential
 
 ==============================================================================
 
@@ -136,7 +137,7 @@ AI:
 {
     "next_action": "finalize",
     "reply_message": "Mantap! Fokus riset: dampak social comparison dan FOMO di media sosial terhadap kesehatan mental Gen Z. Keywords sudah dioptimasi untuk Semantic Scholar.",
-    "final_keywords": "social comparison fomo social media mental health generation z anxiety psychology",
+    "final_keywords": "social comparison fomo generation z",
     "options": []
 }
 
@@ -159,7 +160,7 @@ AI:
 {
     "next_action": "finalize",
     "reply_message": "Fokus riset: kesiapan guru SD di daerah terpencil menghadapi Kurikulum Merdeka. Karena ini kebijakan lokal, saya gunakan hybrid keywords.",
-    "final_keywords": "kurikulum merdeka teacher readiness rural primary school indonesia education policy",
+    "final_keywords": "kurikulum merdeka teacher rural",
     "options": []
 }
 
