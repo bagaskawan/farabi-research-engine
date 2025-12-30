@@ -1,0 +1,120 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: restroom creativity neural mechanisms
+Search Time: 2025-12-30 10:13:47
+Total Available in API: 426
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 34c6a610caaef7fe758e3faf30567b35c2a1e096
+Title: Can rewards enhance creativity? Exploring the effects of real and hypothetical rewards on creative problem solving and neural mechanisms
+Authors: Can Cui, Yuan Yuan, Yingjie Jiang
+Year: 2024
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/34c6a610caaef7fe758e3faf30567b35c2a1e096
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Reward cues have long been considered to enhance creative performance; however, little is known about whether rewards can affect creative problem solving by manipulating states of flexibility and persistence. This study sought to elucidate the differential impacts of real versus hypothetical rewards on the creative process utilizing the Chinese compound remote association task. Behavioral analysis revealed a significantly enhanced solution rate and response times in scenarios involving real rewards, in contrast to those observed with hypothetical rewards. Electrophysiological findings indicated that hypothetical rewards led to more positive P200-600 amplitudes, in stark contrast to the amplitudes observed in the context of real rewards. These findings indicate a positive impact of real rewards on creative remote associations and contribute new insights into the relationship between rewards and creative problem solving, highlighting the crucial role of persistence/flexibility in the formation of creativity.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 6d58a5eed43c5c124940df733cc4c963dbce937f
+Title: Two Sides of the Same Coin? How are Neural Mechanisms of Cognitive Control, Attentional Difficulties and Creativity Related?
+Authors: M. Stolte, E. Kroesbergen, Johannes E H Van Luit, Bob Oranje
+Year: 2024
+Citation Count: 5
+URL: https://www.semanticscholar.org/paper/6d58a5eed43c5c124940df733cc4c963dbce937f
+PDF URL: https://doi.org/10.1016/j.tsc.2024.101533
+
+Abstract: Not available
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 1830ee599bcf6e69fdbd898410fd1fcc4d74bcf0
+Title: Mapping the neural mechanisms of creativity by convergent and divergent thinking in school-aged children: A functional near-infrared spectroscopy study
+Authors: Shumeng Hou, Shan-Feng Chen, Zhihong Huang, Xuejiao Yin, Kexin Zhao, Jun Zou
+Year: 2023
+Citation Count: 6
+URL: https://www.semanticscholar.org/paper/1830ee599bcf6e69fdbd898410fd1fcc4d74bcf0
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: d6f7149219c805e57a18e099d41694b54cd9defa
+Title: EEG Functional Connectivity Reveals Neural Mechanisms of Design Creativity in Engineering Students
+Authors: Morteza Zangeneh Soroush, Yong Zeng
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/d6f7149219c805e57a18e099d41694b54cd9defa
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Design creativity is essential in engineering education, fostering innovation. This study examines its neural mechanisms across four cognitive states—idea generation (IDG), idea evolution (IDE), idea rating (IDR), and rest (RST). We hypothesize that brain dynamics differ across these states and can be analyzed using functional connectivity. EEG signals were recorded in loosely controlled experiments and analyzed via the weighted phase lag index (wPLI). Strength and Betweenness were extracted as graph-based features and evaluated through statistical analyses and classification models. Results showed significant features – Strength features in the left hemisphere (central, parietal, and temporal lobes) acting as key hubs, while Betweenness in the right hemisphere (frontal and central lobes) indicated network information flow. The proposed method achieved high classification accuracy (≥87%), with SVM (~92%) outperforming MLP and KNN. This computationally efficient approach advances neural studies of design creativity, offering insights into cognitive processes and real-world applications such as brain-computer interfaces.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 3e7a26f0956f12d081ca001dd73184716abb0ad5
+Title: Neural mechanisms underpinning the association between visual arts education and creativity.
+Authors: Jing Teng, Xinuo Qiao, Kelong Lu, Tuo Liu, Xinyue Wang, Zhenni Gao, Tingting Yu, Ning Hao
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/3e7a26f0956f12d081ca001dd73184716abb0ad5
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 1bffd08fe36116fc00bec10ead965de592e00693
+Title: Human creativity escapes in the struggle against threat: Evidence from neural mechanisms
+Authors: Jun Yin, Yin-ying Hu, Qing-yang Li, Jun Luo
+Year: 2022
+Citation Count: 5
+URL: https://www.semanticscholar.org/paper/1bffd08fe36116fc00bec10ead965de592e00693
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 760ff8578ef111c852f0e453e566ddfa5c774053
+Title: The neural mechanisms of bilinguals’ creativity: A neuroimaging study
+Authors: Yilong Yang, Yadan Li, Jinyan Gu
+Year: 2025
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/760ff8578ef111c852f0e453e566ddfa5c774053
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: e016e9ae86bd8cff70abd53951cc763d0be15189
+Title: Exploring the Neural Mechanisms of Creativity in Drama Therapy Based on Neuroscience and Cognitive Neuroscience
+Authors: Soyeon Hwang
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/e016e9ae86bd8cff70abd53951cc763d0be15189
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

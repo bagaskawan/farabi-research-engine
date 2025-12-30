@@ -1,0 +1,125 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: water sound creativity cognition
+Search Time: 2025-12-30 11:18:25
+Total Available in API: 275
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: ebafe77b5d1106dbf93d068653a821725f35154c
+Title: Ripple Effect: Communicating Water Quality Data through Sonic Vibrations
+Authors: Dorsey B. Kaufmann, N. Hamidi, Kunal Palawat, Mónica D. Ramírez-Andreotta
+Year: 2021
+Citation Count: 5
+URL: https://www.semanticscholar.org/paper/ebafe77b5d1106dbf93d068653a821725f35154c
+PDF URL: https://dl.acm.org/doi/pdf/10.1145/3450741.3464947
+
+Abstract:
+Pollution in real time can be incredibly powerful, but is difficult to communicate. Persistent deterioration of land, air, and water are largely invisible to the eye and camera lens. What if water itself could visualize its quality and perform the level of contamination? Ripple Effect is an environmental art installation that reveals water contamination through sonic vibrations and light. Using software technology, water contamination levels are translated into sound waves. The installation consists of speakers that play ‘data sound tracks’, which vibrate water held in attached trays. Participants see and hear the water vibrate based on contaminant concentrations. This paper describes the concept, data-to-sound process, implementation, and participant evaluation surrounding the installation of Ripple Effect in communities neighboring resource extraction and other industrial activity. While there are many existing artworks that visualize environmental quality, Ripple Effect is novel in its use of local water quality data and interactive technology that allows the primary medium, water, to communicate directly with the participant.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: da681da06f81b0fb0f57acad48873c8939d90ab4
+Title: Virtual Universals and Creativity: A New Approach to Music Cognition
+Authors: Gavin Steingo, A. Ghazanfar
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/da681da06f81b0fb0f57acad48873c8939d90ab4
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+If music is so varied, how do we understand it? Is there anything universal about it? And if not, can there be a cognitive science of it? Radically limiting examples so they fit certain frameworks but then calling everything else an exception is not helpful. We propose a redefinition of music that is based not on specific features but rather as creative experimentation with what we term “virtual universals.” These are universals that exert force even when they are not actualized or sounded. Our argument has applicability beyond the domain of music; in principle, the ideas in this paper could be applied to any domain of human behavior.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 02c4cafb8bc82296bf5a4e76387023ee1ef2e6e6
+Title: The Role of Sounds and Music in Emotion and Cognition
+Authors: L. Piccardi, Massimiliano Palmiero, R. Nori
+Year: 2024
+Citation Count: 5
+URL: https://www.semanticscholar.org/paper/02c4cafb8bc82296bf5a4e76387023ee1ef2e6e6
+PDF URL: https://www.mdpi.com/2076-3425/14/3/192/pdf?version=1708483323
+
+Abstract:
+It is widely agreed upon that both natural and man-made sounds, including music, profoundly impact our emotions and cognitive abilities, such as our attention, memory, problem-solving, decision-making, and creativity [...].
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 7c5155c2424c4245255811ecbc0c3a12bc8862ca
+Title: Plant Cognition: Ability to Perceive ‘Touch’ and ‘Sound’
+Authors: R. C. Mishra, Hanhong Bae
+Year: 2019
+Citation Count: 16
+URL: https://www.semanticscholar.org/paper/7c5155c2424c4245255811ecbc0c3a12bc8862ca
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: b1bd6757cb3fa25aef3a831e214089d8b77e9184
+Title: 'zones of flow (iv)': horizontal immersion & interaction with water indoors
+Authors: Rocio von Jungenfeld
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/b1bd6757cb3fa25aef3a831e214089d8b77e9184
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+‘zones of flow (iv)’ is an interactive immersive audiovisual installation designed to be experienced horizontally, while people are sandwiched between flows: a projection featuring water surfaces and reflections (above), a fully functioning waterbed (below), and stereo sounds (around). Visitors are invited to lie down on the waterbed and use their bodies and hand gestures to self-regulate the flows of moving images playing above them, and the surrounding sounds. The media presented in the installation brings snippets of the landscape indoors through field recordings and moving images featuring water and flows. With their bodies, people move the water that gently enwraps them underneath, and with their hands (through pressure and proximity sensing) they control and self-regulate their audiovisual experience (see https://vimeo.com/844939019, 2:54min video documentation).
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 8843131abb6242592825faf23163594d570c8a0e
+Title: Categorization of sound events for automatic sound event classification
+Authors: Benjamin Elizalde
+Year: 2023
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/8843131abb6242592825faf23163594d570c8a0e
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+To train Machine Listening models that classify sounds we need to define recognizable names, attributes, relations, and interactions that produce acoustic phenomena. In this talk, we will review examples of different types of categorizations and how they drive Machine Listening. Categorization of sounds guides the annotation processes of audio datasets and the design of models, but at the same time can limit performance and quality of expression of acoustic phenomena. Examples of categories can be simply named after the sound source or inspired by Cognition (e.g., taxonomies), Psychoacoustics (e.g., adjectives), and Psychomechanics (e.g., materials). These types of classes are often defined by one or two words. Moreover, to acoustically identify sound events we may require instead a sentence providing a description. For example, “malfunctioning escalator” versus “a repeated low-frequency scraping and rubber band snapping.” In any case, we still have limited lexicalized terms in language to describe acoustic phenomena. Language determines a listener's perception and expressiveness of a perceived phenomenon. For example, the sound of water is one of the most distinguishable sounds, but how to describe it without using the word water? Despite limitations in language to describe acoustic phenomena, we should still be able to automatically recognize acoustic content in an audio signal at least as well as humans do.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 943771320b641a5455b62912018cd862aac4f130
+Title: ¡EUREKA! DESIGN OF FLOATING LUMINARIES ON WATER: A LEARNING CHALLENGE IN ENGINEERING
+Authors: Luis Fernando Patino Santa, Juan Felipe Isaza Saldarriaga
+Year: 2023
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/943771320b641a5455b62912018cd862aac4f130
+PDF URL: https://www.designsociety.org/download-publication/46730/%C2%A1EUREKA%21+DESIGN+OF+FLOATING+LUMINARIES+ON+WATER%3A+A+LEARNING+CHALLENGE+IN+ENGINEERING
+
+Abstract:
+The learning space in the 21 st Century cannot be limited to a closed space like the classroom. It is important to push the limits of creativity and innovation in the mind of the apprentice. Mixing dissimilar topics, awakening intrinsic motivation, and following a design methodology are the keys to achieve efficient learning. Challenge based learning is an integrative pedagogical approach that combines experience, cognition and behaviour. This approach takes advantage of students' interest in finding practical meaning to education, while developing key skills competencies in a world mediated by rapid technological advance and sustainability. In this paper, a pedagogical strategy is exposed to impact first-year students in the application of a design methodology and the development of competencies in graphic expression, manufacturing, critical thinking. These skills were obtained from the challenge of designing, materializing, and testing a floating luminaire that works from solar energy. These prototypes were manufactured with sustainable materials and processes, considering as an aesthetic/formal referent the work of Ernst Haeckel and as a physical principle, Archimedes' law to achieve buoyancy and stability on the water. The outcome of this learning experience was 56 luminaries that enlightened and floated over the water mirror of the cultural centre of the EAFIT University, the library Luis Echavarría Villegas.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 0bb068ac38554462aef6c7116fdb5690cf7509d6
+Title: Detection of Water Flow by Japanese Eel (Anguilla japonica): Behavioral and Pharmacological Analyses
+Authors: Shigeru Watanabe
+Year: 2023
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/0bb068ac38554462aef6c7116fdb5690cf7509d6
+PDF URL: https://doi.org/10.26451/abc.10.02.03.2023
+
+Abstract:
+Eels migrate long distances and their spatial learning ability based on extra-maze visual cues has been examined in the laboratory. Here, I examine the discriminative properties of water flow in their spatial cognition. Individuals of the Japanese eel (Anguilla japonica) were trained in a circular pool containing four pipes. One pipe was open where the eels could enter, and the other pipes were closed. A small motor-driven water screw was placed beside each pipe. The water screw close to the open pipe was active to allow water flow, whereas the other screws were inactive. The position of the open pipe with the active screw was randomly changed, and the eels could learn the position of the open pipe after approximately 15 trials. Overall, five tests were conducted. Test 1: A generalization test showed a generalization gradient along the distance from the open pipe and the active screw. Test 2: A test using a screw with no blades (i.e., no water flow but possible vibration or sound by a motor is present) resulted in chance level performance, suggesting that the eels needed water flow to find the open pipe. Test 3: A test with a water pump that produced water flow by a mechanism different from that of the original motor-driven screw showed that the eels maintained the detection of water flow under this condition. Test 4: The eels also located the open pipe in a dark room test; therefore, visual cues were not used for the detection of the open pipe. To confirm that the water flow was detected by the lateral organ, streptomycin sulfate was dissolved in a home tank to impair the hair cells in the lateral line organ in Test 5, and the eels were not able to detect the open pipe under these conditions. This observation suggests that the detection of water flow depends on the lateral-line organ. In summary, the data show that eels can detect water flow to find hiding locations.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

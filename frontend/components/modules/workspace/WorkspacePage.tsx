@@ -105,7 +105,11 @@ export default function WorkspacePage({
     <div className="min-h-screen bg-background">
       <BlokHeader />
       <div className="max-w-screen-2xl h-full mx-auto px-4 sm:px-6 lg:px-6 mt-12">
-        <WorkspaceHeader isSaving={isSaving} />
+        <WorkspaceHeader
+          isSaving={isSaving}
+          projectId={projectId}
+          projectTitle={project?.title || "Untitled"}
+        />
         <div className="grid grid-cols-1 lg:grid-cols-12 lg:gap-8 mt-8">
           {/* Left: Canvas/Editor Area */}
           <WorkspaceCanvas

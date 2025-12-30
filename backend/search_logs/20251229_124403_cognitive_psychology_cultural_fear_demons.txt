@@ -1,0 +1,226 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: cognitive psychology cultural fear demons
+Search Time: 2025-12-29 12:44:03
+Total Available in API: 229
+Papers Retrieved: 15
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 072a486ed339328b323aa27c168f600e4f3fe4ea
+Title: A comparative analysis of legal versus cultural and psychological connotations of the term ‘guilt’: implications for cognitive linguistics and for legal sciences
+Authors: Katarzyna Strębska-Liszewska
+Year: 2023
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/072a486ed339328b323aa27c168f600e4f3fe4ea
+PDF URL: http://journals.pan.pl/Content/116428/PDF/2020-01-LINS-07-Strebska.pdf
+
+Abstract:
+The present article is concerned with the notion of ‘guilt’ as understood by the legal sciences and in the context of psychology and culture studies. Although legal connotations are unavoidable, ‘guilt’ is a term emotionally related to other feelings like ‘shame’, ‘fear’, ‘sadness’ etc. The analysis shall take a closer look at legal definitions of ‘guilt’ and ‘culpability’ at work in the American, Polish and German legal systems and refer the equivalents existing in these languages ( wina,Schuld ) to the concept of guilt understood as an emotion. As it turns out, legal definitions do not account for conceptual dimension of meaning and as such, they can only serve as departure points for further analysis to be complemented with cognitive analysis. ‘Guilt’ is a culturally determined and complex emotion that may be ‘dissected’ into several more basic emotional states. The underlying assumption is that there are differences in the understanding of the concept ‘guilt’ across languages which must be taken into account by the translators who deal with translational equivalents.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 0bd4bd00f9f2ce8301dde3fd042631ba96ac7bcf
+Title: The psychology of guns: risk, fear, and motivated reasoning
+Authors: J. Pierre
+Year: 2019
+Citation Count: 37
+URL: https://www.semanticscholar.org/paper/0bd4bd00f9f2ce8301dde3fd042631ba96ac7bcf
+PDF URL: https://www.nature.com/articles/s41599-019-0373-z.pdf
+
+Abstract:
+The gun debate in America is often framed as a stand-off between two immutable positions with little potential to move ahead with meaningful legislative reform. Attempts to resolve this impasse have been thwarted by thinking about gun ownership attitudes as based on rational choice economics instead of considering the broader socio-cultural meanings of guns. In this essay, an additional psychological perspective is offered that highlights how concerns about victimization and mass shootings within a shared culture of fear can drive cognitive bias and motivated reasoning on both sides of the gun debate. Despite common fears, differences in attitudes and feelings about guns themselves manifest in variable degrees of support for or opposition to gun control legislation that are often exaggerated within caricatured depictions of polarization. A psychological perspective suggests that consensus on gun legislation reform can be achieved through understanding differences and diversity on both sides of the debate, working within a common middle ground, and more research to resolve ambiguities about how best to minimize fear while maximizing personal and public safety.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: fd98b29826bed075b0cab0d02b456dac797be245
+Title: Supernatural Attributions: Seeing God, the Devil, Demons, Spirits, Fate, and Karma as Causes of Events.
+Authors: Julie J. Exline, J. Wilt
+Year: 2022
+Citation Count: 35
+URL: https://www.semanticscholar.org/paper/fd98b29826bed075b0cab0d02b456dac797be245
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+For many people worldwide, supernatural beliefs and attributions-those focused on God, the devil, demons, spirits, an afterlife, karma, or fate-are part of everyday life. Although not widely studied in clinical psychology, these beliefs and attributions are a key part of human diversity. This article provides a broad overview of research on supernatural beliefs and attributions with special attention to their psychological relevance: They can serve as coping resources, sources of distress, psychopathology signals, moral guides, and decision-making tools. Although supernatural attributions sometimes involve dramatic experiences seen to violate natural laws, people more commonly think of supernatural entities working indirectly through natural events. A whole host of factors can lead people to make supernatural attributions, including contextual factors, specific beliefs, psychopathology, cognitive styles and personality, and social and cultural influences. Our aim is to provide clinical psychologists with an entry point into this rich, fascinating, and often overlooked literature. Expected final online publication date for the Annual Review of Clinical Psychology, Volume 19 is May 2023. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 36a403f1daf1c195a723c3a40b2a526ebcfe9dbc
+Title: Longitudinal Studies of Child Fear and Anxiety Based on Freudian Theory
+Authors: Tamader Al-Thani
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/36a403f1daf1c195a723c3a40b2a526ebcfe9dbc
+PDF URL: https://doi.org/10.5539/jedp.v15n1p17
+
+Abstract:
+Childhood fears, encompassing particular phobias and generalized anxieties, significantly influence psychological development. Although numerous fears are ephemeral, certain ones endure, profoundly affecting emotional health, conduct, and social interactions. This study utilizes a systematic literature review to analyze the evolution of childhood fears through the perspectives of Freudian psychoanalysis, attachment theory, cognitive-developmental frameworks, and evolutionary psychology. This study assesses the impact of parental influence, environmental conditioning, media exposure, and cultural narratives on fear responses by integrating historical and contemporary research. 
+ 
+Freud's distinction between automatic and signal anxiety establishes a basis for comprehending fear as both an adaptive survival mechanism and a psychological encumbrance. Contemporary research amalgamates these insights with empirical investigations into neurobiological fear processing, social learning, and cognitive-behavioral interventions. This review evaluates the efficacy of evidence-based therapies, such as cognitive-behavioral therapy (CBT), systematic desensitization, and mindfulness-based interventions, in alleviating childhood anxieties. 
+ 
+This study enhances comprehension of the acquisition, regulation, and treatment of fear by synthesizing classical psychoanalytic theories with modern psychological research. It emphasizes the need for developmentally suitable, culturally attuned interventions that bolster emotional resilience and foster enduring mental health.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 578ea31a87bd6b356bb650764fe48d5f0a0f115e
+Title: Fear of Happiness: Description, Causes and Prevention
+Authors: İmran Elmas, Özlem Çevi̇k
+Year: 2023
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/578ea31a87bd6b356bb650764fe48d5f0a0f115e
+PDF URL: https://dergipark.org.tr/en/download/article-file/3358271
+
+Abstract:
+Studies in mental health is to increase the positive emotions of the person and to reduce the negative emotions, beliefs and thoughts. Especially after positive psychology, many studies have been carried out to ensure that individuals have positive emotions. However, in recent studies, it has been determined that individuals avoid not only negative emotions but also positive emotions. Thus, you suppress your positive emotions because of fear of happiness. The individual's beliefs and cultural values also affect mental health. The person is afraid of being happy because of these beliefs and cultural values. Fear of happiness is the avoidance of happines. When people believe thet unhappiness will come immediately after happiness or that the environment will be harmed after being happy, fear of happiness occurs. Fear of happiness harms both the mental health and social relations. Morever, fear of happiness is associated with alexithymia, anxiety, stress, fear of compassion, antisocial, cognitive distortions related to relationships, panic disorder and especially depression. It is extremely important to know and define the fear of happiness for an effective treatment interventions. Fear of happiness rests in maladaptive schemas in early life, not meeting their needs warmly and sincerely in childhood, punishing them when they experience positive emotions, and growing up in a family with unhealthy family patterns. In this study, it is aimed to define fear of happiness, to determine the protective and risk factors, to determine the causative factors, to explain the related concepts, and so to raise awareness about fear of happiness.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: a416207e580b9695370ba0cef0c7702a1e9d9601
+Title: From Freud to Film: The Uncanny Psychology of Zombies in Popular Culture
+Authors: Mathilde Langis
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/a416207e580b9695370ba0cef0c7702a1e9d9601
+PDF URL: https://www.asfa.ca/s/12_freud.pdf
+
+Abstract:
+This paper employs a multidisciplinary framework, integrating psychodynamic theory, film studies, and cultural analysis to explore the unsettling nature of zombies and the transitional space between life and death they occupy. It connects this unease to the uncanny valley theory, where entities that resemble humans but lack intrinsic features can provoke feelings of unease. Furthermore, the paper examines cognitive dissonance, particularly in the context of the familiar and unfamiliar, the living and the dead, and the human and the monster within the zombie narrative. It also explores how many characters within zombie stories grapple with cognitive dissonance through identification and disidentification with the zombie; to cling to the human version of the zombified creature, or to dissociate the then-human from the now-monster. Ultimately, this paper unveils the intricate psychology behind the fear of zombies, highlighting the creatures as reflections of our anxieties about «the other» and as unsettling mirrors of ourselves.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 858917c57d8a9e5e7d90299e68cc9f81495b5713
+Title: The psychology of guns: risk, fear, and motivated reasoning
+Authors: J. Pierre
+Year: 2019
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/858917c57d8a9e5e7d90299e68cc9f81495b5713
+PDF URL: https://www.nature.com/articles/s41599-019-0373-z.pdf
+
+Abstract:
+The gun debate in America is often framed as a stand-off between two immutable positions with little potential to move ahead with meaningful legislative reform. Attempts to resolve this impasse have been thwarted by thinking about gun ownership attitudes as based on rational choice economics instead of considering the broader socio-cultural meanings of guns. In this essay, an additional psychological perspective is offered that highlights how concerns about victimization and mass shootings within a shared culture of fear can drive cognitive bias and motivated reasoning on both sides of the gun debate. Despite common fears, differences in attitudes and feelings about guns themselves manifest in variable degrees of support for or opposition to gun control legislation that are often exaggerated within caricatured depictions of polarization. A psychological perspective suggests that consensus on gun legislation reform can be achieved through understanding differences and diversity on both sides of the debate, working within a common middle ground, and more research to resolve ambiguities about how best to minimize fear while maximizing personal and public safety.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: a3f4e355d09dcb1e14330a75ea5814258a5ca7a3
+Title: Adapting cognitive behavioural therapy for depression in later life for Irish Travellers: a case example and considerations for practice
+Authors: Joanna Mitchell, Chris Allen
+Year: 2023
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/a3f4e355d09dcb1e14330a75ea5814258a5ca7a3
+PDF URL: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/88945A0843C7D88A34F2E6C27C28D875/S1754470X23000314a.pdf/div-class-title-adapting-cognitive-behavioural-therapy-for-depression-in-later-life-for-irish-travellers-a-case-example-and-considerations-for-practice-div.pdf
+
+Abstract:
+Abstract Gypsies and Travellers are at significantly increased risk of poor physical and mental health compared with the general population. Barriers to accessing mental health services include fear of stigma and discrimination from services, difficulties with signing up to services due to poor educational levels, and the taboo nature of mental health difficulties within the community. To the authors’ knowledge, no research has identified best practice for adapting psychological therapy to meet the needs of this community. This paper presents the case of John (pseudonym), an 80-year-old Irish Traveller, whose respiratory team referred him for psychological intervention for depression and anxiety symptoms. The psychology service was embedded within the respiratory team which enabled easy access to therapy services via an already trusted service. He received 10 sessions of cognitive behavioural therapy for depression, adapted to his age, physical health, and cultural background. His low mood was maintained by withdrawal from activities, rumination of losses, lack of confidence and avoidance of help-seeking. Treatment consisted of culturally adapted psychoeducation, behavioural activation, cognitive restructuring, and behavioural experiments to increase his activity, mood and confidence. The Patient Health Questionnaire and Generalised Anxiety Disorder Scale demonstrated improvements in both depressive and anxious symptoms at the end of therapy. The paper presents an overview of relevant literature before describing John’s case, formulation, culturally adapted intervention techniques and outcomes. Considerations to support best practice for clinicians working with Irish Travellers are made. Key learning aims (1) Integrating psychological services into physical health services has the potential to improve access to psychological support for minority groups facing multi-morbidity, such as Irish Travellers. This approach offers a less stigmatised route for individuals to receive help and involves fewer administrative processes, which may pose challenges for those with varying levels of literacy ability. (2) This case example presents initial evidence that short-term transdiagnostic cognitive behavioural therapy can be an effective intervention for reducing depression and anxiety symptoms in older people from an Irish Traveller background. (3) Successful outcomes in this case example hinged on: (a) A comprehensive formulation that considered the client’s full identity (e.g. cultural identity, intergenerational connections, cohort beliefs, physical health needs) in addition to their presenting problem. (b) Adapting the intervention to accommodate for culturally relevant aspects of the individual’s presentation. This involved modifying homework to reduce the literacy requirements, involving a trusted family member as a co-therapist, and integrating culturally relevant language into the therapy. (4) This case report underscores the scarcity of rigorous research involving Irish Traveller populations and emphasises the need for further exploration of their experiences of mental health difficulties and engagement with mental health services. Further research should actively involve Irish Travellers to identify unmet needs and explore potential adaptations for therapeutic interventions. This would help to ensure accurate representation and prevent the homogenisation of this diverse group of individuals.
+
+============================================================
+PAPER #9
+============================================================
+Paper ID: 99e221ca9f3d2bf299ab0ecc86df62b5daec810b
+Title: Emotional Appeal as a Determinant of Effectiveness in English Advertising Texts: A Linguistic and Cognitive Analysis
+Authors: Abboskhuja Sattorov
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/99e221ca9f3d2bf299ab0ecc86df62b5daec810b
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This study examines the role of emotional appeal in determining the effectiveness of English advertising texts, focusing on its impact on consumer engagement and decision-making. A multidisciplinary framework incorporating linguistic, cognitive, and socio-cultural perspectives, the research seeks to uncover the mechanisms through which emotional appeals influence the perception of brand messages. A diverse corpus of advertising texts from the fashion, technology, and healthcare industries were analyzed using content analysis and discourse analysis techniques. The study focuses on linguistic devices, including metaphor, hyperbole, rhetorical questions, and emotional triggers like joy, fear, nostalgia, and aspiration. The findings reveal that emotional appeal functions as a stylistic element and a cognitive and cultural tool that enhances brand recall, loyalty, and consumer engagement. Specifically, advertisements utilizing positive emotional triggers, such as humor and joy, resonate more deeply with audiences. In contrast, negative appeals, such as fear and guilt, are more effective in prompting immediate consumer action. The study highlights the importance of aligning emotional content with linguistic precision to optimize the persuasive impact of advertising texts. These results offer valuable insights for advertisers and contribute to the fields of advertising linguistics, consumer psychology, and persuasive communication, providing practical recommendations for developing more effective, targeted advertising strategies.
+
+============================================================
+PAPER #10
+============================================================
+Paper ID: 14b61d13494ac96ee0adb284d6bb0f9f11a06ff9
+Title: Fear, Peer Pressure, or Encouragement: Identifying Levers for Nudging Towards Healthier Food Choices in Multi-Cultural Singapore
+Authors: Kum-Seong Wan, B. Choo, Kwok-Fong Chan, J. Yeo, Clarene Tan, B. Quek, Samuel Ken-En Gan
+Year: 2021
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/14b61d13494ac96ee0adb284d6bb0f9f11a06ff9
+PDF URL: https://doi.org/10.20944/preprints202111.0551.v1
+
+Abstract:
+With roots beyond behavioural economics to psychology, nudges can be applied for influencing healthy behaviours such as food choice and portions to decrease obesity for better public health outcomes. However, the effectiveness of the type of nudges are contentious with conflicting literature. In this pilot study, we conducted a 23-day study surveying the food choices that included portion, locus of control, demographic data, and psychological measures of personality, perceived stress, narcissism, regulatory focus, food choice motive and dietary restraint, with the participants given four intervention conditions of 12 instant messaging sent every two days through WhatsApp. The messages were either factual (control), focused on consequences, through social comparison, or persuasive. Running over the COVID19 pandemic, 17 participants completed the full surveys showing significant effects between the experimental conditions with the psychological parameters except for diet confidence and extraversion and conscientiousness, as well as cognitive restraint. We found BMI and waistline measurements to be suitable measurements, with promising results from the fear and social comparison nudges for food-related behaviours and exercise. Our pilot findings have implications to the use of nudges upon which future studies investigating psychological factors can build on.
+
+============================================================
+PAPER #11
+============================================================
+Paper ID: dd2772d3ddbebed6c296a968362564f368c30d0a
+Title: Anger, Fear, Joy on the Medieval Battlefield: Their Linguistic Expression
+Authors: Mariyana Tsibranska-Kostova
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/dd2772d3ddbebed6c296a968362564f368c30d0a
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This paper aims to explore linguistic and cultural information about three fundamental emotions, as represented in a specific source, the Miracles of St Demetrios of Thessalonica by John Staurakios, a Byzantine author active in the latter half of the 13th century, examined in its 14th – 15th century Slavonic translation. The study analyses the ways in which the vocabulary of emotion operates within the structure of the miracle narratives and contributes to their message. The analysis focuses on six miracle accounts related to the sieges of Thessalonica by both barbarian and hostile Christian armies. It is argued that these narratives construct a standardised set of emotional responses and typical situations characterised by recurring emotional patterns corresponding to what contemporary theory refers to as cognitive schemata or prototypes. Emotional experiences are interpreted through a biblical code of good and evil, with fear, anger and joy expressed as collective states, articulated through a stable lexicon of words, phrases and symbols. The paper highlights the syncretic nature of the medieval text and its divergence from modern, individualistic conceptions of psychology. Finally, conclusions are drawn regarding the translatability of these emotional concepts and the interpretive choices made by the anonymous Slavic translator.
+
+============================================================
+PAPER #12
+============================================================
+Paper ID: e24ab1a6bdad966a304850055c0ff2ec8c514865
+Title: The Psychology of Polarization and Misinformation: A Comprehensive Literature Review
+Authors: Manish Kumar
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/e24ab1a6bdad966a304850055c0ff2ec8c514865
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+In an increasingly interconnected digital era, two interwoven phenomena have come to dominate public discourse: societal polarization and the rampant dissemination of misinformation. These forces threaten the integrity of democratic institutions, public health, and collective decision-making. This literature review synthesizes contemporary psychological research to unravel the intricate cognitive, emotional, and social mechanisms driving these phenomena. Drawing upon high-impact journals such as Nature, Science, PNAS, Psychological Science, and Nature Human Behaviour, it examines how cognitive biases—including confirmation bias, motivated reasoning, and the illusory truth effect—distort individual engagement with information and reinforce entrenched beliefs. Emotional triggers such as anger and fear accelerate the spread of misinformation and deepen societal divides. Group identities and social dynamics further entrench ideological segregation, exacerbated by the design of digital platforms. Interventions like prebunking, media literacy, and behavioural nudges offer promise, yet significant gaps remain, especially in addressing AI-generated content and enhancing cultural inclusivity. The review concludes with a call for interdisciplinary collaboration to develop informed, resilient responses to these pressing issues.
+
+============================================================
+PAPER #13
+============================================================
+Paper ID: b36ca92a09737cc49ca93992ea8d76325cb69f73
+Title: Behavioral Psychology in Financial and Legal Resource Engagement: Insights for Designing Effective Policy and Programs
+Authors: Bamidele Michael Omowole, Hope Ehieghe Omokhoa, Ibidapo Abiodun Ogundeji, Godwin Ozoemenam Achumie
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/b36ca92a09737cc49ca93992ea8d76325cb69f73
+PDF URL: https://doi.org/10.47191/etj/v10i02.21
+
+Abstract:
+Behavioral psychology offers valuable insights into addressing the persistent barriers that limit engagement with financial and legal resources, especially among low-income and underserved populations. This review examines how understanding decision-making behaviors and psychosocial factors can guide the design of effective programs and policies that promote access to these critical tools. Despite the transformative potential of financial and legal resources in reducing socioeconomic disparities, challenges such as cognitive biases, emotional barriers, and systemic complexities often prevent individuals from utilizing these resources effectively. Drawing from behavioral frameworks such as nudge theory, social proof, and simplification, this publication proposes strategies to overcome these barriers. It highlights the importance of creating culturally sensitive and accessible programs that address emotional and cognitive obstacles, such as fear, anxiety, and mistrust of institutions. By leveraging technology, such as mobile applications and digital platforms, programs can scale to reach broader audiences while offering personalized interventions based on behavioral data. The review also underscores the role of supportive policy measures in fostering engagement, including simplified financial and legal communication, incentivized participation in literacy programs, and the establishment of community resource centers. Case studies from international and local contexts provide evidence of successful interventions, showcasing the potential of behavioral-centric approaches to improve access and outcomes. Ultimately, this review advocates for integrating behavioral psychology into program and policy design as a means to empower underserved populations, enhance resource engagement, and reduce systemic inequities. By aligning these insights with grassroots initiatives and scalable technologies, stakeholders can develop impactful solutions that promote long-term economic and social resilience.
+
+============================================================
+PAPER #14
+============================================================
+Paper ID: f56c4a80aa75dbc974bd3d64cac1b9f1385434ec
+Title: Cognitive psychology meets art: exploring creativity, language, and emotion through live musical improvisation in film and theatre
+Authors: M. López-González
+Year: 2015
+Citation Count: 11
+URL: https://www.semanticscholar.org/paper/f56c4a80aa75dbc974bd3d64cac1b9f1385434ec
+PDF URL: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9394/939403/Cognitive-psychology-meets-art--exploring-creativity-language-and-emotion/10.1117/12.2083880.pdf
+
+Abstract: Not available
+
+============================================================
+PAPER #15
+============================================================
+Paper ID: 3f1fe14e480759e7b3eb7d7f8995e2e1f3f45c46
+Title: What Can Psychology Offer in Cross-Cultural Dialogue: A Psychological Approach to Intercultural Competence
+Authors: M. Farnicka, Margarida Pocinho
+Year: 2018
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/3f1fe14e480759e7b3eb7d7f8995e2e1f3f45c46
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

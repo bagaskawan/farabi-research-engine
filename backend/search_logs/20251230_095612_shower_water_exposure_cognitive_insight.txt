@@ -1,0 +1,141 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: shower water exposure cognitive insight
+Search Time: 2025-12-30 09:56:12
+Total Available in API: 90
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 17cfc9eb0a105ce351677be80b8ce8a65c8d27dd
+Title: Evaluation of the cognitive, physiological, and biomarker effects of heavy metal exposure in Wistar rats
+Authors: Senna Mukhi, P. Manjrekar, R. M. Srikantiah, S. Harish, H. Kotian, Y. Rao, Anita Sherly
+Year: 2024
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/17cfc9eb0a105ce351677be80b8ce8a65c8d27dd
+PDF URL: https://doi.org/10.14202/vetworld.2024.1855-1863
+
+Abstract:
+Background and Aim: Individuals exposed to heavy metals are known to experience physiological and biochemical changes, which raise questions regarding possible health effects. In our earlier research, significant concentrations of vanadium (V), mercury (Hg), cadmium (Cd), and arsenic (As) were found in food and medical packaging materials. This study aimed to evaluate the cognitive, physiological, and biomarker effects of select heavy metal exposure in Wistar rats. Materials and Methods: Over a 13-week period, five groups of rats (six rats per group, with both males and females) were assessed to study the effects of oral exposure to V, Hg, Cd, and As. The study focused on evaluating physiological, cognitive, and biochemical markers, with the results compared to those of a control group. Results: Comparing all groups of rats treated with heavy metals, the study revealed significant deficits in learning and spatial orientation (water maze test); rats treated with V, Cd, and Hg showed signs of depression. Rats treated with As also showed signs of hyperactivity, which may indicate a connection to attention-deficit hyperactivity disorder (rat tail suspension test). The groups exposed to different heavy metals varied in their physiological (water and food intake, urine and feces output) and biochemical responses (enzyme-linked immunosorbent assay, prostate-specific antigen, T3, T4, thyroid-stimulating hormone, carcinoembryonic antigen, and blood glucose analysis), with Hg exhibiting the strongest impacts. Rats given Hg showed signs of hypothyroidism, such as increased food intake and weight gain. Conclusion: This study clarifies the complex relationships between exposure to heavy metals and various biological systems, shedding light on their potential health impacts. The findings provide insight into the effects of heavy metals on neural and thyroid tissues, as well as their propensity to cause cellular dedifferentiation. However, the study has certain limitations, such as the relatively short duration of exposure and the use of only a few selected biomarkers. Future research should focus on long-term exposure studies, incorporate a broader range of biomarkers, and explore the underlying mechanisms at a molecular level to better understand the full spectrum of health risks associated with heavy metal exposure.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 17b29c50feeed12201b57fdc7af28e728a7062f1
+Title: Gas-Permeable Contact Lenses and Water Exposure: Practices and Perceptions
+Authors: Kelsy R Steele, H. Wagner, Nicky Lai, Aaron B. Zimmerman
+Year: 2021
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/17b29c50feeed12201b57fdc7af28e728a7062f1
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+SIGNIFICANCE This study provides insight into the current recommendations, clinical behaviors, and risk assessments of eye care professionals on the topic of rigid contact lens exposure to tap water. This knowledge may motivate professional organizations to develop initiatives to educate eye care professionals on the dangers of contact lens exposure to water. PURPOSE The purpose of this study was to investigate the practice patterns and risk perceptions of eye care professionals regarding gas-permeable contact lens exposure to tap water. METHODS A branched-logic survey was started by 320 clinicians, vision scientists, and industry personnel and was fully completed by 272 participants. The survey queried participants about their current practices, recommendations, and perceptions of risk regarding exposure of gas-permeable contact lenses to tap water. RESULTS Of those who prescribe gas-permeable contact lenses, 57.4% reported rinsing lenses with tap water, whereas only 32.7% reported engaging in this same behavior in front of patients. Of those who reported never rinsing lenses with tap water, 85.6% indicated that rinsing lenses with water increases infection risk, whereas 52.1% of those who rinse lenses with water reported the same perceived risk (P < .001). Of all participants, 60% indicated that wearing contact lenses while showering increases infection risk, and 50.2% of all participants advised patients to avoid this behavior. CONCLUSIONS A discrepancy exists between perceptions of risk concerning exposure of contact lenses to water and both clinical practices and patient education provided by professionals.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 9029a6b4bb913ef528328b72dbc079d515a40c02
+Title: NTP monograph on the state of the science concerning fluoride exposure and neurodevelopment and cognition: a systematic review.
+Authors: N/A
+Year: 2024
+Citation Count: 23
+URL: https://www.semanticscholar.org/paper/9029a6b4bb913ef528328b72dbc079d515a40c02
+PDF URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11586815
+
+Abstract:
+BACKGROUND
+Fluoride is a common exposure in our environment that comes from a variety of sources and is widely promoted for its dental and overall oral health benefits. Contributions to an individual's total exposure come primarily from fluoride in drinking water, food, beverages and dental products. A 2006 evaluation by the National Research Council (NRC) found support for an association between consumption of high levels of naturally occurring fluoride in drinking water and adverse neurological effects in humans and recommended further investigation. The evidence reviewed at that time was from dental and skeletal fluorosis-endemic regions of China. Since the NRC evaluation, the number and location of studies examining cognitive and neurobehavioral effects of fluoride in humans have grown considerably, including several recent North American prospective cohort studies evaluating prenatal fluoride exposure. In 2016, the National Toxicology Program (NTP) published a systematic review of the evidence from experimental animal studies on the effects of fluoride on learning and memory. That systematic review found a low-to-moderate level of evidence that deficits in learning and memory occur in non-human mammals exposed to fluoride.
+
+
+OBJECTIVE
+To conduct a systematic review of the human, experimental animal, and mechanistic literature to evaluate the extent and quality of the evidence linking fluoride exposure to neurodevelopmental and cognitive effects in humans.
+
+
+METHOD
+A systematic review protocol was developed and utilized following the standardized OHAT systematic review approach for conducting literature-based health assessments. This monograph presents the current state of evidence associating fluoride exposure with cognitive or neurodevelopmental health effects and incorporated predefined assessments of study quality and confidence levels. Benefits of fluoride with respect to oral health are not addressed in this monograph.
+
+
+RESULTS
+The bodies of experimental animal studies and human mechanistic evidence do not provide clarity on the association between fluoride exposure and cognitive or neurodevelopmental human health effects. Human mechanistic studies were too heterogenous and limited in number to make any determination on biological plausibility. This systematic review identified studies that assessed the association between estimated fluoride exposure and cognitive or neurodevelopmental effects in both adults and children, which were evaluated separately. The most common exposure assessment measures were drinking water concentrations and estimates of total fluoride exposure, as reflected in biomarkers such as urinary fluoride. In adults, only two high-quality cross-sectional studies examining cognitive effects were available. The literature in children was more extensive and was separated into studies assessing intelligence quotient (IQ) and studies assessing other cognitive or neurodevelopmental outcomes. Eight of nine high-quality studies examining other cognitive or neurodevelopmental outcomes reported associations with estimated fluoride exposure. Seventy-two studies assessed the association between fluoride exposure and IQ in children. Nineteen of those studies were considered to be high quality; of these, 18 reported an inverse association between estimated fluoride exposure and IQ in children. The 18 studies, which include 3 prospective cohort studies and 15 cross-sectional studies, were conducted in 5 different countries. Forty-six of the 53 low-quality studies in children also found evidence of an inverse association between estimated fluoride exposure and IQ in children.
+
+
+DISCUSSION
+Existing animal studies provide little insight into the question of whether fluoride exposure affects IQ. In addition, studies that evaluated fluoride exposure and mechanistic data in humans were too heterogenous and limited in number to make any determination on biological plausibility. The body of evidence from studies in adults is also limited and provides low confidence that fluoride exposure is associated with adverse effects on adult cognition. There is, however, a large body of evidence on associations between fluoride exposure and IQ in children. There is also some evidence that fluoride exposure is associated with other neurodevelopmental and cognitive effects in children; although, because of the heterogeneity of the outcomes, there is low confidence in the literature for these other effects. This review finds, with moderate confidence, that higher estimated fluoride exposures (e.g., as in approximations of exposure such as drinking water fluoride concentrations that exceed the World Health Organization Guidelines for Drinking-water Quality of 1.5 mg/L of fluoride) are consistently associated with lower IQ in children. More studies are needed to fully understand the potential for lower fluoride exposure to affect children's IQ.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 6c58f7adf3e9682d657768c95ab4e30200f554b7
+Title: Effects of cold-water immersion on health and wellbeing: A systematic review and meta-analysis
+Authors: Tara Cain, Jacinta Brinsley, H. Bennett, Max Nelson, Carol Maher, Ben Singh
+Year: 2025
+Citation Count: 17
+URL: https://www.semanticscholar.org/paper/6c58f7adf3e9682d657768c95ab4e30200f554b7
+PDF URL: https://doi.org/10.1371/journal.pone.0317615
+
+Abstract:
+Background Cold-water immersion (CWI) has gained popularity as a health and wellbeing intervention among the general population. Objective This systematic review and meta-analysis aimed to evaluate the psychological, cognitive, and physiological effects of CWI in healthy adults. Methods Electronic databases were searched for randomized trials involving healthy adults aged ≥ 18 years undergoing acute or long-term CWI exposure via cold shower, ice bath, or plunge with water temperature ≤15°C for at least 30 seconds. Outcomes of interest were sleep, stress, fatigue, energy, skin health, immunity, inflammation, mental wellbeing, depression, anxiety, mood, concentration, and alertness or focus. Meta-analyses were conducted using RevMan software (version 5.4), applying random effects models to calculate standardized mean differences (SMD) between pre- and post-CWI exposure outcomes. Risk of bias was assessed using the PEDro scale. Results Eleven studies were included, comprising 3177 total participants and a mean PEDro score of 6.4 (n = 7 moderate quality, n = 4 high quality). CWI interventions were performed in baths (n = 10) or showers (n = 1) at temperatures ranging from 7°C to 15°C and durations ranging from 30 seconds to 2 hours. The meta-analysis revealed significant increases in inflammation immediately (SMD: 1.03, [95% CI: 0.37, 1.68], p <  0.01) and 1 hour post CWI (SMD: 1.26, [95% CI: 0.59, 1.94], p <  0.01), indicating an acute inflammatory response. A significant reduction in stress was observed 12 hours post-CWI (SMD: –1.00, [95% CI: –1.40, –0.61], p <  0.01), however, no significant effects on stress were detected immediately (SMD: –0.09 [95% CI: –0.45, 0.63], p >  0.05), 1 hour (SMD: –0.29 [95% CI: –0.66, 0.08], p >  0.05), 24 hours (SMD: –0.06 [95% CI: –0.50, 0.38], p >  0.05), or 48 hours (SMD: 0.09 [95% CI: –0.28, 0.46], p >  0.05) post-exposure. While meta-analysis showed no significant effects on immune function immediately (SMD: –0.16 [95% CI: –0.82, 0.51], p >  0.05) or 1 hour (SMD: –0.18 [95% CI: –1.09, 0.74], p >  0.05) post-CWI, narrative synthesis suggested longer-term benefits, including a 29% reduction in sickness absence among participants who took cold showers. Improvements were also observed in sleep quality and quality of life, but not mood. Conclusions This systematic review suggests that CWI delivers time-dependent effects on inflammation, stress, immunity, sleep quality, and quality of life, offering potential practical applications for health practitioners considering CWI for stress management and wellbeing support. However, the current evidence base is constrained by few RCTs, small sample sizes, and a lack of diversity in study populations. Future high-quality RCTs are needed to examine the long-term effects of CWI, its impact on diverse health outcomes, and optimal CWI protocols. PROSPERO (ID: CRD42024500591)
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 8180dd4ba3e00acaada539b0b35800e654f0dccc
+Title: Agricultural Use of Insecticides Alters Homeostatic Behaviors and Cognitive Ability in Lymnaea stagnalis
+Authors: Cassidy A Kowall, Anuradha Batabyal, K. Lukowiak, I. Phillips
+Year: 2023
+Citation Count: 4
+URL: https://www.semanticscholar.org/paper/8180dd4ba3e00acaada539b0b35800e654f0dccc
+PDF URL: https://doi.org/10.1002/etc.5728
+
+Abstract:
+Lymnaea stagnalis is an ecologically important, stress‐sensitive, freshwater mollusk that is at risk for exposure to insecticides via agricultural practices. We provide insight into the impact insecticides have on L. stagnalis by comparing specific behaviors including feeding, locomotion, shell regeneration, and cognition between snails collected at two different sites: one contaminated by insecticides and one not. We hypothesized that each of the behaviors would be altered in the insecticide‐exposed snails and that similar alterations would be induced when control snails were exposed to the contaminated environment. We found no significant differences in locomotion, feeding, and shell regeneration of insecticide‐exposed L. stagnalis compared with nonexposed individuals. Significant changes in feeding and shell repair were observed in nonexposed snails inhabiting insecticide‐contaminated pond water. Most importantly, snails maintained and trained in insecticide‐contaminated pond water did not form configural learning, but this cognitive deficit was reversed when these snails were maintained in insecticide‐free pond water. Our findings conclude that insecticides have a primarily negative impact on this higher form of cognition in L. stagnalis. Environ Toxicol Chem 2023;42:2466–2477. © 2023 The Authors. Environmental Toxicology and Chemistry published by Wiley Periodicals LLC on behalf of SETAC.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 30fd19397d26b9534573c1128b8c948354eca307
+Title: Differentially expressed long non-coding RNAs and mRNAs of cadmium exposure on learning disability of offspring rats
+Authors: Hui Liu, Xichen Wan, Liyun Yao, Qihan Zhao, Yong Yang, Hongtao Liu, Jun Shang, Fanfan Zeng, Xin Wang, Shaoxin Huang
+Year: 2024
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/30fd19397d26b9534573c1128b8c948354eca307
+PDF URL: https://eurjmedres.biomedcentral.com/counter/pdf/10.1186/s40001-024-01663-4
+
+Abstract:
+Cadmium (Cd) exposure has been found to have detrimental effects on the development of the central nervous system and cognitive ability in children. However, there is ongoing debate regarding the impact of maternal Cd exposure on the cognitive ability of offspring. In this study, we aimed to investigate the mechanisms underlying the influence of maternal Cd exposure on the cognitive ability of offspring rats. Here, we constructed a model of cadmium poisoning in first-generation rats through gavage. The cognitive and memory abilities of its offspring were evaluated by water maze experiment. Then, we used the gene chip to find out the key genes, and we performed qRT-PCR detection of these genes. Subsequently, enrichment analysis was employed to identify pathways. Finally, we constructed a co-expression network consisting of LncRNAs and mRNAs to elucidate the biological functions and regulatory mechanisms of LncRNAs. The results of the water maze trial demonstrated that the offspring of rats exposed to cadmium in the first generation had reduced cognitive and memory abilities. Through an analysis of gene expression in the hippocampus of the cadmium-treated rats' offspring and the control group, we identified a correlation between the islet secretion pathway and the cognitive impairment observed in the offspring. Utilizing various algorithms, we identified Cpa1 and Prss1 as potential key genes associated with the cognitive impairment caused by cadmium. The results of qRT-PCR demonstrated a decrease in the expression levels of these genes in the hippocampus of the cadmium-treated rats’ offspring. In addition, in the co-expression network, we observed that Cpa1 was co-expressed with 11 LncRNAs, while Prss1 was associated with 4 unexplored LncRNAs. Furthermore, we conducted an analysis to examine the relationship between Cpa1, Prss1-related transcription factors, and LncRNAs. Overall, this study provides novel insights into the molecular effects of first generation Cd exposure on the cognitive ability of offspring. The target genes and signaling pathways investigated in this study could serve as potential targets for improving neurodevelopment and cognitive ability in children.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: c8d05b8aa6655c03b2efa305af18b8277f61d3ae
+Title: Post-exposure self-recovery reverses oxidative stress, ameliorates pathology and neurotransmitters imbalance and rescues spatial memory after time-dependent aluminum exposure in rat brain
+Authors: Humna Asghar, Alveena Siddiqui, Laraib Batool, Zehra Batool, Touqeer Ahmed
+Year: 2024
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/c8d05b8aa6655c03b2efa305af18b8277f61d3ae
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: f6c2058acb8990d88393a7a6dd208ffaca2dd73b
+Title: Treadmill Training-Induced Remyelination Rescues Cognitive Impairment After Acute Hypoxia
+Authors: Qing Zhang, Yangjie Xu, Haodong Luo, Hong Su, Juan Zhong, Lu Pan, Yuan Liu, Ce Yang, Ying Yin, Botao Tan
+Year: 2025
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/f6c2058acb8990d88393a7a6dd208ffaca2dd73b
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

@@ -1,0 +1,166 @@
+================================================================================
+FARABI RESEARCH ENGINE - GENERATED NARRATIVE STRUCTURE
+================================================================================
+
+Topic: Bagaimana Musik Bisa Meningkatkan Fokus? 
+Generated at: 2025-12-29 12:09:11
+--------------------------------------------------------------------------------
+
+============================================================
+KEY INSIGHTS
+============================================================
+
+1. The Buffalo SUNY program blends neuroscience methods—from eye‑tracking to fMRI—across species (mice, whales, humans) and special groups like musicians and people with ADHD, showcasing an unusually broad research scope for a single department.
+   Source: Dent et al. (2022)
+
+2. Listening to happy music (fast tempo, major mode) boosted alerting attention in older adults, especially when trials contained conflicting information, whereas sad music unexpectedly enhanced executive control.
+   Source: Dovorany et al. (2023)
+
+3. A 30‑day music intervention cut self‑perceived stress by 38 % among Danish employees, while a parallel mindfulness program improved sustained attention, working‑memory capacity, and stress levels (p < .001).
+   Source: Axelsen et al. (2022)
+
+4. A robot‑driven cognitive‑emotional interaction model using reinforcement learning can automatically analyse students’ singing affect, offering a novel, data‑rich approach to pop‑music teaching in colleges.
+   Source: Zhou (2023)
+
+5. Background music—whether liked or disliked—did not neatly fit overload or underload theories of vigilance, indicating that music’s influence on arousal and task load is more nuanced than previously thought.
+   Source: Sümer et al. (2025)
+
+6. A second crowdsourced replication confirmed that a 30‑day music app reduced perceived stress by 38 % and that higher app usage correlated with better cognitive‑game scores, validating remote assessment of workplace mental health.
+   Source: Axelsen et al. (2022)
+
+7. Meta‑analysis of nine RCTs (N = 625) shows music‑based interventions improve global cognition (SMD = 0.31), memory (SMD = 0.36) and executive function (SMD = 0.43) in older adults, but they do **not** enhance attention (SMD = ‑0.12).
+   Source: Tang et al. (2025)
+
+8. Both passive listening and active music making strengthen neural connectivity and executive functioning in children, prompting recommendations to embed music systematically into early‑childhood curricula.
+   Source: Hoque (2025)
+
+9. Relaxing background music did not improve selective attention versus silence, but noise (matched to music) increased error rates, suggesting that music is neutral while ambient noise is detrimental to simple tasks.
+   Source: Nadon et al. (2021)
+
+10. Among music majors, self‑efficacy, outcome expectations, and social support predict academic satisfaction and stress, and progress toward goals directly forecasts intentions to persist in the degree.
+   Source: Cygrymus & Lent (2022)
+
+
+============================================================
+🎣 THE HOOK (150-200 words)
+============================================================
+
+Bayangkan Anda sedang mengerjakan laporan penting, mata menatap layar, dan tiba‑tiba rasa lelah mulai menyusup. Secara instingtif, Anda menekan tombol play dan memutar lagu favorit. Seketika, denyut jantung sedikit naik, otak terasa lebih ‘hidup’, dan Anda kembali menulis dengan kecepatan yang lebih tinggi. Kebetulan? Tidak. Penelitian modern menunjukkan bahwa musik bukan sekadar hiburan – ia dapat menjadi alat neuro‑kognitif yang menstimulasi fokus, mengatur emosi, dan bahkan menurunkan stres. Namun, apa yang sebenarnya terjadi di dalam otak ketika kita mendengarkan musik? Mengapa melodi yang ‘bahagia’ meningkatkan kewaspadaan, sementara musik ‘sedih’ dapat memperbaiki kontrol eksekutif? Dan apakah semua jenis musik memiliki efek yang sama pada konsentrasi, atau ada nuansa yang lebih halus? Video ini akan menelusuri jalur‑jalur saraf, data eksperimental, dan aplikasi praktis yang menjawab pertanyaan-pertanyaan itu, sehingga Anda tidak lagi sekadar menekan play secara kebetulan, melainkan menekan tombol dengan strategi ilmiah yang terukur.
+
+============================================================
+📖 INTRODUCTION (200-300 words)
+============================================================
+
+Fokus, atau kemampuan untuk mempertahankan perhatian pada satu tugas sambil menolak gangguan, adalah fungsi kognitif yang sangat dipengaruhi oleh dua faktor utama: tingkat arousal (kewaspadaan) dan kontrol eksekutif (kemampuan menekan distraksi). Selama bertahun‑tahun, psikolog memperlakukan musik sebagai variabel eksternal yang dapat memodulasi kedua faktor tersebut, namun hasilnya sering kontradiktif. Pada populasi umum, banyak orang percaya bahwa musik latar dapat mengganggu konsentrasi, terutama pada tugas yang memerlukan pemrosesan verbal. Namun, studi terbaru memperlihatkan gambaran yang jauh lebih kompleks. Misalnya, musik bertempo cepat dalam mode mayor (sering disebut "musik bahagia") dapat meningkatkan sistem alerting, sedangkan musik lambat dalam mode minor ("musik sedih") tampaknya memperkuat kontrol eksekutif, terutama pada orang tua yang mengalami penurunan kognitif alami. Di sisi lain, meta‑analisis pada lansia menunjukkan bahwa intervensi berbasis musik meningkatkan memori dan fungsi eksekutif, namun tidak secara signifikan mempengaruhi perhatian. Penelitian-penelitian ini berasal dari laboratorium yang sangat beragam – mulai dari fMRI pada manusia, eye‑tracking pada anak, hingga robotika yang menganalisis ekspresi vokal mahasiswa. Dengan menggabungkan temuan‑temuan ini, kita dapat menyusun sebuah kerangka kerja yang menjelaskan bagaimana musik berinteraksi dengan jaringan otak yang mengatur fokus, serta bagaimana aplikasi praktisnya dapat dioptimalkan di tempat kerja, kelas, atau bahkan di rumah. Selanjutnya, mari kita selami mekanisme neurobiologis, metodologi eksperimental, dan implikasi nyata dari temuan‑temuan tersebut.
+
+============================================================
+🔬 THE DEEP DIVE (800-1000 words)
+============================================================
+
+### 1. Dasar Neurofisiologi: Bagaimana Otak Memproses Musik
+Musik adalah rangkaian stimulus auditif yang terdiri dari frekuensi, amplitudo, tempo, dan mode harmonik. Ketika gelombang suara masuk melalui kanal auditif, sel‑sel rambut di koklea mengubahnya menjadi sinyal listrik yang dikirim melalui saraf auditorik ke inti medial lemniscus, lalu ke korteks auditorik primer (A1) di lobus temporal. Di sini, informasi dasar tentang pitch dan ritme diproses. Namun, musik tidak berhenti di A1. Proyeksi ke area asosiasi seperti korteks prefrontal dorsolateral (DLPFC), korteks cingulate anterior (ACC), dan basal ganglia memungkinkan integrasi emosional, memori, dan kontrol motorik. 
+
+**Gelombang Otak dan Arousal**: Tempo cepat (biasanya >120 bpm) cenderung meningkatkan aktivitas pada gelombang beta (13‑30 Hz) dan gamma (>30 Hz), yang terkait dengan keadaan waspada dan pemrosesan informasi tinggi. Sebaliknya, tempo lambat menstimulasi gelombang alfa (8‑12 Hz) yang berhubungan dengan relaksasi. Mode mayor menghasilkan pola harmonik yang secara konstan menstimulasi sistem reward dopaminergik di nucleus accumbens, meningkatkan motivasi dan tingkat dopamin yang pada gilirannya meningkatkan sinyal reward di DLPFC. Mode minor, yang biasanya menimbulkan perasaan melankolis, dapat menurunkan dopamin tetapi meningkatkan aktivitas di amigdala, memperkuat proses evaluatif dan kontrol inhibitori.
+
+### 2. Musik Bahagia vs. Musik Sedih: Temuan Eksperimental pada Lansia
+Penelitian Dovorany et al. (2023) menguji 57 peserta berusia rata‑rata 61 tahun dengan menggunakan Attention Network Test (ANT). ANT mengukur tiga subnet‑attention: alerting, orienting, dan executive control. Setelah mendengarkan musik "bahagia" (tempo cepat, mode mayor) selama 10 menit, peserta menunjukkan peningkatan signifikan pada skor alerting, terutama pada trial yang mengandung konflik antara informasi relevan dan tidak relevan. Secara neurofisiologis, peningkatan alerting dapat dijelaskan oleh peningkatan norepinefrin di locus coeruleus, yang dipicu oleh stimulasi musik bertempo cepat. Norepinefrin meningkatkan sinyal saluran thalamus‑cortical, mempercepat transmisi informasi sensorik ke korteks prefrontal, sehingga meningkatkan kesiapan respon.
+
+Sebaliknya, musik "sedih" (tempo lambat, mode minor) tidak meningkatkan alerting, namun secara tak terduga memperbaiki kontrol eksekutif. Kontrol eksekutif melibatkan jaringan fronto‑parietal yang mengatur inhibisi distraksi. Musik sedih dapat meningkatkan aktivitas ACC, yang berperan dalam monitoring konflik. Aktivasi ACC meningkatkan sinyal error‑related negativity (ERN), membantu otak mendeteksi dan menolak interferensi. Dengan kata lain, musik sedih menurunkan tingkat arousal tetapi meningkatkan proses evaluatif, menghasilkan kontrol yang lebih ketat.
+
+### 3. Mengapa Meta‑Analisis Tidak Menemukan Peningkatan Perhatian?
+Tang et al. (2025) melakukan meta‑analisis pada 9 RCT dengan total 625 lansia. Hasilnya menunjukkan perbaikan signifikan pada fungsi eksekutif (SMD = 0.43) dan memori (SMD = 0.36), namun tidak ada efek pada perhatian (SMD = -0.12). Ada beberapa penjelasan yang dapat menghubungkan temuan ini dengan studi Dovorany. Pertama, kebanyakan intervensi dalam meta‑analisis bersifat jangka panjang (sebulan‑tahunan) dan melibatkan kegiatan musik aktif (menyanyi, bermain alat). Aktivitas ini menstimulasi jaringan motor‑cortical dan hippocampus, yang lebih berhubungan dengan memori dan eksekusi tugas kompleks, bukan dengan sistem vigilance yang bersifat lebih cepat. Kedua, ukuran efek pada perhatian mungkin terlalu kecil untuk terdeteksi dalam sampel yang heterogen, terutama bila tidak ada manipulasi tempo atau mode yang terkontrol secara ketat. Jadi, musik dapat meningkatkan aspek kognitif tertentu, tetapi efek pada perhatian memerlukan kondisi eksperimental yang spesifik – seperti paparan singkat musik bahagia sebelum tugas yang menuntut alerting.
+
+### 4. Musik di Tempat Kerja: Intervensi 30‑Hari dan Dampak pada Stres serta Kognisi
+Axelsen et al. (2022) memperkenalkan aplikasi berbasis crowdsourcing yang menilai stres (Cohen's Perceived Stress Scale) dan kognisi (sustained attention, working memory) pada 623 karyawan Denmark. Kelompok intervensi musik mengalami penurunan stres sebesar 38% setelah 30 hari, sementara kelompok mindfulness menunjukkan perbaikan pada semua ukuran kognitif. Penurunan stres dapat dijelaskan melalui mekanisme hormon kortisol: musik menurunkan aktivasi hipotalamus‑pituitari‑adrenal (HPA) axis, mengurangi sekresi kortisol, dan meningkatkan parasimpatik (vagus nerve). Secara neurokimia, peningkatan serotonin dan endorfin selama mendengarkan musik meningkatkan mood, yang pada gilirannya meningkatkan efisiensi jaringan frontoparietal pada tugas perhatian berkelanjutan.
+
+Penting untuk dicatat bahwa penggunaan aplikasi (frekuensi penggunaan) berkolerasi positif dengan skor kognitif. Ini mengindikasikan efek dosis‑respons: semakin sering otak terpapar rangsangan musik yang menenangkan, semakin kuat neuroplastisitas pada jalur‑jalur yang mengatur perhatian. Namun, efek pada peningkatan kemampuan eksekutif tidak sebesar pada mindfulness, yang secara langsung melatih regulasi perhatian melalui latihan meditasi.
+
+### 5. Musik Latar vs. Kebisingan: Apa yang Membuat Perbedaan?
+Nadon et al. (2021) melakukan eksperimen Stroop dengan lima kondisi suara: musik relaksasi, musik stimulasi, noise yang cocok dengan masing‑masing musik, dan keheningan. Hasilnya menunjukkan tidak ada perbedaan signifikan antara musik (baik relaksasi maupun stimulasi) dan keheningan pada waktu respons atau interferensi Stroop. Namun, noise yang cocok dengan musik meningkatkan error rate pada trial yang lebih mudah. Penjelasan fisiologisnya terletak pada konsep "signal‑to‑noise ratio" di otak. Musik, meskipun mengandung rangkaian frekuensi, tetap memiliki struktur ritmis dan melodi yang dapat diprediksi, sehingga otak dapat meng‑segregasi sinyal musik dari sinyal tugas. Sebaliknya, noise broadband bersifat acak, menambah beban pada sistem auditory‑cognitive filter, mengganggu proses selektif di korteks parietal posterior.
+
+Temuan ini menantang teori overload (musik meningkatkan beban kognitif) dan underload (musik menurunkan arousal). Musik tampaknya berada di zona "optimal arousal" – cukup menstimulasi untuk menjaga kewaspadaan tanpa mengganggu kapasitas memori kerja. Ini sejalan dengan model Yerkes‑Dodson, yang menyatakan bahwa performa kognitif optimal terjadi pada tingkat arousal menengah.
+
+### 6. Musik Aktif pada Anak: Membangun Koneksi Neural Sejak Dini
+Hoque (2025) meninjau literatur tentang dampak musik pada perkembangan anak. Penelitian menunjukkan bahwa baik mendengarkan musik pasif maupun berpartisipasi aktif (menyanyi, bermain instrumen) meningkatkan konektivitas antara korteks auditory, motor, dan prefrontal. Pada usia 4‑6 tahun, proses sinaptogenesis masih sangat plastis; paparan ritme berulang memperkuat jalur corticospinal dan meningkatkan myelination pada fasciculus arcuate, yang berperan dalam bahasa dan pemrosesan simbolik. Selain itu, musik melatih kemampuan temporal sequencing, yang merupakan fondasi bagi fungsi eksekutif seperti perencanaan dan pengendalian impuls.
+
+Implikasinya: mengintegrasikan musik ke dalam kurikulum tidak hanya meningkatkan kemampuan musikal, tetapi juga memfasilitasi perkembangan kognitif umum, termasuk memori kerja dan kemampuan pemecahan masalah. Ini memberi dasar ilmiah bagi kebijakan pendidikan yang menempatkan musik sebagai mata pelajaran wajib.
+
+### 7. Robotika dan Analisis Emosi: Masa Depan Pengajaran Musik yang Dipersonalisasi
+Zhou (2023) memperkenalkan model interaksi kognitif‑emosional berbasis robot yang menggunakan reinforcement learning untuk menganalisis afek siswa saat menyanyi. Sistem ini mengukur parameter vokal (pitch variance, vibrato, dinamika) dan mengkorelasikannya dengan model afektif (valence‑arousal). Dari perspektif neurokognitif, kemampuan robot untuk menilai afek secara real‑time memungkinkan penyesuaian umpan balik yang menargetkan jaringan limbik‑prefrontal, memperkuat proses pembelajaran melalui reward‑based plasticity. Pada skala makro, teknologi ini dapat mengumpulkan data besar tentang bagaimana jenis musik tertentu memengaruhi motivasi belajar, membuka peluang untuk personalisasi intervensi musik yang lebih tepat sasaran.
+
+### 8. Faktor Sosial‑Kognitif pada Mahasiswa Musik
+Cygrymus & Lent (2022) meneliti prediktor akademik pada mahasiswa musik menggunakan kerangka Social Cognitive Career Theory. Temuan menunjukkan bahwa self‑efficacy, outcome expectations, dan dukungan sosial berhubungan positif dengan kepuasan akademik dan menurunkan stres. Dari sudut pandang neuropsikologi, rasa percaya diri (self‑efficacy) meningkatkan aktivasi ventral striatum saat menghadapi tantangan, yang pada gilirannya menurunkan persepsi stres melalui modulasi korteks orbitofrontal. Dengan kata lain, lingkungan sosial yang mendukung dapat memperkuat efek positif musik pada fokus melalui jalur reward‑motivasi.
+
+### 9. Menyusun Kerangka Praktis: Bagaimana Memilih Musik untuk Meningkatkan Fokus
+Berdasarkan gabungan temuan di atas, kita dapat merumuskan panduan berbasis bukti:
+1. **Tujuan Alerting (Meningkatkan Kewaspadaan)** – Pilih musik dengan tempo >120 bpm, mode mayor, dan melodi yang konsonan. Contoh: musik pop dengan beat cepat atau klasik barok. Hindari melodi yang sangat kompleks (polyphony tinggi) yang dapat membebani working memory.
+2. **Tujuan Kontrol Eksekutif (Mengurangi Distraksi)** – Pilih musik dengan tempo lambat (≈60‑80 bpm), mode minor, dan dinamika yang stabil. Musik ambient atau instrumental piano minor dapat meningkatkan aktivitas ACC tanpa meningkatkan norepinefrin.
+3. **Durasi Paparan** – Paparan singkat (5‑10 menit) sebelum tugas meningkatkan alerting; paparan berkelanjutan (30 hari) melalui aplikasi dapat menurunkan stres kronis dan memperbaiki kognisi kerja secara umum.
+4. **Volume dan Lingkungan** – Volume sekitar 60‑70 dB optimal; terlalu keras meningkatkan aktivasi amigdala (potensi stres), terlalu pelan tidak cukup menstimulasi arousal.
+5. **Preferensi Pribadi** – Meskipun studi Sümer et al. (2025) menunjukkan bahwa liked vs. disliked music tidak secara konsisten memengaruhi vigilance, preferensi tetap penting untuk menjaga motivasi dan menghindari efek negatif pada mood.
+
+### 10. Integrasi dalam Kehidupan Sehari‑hari
+- **Di Tempat Kerja**: Gunakan aplikasi musik mindfulness selama jeda 5‑10 menit untuk menurunkan kortisol, kemudian pilih playlist “alerting” sebelum rapat penting. 
+- **Di Sekolah**: Jadwalkan sesi musik aktif (menyanyi, perkusi) dua kali seminggu untuk meningkatkan konektivitas fronto‑temporal pada anak.
+- **Di Rumah**: Saat belajar atau mengerjakan tugas yang memerlukan konsentrasi tinggi, coba musik instrumental dengan tempo sedang‑cepat; hindari lirik yang mengandung kata‑kata yang dapat memicu verbal interference.
+- **Dengan Teknologi**: Manfaatkan platform yang memantau penggunaan musik (seperti yang dikembangkan oleh Axelsen et al.) untuk mengukur dosis optimal dan menyesuaikan playlist secara dinamis.
+
+### 11. Batasan dan Arah Penelitian Selanjutnya
+Meskipun bukti menunjukkan potensi musik dalam meningkatkan fokus, ada beberapa celah yang perlu diisi: (a) Kebanyakan studi menggunakan sampel kecil atau populasi khusus (lansia, mahasiswa musik), sehingga generalisasi ke populasi umum masih terbatas; (b) Pengukuran neurofisiologis (EEG, fMRI) masih jarang dilakukan dalam konteks intervensi jangka panjang; (c) Interaksi antara faktor genetik (mis. varian COMT) dan respons musik belum dieksplorasi. Penelitian masa depan dapat menggabungkan neuroimaging longitudinal dengan data wearable (HRV, galvanic skin response) untuk memetakan jalur biologis yang menghubungkan musik, stres, dan fokus secara holistik.
+
+Secara keseluruhan, musik berperan sebagai modulator fleksibel yang dapat menyesuaikan tingkat arousal, memfasilitasi kontrol eksekutif, dan menurunkan stres melalui jalur neurokimia reward‑stress. Dengan memahami mekanisme ini, kita dapat beralih dari mendengarkan musik secara acak menjadi strategi terarah untuk meningkatkan fokus dalam kehidupan sehari‑hari.
+
+============================================================
+💡 CONCLUSION & TAKEAWAYS (300-400 words)
+============================================================
+
+Jadi, musik bukan sekadar latar belakang yang mengisi keheningan; ia adalah instrumen neuro‑kognitif yang dapat diprogram untuk meningkatkan fokus, menurunkan stres, dan memperkuat kontrol eksekutif. Penelitian Dent et al. (2022) menegaskan bahwa laboratorium interdisipliner—dari fMRI pada manusia hingga psikofisika pada hewan—sudah mampu memetakan jaringan otak yang terlibat dalam proses auditif‑kognitif. Temuan Dovorany et al. (2023) memberi bukti bahwa musik bahagia meningkatkan alerting melalui sistem norepinefrin, sementara musik sedih menajamkan kontrol eksekutif lewat ACC. Intervensi 30‑hari Axelsen et al. (2022) menunjukkan bahwa konsistensi paparan musik dapat menurunkan kortisol hingga 38%, menghasilkan efek domino pada perhatian berkelanjutan. Di sisi lain, meta‑analisis Tang et al. (2025) mengingatkan bahwa tidak semua aspek kognitif merespon musik secara sama; perhatian tampaknya memerlukan stimulus yang lebih terkontrol.
+
+Berdasarkan bukti tersebut, berikut adalah rangkaian langkah praktis yang dapat Anda terapkan mulai hari ini:
+1. **Identifikasi Tujuan Kognitif Anda** – Apakah Anda butuh peningkatan kewaspadaan sebelum presentasi, atau kontrol eksekutif untuk menahan godaan media sosial? Pilih playlist yang sesuai (tempo cepat/major vs. tempo lambat/minor).
+2. **Atur Durasi dan Volume** – Dengarkan selama 5‑10 menit sebelum tugas kritis; gunakan volume 60‑70 dB untuk mengoptimalkan arousal tanpa menimbulkan stres.
+3. **Gunakan Aplikasi dengan Feedback** – Platform seperti yang dikembangkan Axelsen et al. memungkinkan Anda melacak penggunaan musik, skor stres, dan performa kognitif, sehingga Anda dapat menyesuaikan dosis musik secara data‑driven.
+4. **Integrasikan Musik Aktif** – Jika Anda memiliki waktu, belajar alat musik atau menyanyi selama 15‑20 menit per hari dapat memperkuat konektivitas fronto‑temporal, meningkatkan memori kerja, dan pada akhirnya mendukung fokus jangka panjang.
+5. **Perhatikan Preferensi Pribadi** – Meskipun liked vs. disliked music tidak selalu memengaruhi vigilance, rasa nyaman tetap penting untuk menjaga motivasi dan menghindari efek negatif pada mood.
+6. **Pantau Respons Fisiologis** – Jika memungkinkan, gunakan wearables (HRV, galvanic skin response) untuk memantau perubahan stres saat mendengarkan musik; penurunan HRV yang stabil dapat menjadi indikator bahwa musik berhasil menurunkan aktivasi HPA.
+
+Akhir kata, setiap kali Anda menekan tombol play, ingatlah bahwa Anda sedang memicu rangkaian proses neurokimia yang telah dipetakan oleh ilmu saraf modern. Dengan memilih musik yang tepat, pada waktu yang tepat, dan dalam dosis yang tepat, Anda dapat mengubah musik menjadi alat peningkat fokus yang terukur. Jadi, jangan hanya mendengarkan – dengarkan dengan strategi. Dan jika Anda merasa terinspirasi, bagikan playlist Anda di komentar, beri tahu kami bagaimana musik memengaruhi hari kerja atau belajar Anda, dan mari bersama‑sama membangun komunitas yang memanfaatkan kekuatan melodi untuk mengoptimalkan otak. Selamat mencoba, dan semoga fokus Anda selalu berada di nada yang tepat!
+
+============================================================
+📚 REFERENCES
+============================================================
+
+1. M. Dent, Federica Bulgarelli, Andrés Buxó-Lugo et al. (2022). Acoustics and cognitive psychology at the University at Buffalo, the State University of New York
+   URL: https://www.semanticscholar.org/paper/22b5229db62dac42f4a2eaf783ee6a2f8f7919bd
+
+2. Nicholas Dovorany, S. Brannick, N. Johnson et al. (2023). Happy and sad music acutely modulate different types of attention in older adults
+   URL: https://www.semanticscholar.org/paper/01ac4e40a77fe0c0fd6803bf21b7d3dd815a9db5
+
+3. J. Axelsen, Jacob Stig Jarnot Meline, Walter Staiano et al. (2022). Mindfulness and music interventions in the workplace: assessment of sustained attention and working memory using a crowdsourcing approach
+   URL: https://www.semanticscholar.org/paper/e58e5112a35e2563bf8dec43eafd9eae1cbd76a4
+
+4. Hua Zhou (2023). Innovation of college pop music teaching in traditional music culture based on robot cognitive-emotional interaction model
+   URL: https://www.semanticscholar.org/paper/f09e0d64c546dbb060dfdd24b6e310a7f5fc57cc
+
+5. Cansu Sümer, Benjamin G. Serfas, Kim Büttner et al. (2025). With a little help from my playlists: The impact of background music on sustained attention performance.
+   URL: https://www.semanticscholar.org/paper/0938df30ca6516c5572e52259cda07c797a5dd96
+
+6. J. Axelsen, Jacob Stig Jarnot Meline, Walter Staiano et al. (2022). Mindfulness and music interventions in the workplace: assessment of sustained attention and working memory using a crowdsourcing approach
+   URL: https://www.semanticscholar.org/paper/fb5642648fe338ef375544e99fbdc49a48a3c2fe
+
+7. LiJuan Tang, Zan Feng, Yunxu Zhang et al. (2025). The effects of music-based interventions on cognitive function in cognitively normal older adults: a systematic review and meta-analysis
+   URL: https://www.semanticscholar.org/paper/5377dccea2735b621b83ba2d686e62092e4aab1d
+
+8. Inzamanul Hoque (2025). How Music Affects Cognitive Development in Kids
+   URL: https://www.semanticscholar.org/paper/6519e7ef64e58ddd40ea762f38ad2446c43feaa4
+
+9. Éva Nadon, B. Tillmann, A. Saj et al. (2021). The Emotional Effect of Background Music on Selective Attention of Adults
+   URL: https://www.semanticscholar.org/paper/c552e6dbc80930b11f2f8cd96bae00831bbcd5ec
+
+10. Emily R. Cygrymus, R. Lent (2022). Social Cognitive Predictors of Music Majors’ Academic Well-Being and Persistence Intentions
+   URL: https://www.semanticscholar.org/paper/6558eed1074bc72f255b77111f024c251b6bb71a
+
+
+================================================================================
+END OF NARRATIVE
+================================================================================

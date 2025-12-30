@@ -20,9 +20,9 @@ class KeyInsightInput(BaseModel):
 
 class NarrativeInput(BaseModel):
     hook: str
-    problem: str
-    science: str
-    takeaway: str
+    introduction: str  # Was 'problem'
+    deep_dive: str  # Was 'science'
+    conclusion: str  # Was 'takeaway'
 
 class PaperInput(BaseModel):
     paperId: str
@@ -66,10 +66,13 @@ def generate_canvas_content(title: str, narrative: NarrativeInput, key_insights:
             "props": {"level": 2},
             "content": [{"type": "text", "text": "The Hook", "styles": {}}]
         })
-        blocks.append({
-            "type": "paragraph",
-            "content": [{"type": "text", "text": narrative.hook, "styles": {}}]
-        })
+        # Split hook into paragraphs for better formatting
+        for para in narrative.hook.split("\n\n"):
+            if para.strip():
+                blocks.append({
+                    "type": "paragraph",
+                    "content": [{"type": "text", "text": para.strip(), "styles": {}}]
+                })
         blocks.append({"type": "paragraph", "content": []})
     
     # Key Insights section
@@ -86,15 +89,14 @@ def generate_canvas_content(title: str, narrative: NarrativeInput, key_insights:
             })
         blocks.append({"type": "paragraph", "content": []})
     
-    # The Science section
-    if narrative.science:
+    # Introduction section
+    if narrative.introduction:
         blocks.append({
             "type": "heading",
             "props": {"level": 2},
-            "content": [{"type": "text", "text": "The Science", "styles": {}}]
+            "content": [{"type": "text", "text": "Introduction", "styles": {}}]
         })
-        # Split science into paragraphs
-        for para in narrative.science.split("\n\n"):
+        for para in narrative.introduction.split("\n\n"):
             if para.strip():
                 blocks.append({
                     "type": "paragraph",
@@ -102,17 +104,35 @@ def generate_canvas_content(title: str, narrative: NarrativeInput, key_insights:
                 })
         blocks.append({"type": "paragraph", "content": []})
     
-    # The Takeaway section
-    if narrative.takeaway:
+    # The Deep Dive section (main content)
+    if narrative.deep_dive:
         blocks.append({
             "type": "heading",
             "props": {"level": 2},
-            "content": [{"type": "text", "text": "The Takeaway", "styles": {}}]
+            "content": [{"type": "text", "text": "The Deep Dive", "styles": {}}]
         })
+        # Split deep_dive into paragraphs
+        for para in narrative.deep_dive.split("\n\n"):
+            if para.strip():
+                blocks.append({
+                    "type": "paragraph",
+                    "content": [{"type": "text", "text": para.strip(), "styles": {}}]
+                })
+        blocks.append({"type": "paragraph", "content": []})
+    
+    # Conclusion section
+    if narrative.conclusion:
         blocks.append({
-            "type": "paragraph",
-            "content": [{"type": "text", "text": narrative.takeaway, "styles": {}}]
+            "type": "heading",
+            "props": {"level": 2},
+            "content": [{"type": "text", "text": "Conclusion & Takeaways", "styles": {}}]
         })
+        for para in narrative.conclusion.split("\n\n"):
+            if para.strip():
+                blocks.append({
+                    "type": "paragraph",
+                    "content": [{"type": "text", "text": para.strip(), "styles": {}}]
+                })
     
     return blocks
 

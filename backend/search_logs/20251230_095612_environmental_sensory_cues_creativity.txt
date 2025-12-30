@@ -1,0 +1,124 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: environmental sensory cues creativity
+Search Time: 2025-12-30 09:56:12
+Total Available in API: 1647
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: f6835f3ef1d0fe86f150135dea3f8d036c8812ad
+Title: Higher sensory processing sensitivity, introversion and ectomorphism: New biomarkers for human creativity in developing rural areas
+Authors: Carlos V. Rizzo-Sierra, Martha E. Leon-S., F. E. Leon-Sarmiento
+Year: 2012
+Citation Count: 14
+URL: https://www.semanticscholar.org/paper/f6835f3ef1d0fe86f150135dea3f8d036c8812ad
+PDF URL: http://www.thieme-connect.de/products/ejournals/pdf/10.4103/0976-3147.98314.pdf
+
+Abstract:
+The highly sensitive trait present in animals, has also been proposed as a human neurobiological trait. People having such trait can process larger amounts of sensory information than usual, making it an excellent attribute that allows to pick up subtle environmental details and cues. Furthermore, this trait correlates to some sort of giftedness such as higher perception, inventiveness, imagination and creativity. We present evidences that support the existance of key neural connectivity between the mentioned trait, higher sensory processing sensitivity, introversion, ectomorphism and creativity. The neurobiological and behavioral implications that these biomarkers have in people living in developing rural areas are discussed as well.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 003f5782e0c7b9c08e5af4a412a701296906edef
+Title: The effect of environmental sensory cues on dietary decision-making and its mechanisms
+Authors: Linbo Qiu, Xiaoang Wan
+Year: 2024
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/003f5782e0c7b9c08e5af4a412a701296906edef
+PDF URL: https://doi.org/10.3724/sp.j.1042.2024.01933
+
+Abstract: Not available
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: b42af30246cc613062d96096d6af6aeb78b67e8a
+Title: The Monarch Butterfly as a Model for Understanding the Role of Environmental Sensory Cues in Long-Distance Migratory Phenomena
+Authors: P. A. Guerra
+Year: 2020
+Citation Count: 11
+URL: https://www.semanticscholar.org/paper/b42af30246cc613062d96096d6af6aeb78b67e8a
+PDF URL: https://www.frontiersin.org/articles/10.3389/fnbeh.2020.600737/pdf
+
+Abstract:
+The awe-inspiring annual migration of monarch butterflies (Danaus plexippus) is an iconic example of long-distance migratory phenomena in which environmental sensory cues help drive successful migration. In this mini-review article, I begin by describing how studies on monarch migration can provide us with generalizable information on how sensory cues can mediate key aspects of animal movement. I describe how environmental sensory cues can trigger the development and progression of the monarch migration, as well as inform sensory-based movement mechanisms in order to travel to and reach their goal destination, despite monarchs being on their maiden voyage. I also describe how sensory cues can trigger season-appropriate changes in migratory direction during the annual cycle. I conclude this mini-review article by discussing how contemporary environmental challenges threaten the persistence of the monarch migration. Environmental challenges such as climate change and shifting land use can significantly alter the sensory environments that monarchs migrate through, as well as degrade or eliminate the sources of sensory cues that are necessary for successful migration.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 076bff5ac970b4f533fdad47571428278af986d7
+Title: Weighting of sensory cues reflect changing patterns of visual investment during ecological divergence in Heliconius butterflies
+Authors: José Borrero, Elisa Mogollon Perez, D. S. Wright, Daniela Lozano, Geraldine Rueda-Muñoz, Carolina Pardo-Díaz, Camilo Salazar, Stephen H. Montgomery, R. M. Merrill
+Year: 2024
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/076bff5ac970b4f533fdad47571428278af986d7
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Integrating information across sensory modalities enables animals to orchestrate a wide range of complex behaviours. The relative importance placed on one sensory modality over another reflects the reliability of cues in a particular environment and corresponding differences in neural investment. As populations diverge across environmental gradients, the reliability of sensory cues may shift, favouring divergence in neural investment and the weight given to different sensory modalities. During their divergence across closed-forest and forest-edge habitats, closely related butterflies Heliconius cydno and H. melpomene evolved distinct brain morphologies, with the former investing more in vision. Quantitative genetic analyses suggest selection drove these changes, but their behavioural effects remain uncertain. We hypothesised that divergent neural investment may alter sensory weighting. We trained individuals in an associative learning experiment using multimodal colour and odour cues. When positively rewarded stimuli were presented in conflict pairing positively trained colour with negatively trained odour, and vice-versa, H. cydno favoured visual cues more strongly than H. melpomene. Hence, differences in sensory weighting may evolve early during divergence and are predicted by patterns of neural investment. These findings, alongside other examples, imply that differences in sensory weighting stem from divergent investment as adaptations to local sensory environments.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: d5c5cdb75e5c8d5b22c57d061d6cff95e1dd01e5
+Title: Emerging role of AgRP neurons as integrators of metabolic, sensory and environmental cues in the control of energy homeostasis.
+Authors: Maya Faour, Nour Mesto, Claire Martin, Serge Luquet
+Year: 2025
+Citation Count: 5
+URL: https://www.semanticscholar.org/paper/d5c5cdb75e5c8d5b22c57d061d6cff95e1dd01e5
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: f5c5a10b2d8fc267507155d4532eb13aaaefb1f2
+Title: The effect of intrinsic motivation and environmental cues on social creativity
+Authors: Xiaoqing Ma, Zhian Bie, Chun Li, Chuanhua Gu, Qianqian Li, Yuanyuan Tan, Mengyuan Tian, Cui-Ying Fan
+Year: 2021
+Citation Count: 12
+URL: https://www.semanticscholar.org/paper/f5c5a10b2d8fc267507155d4532eb13aaaefb1f2
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+ABSTRACT Motivation is key to the generation of creative ideas, intrinsic motivation is the core driving force of creativity. Researchers believe that individuals with higher intrinsic motivation will produce higher novelty and flexibility. Creativity may also be influenced by environmental cues, which are objects in the environment that individuals can use to solve problems. This study investigated the influence of intrinsic motivation and environmental cues on social creativity and whether there is an interaction effect of intrinsic motivation and environmental cues on the process of electronic brainstorming (EBS). The results showed that individuals generated more ideas (both in quantity and type) when presented with more cues. In this process, the influence of the number of cues on the fluency and flexibility of social creativity was regulated by intrinsic motivation. The more novel the cues, the higher the overall level of originality of the ideas generated by participants. In this process, the influence of the novelty of cues on the effectiveness and fluency of social creativity was regulated by intrinsic motivation. This study offers a fresh theoretical perspective on the complicated relationship between intrinsic motivation and creativity. Furthermore, it provides empirical evidence to inform training on social creativity for university students.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 1293f6a5753e2581085dafb2a477491a8a4b2da3
+Title: Oligomerization-Mediated Phase-Separation in the Nucleoid-Associated Sensory Protein H-NS is Controlled by Ambient Cues
+Authors: Bincy Lukose, Saloni Goyal, Athi N. Naganathan
+Year: 2024
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/1293f6a5753e2581085dafb2a477491a8a4b2da3
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+H-NS, a nucleoid-associated protein (NAP) from enterobacteria, regulates gene expression by dynamically transducing environmental cues to conformational assembly and DNA binding. In this work, we show that H-NS from Escherichia coli, which can assemble into octameric and tetrameric oligomerization states, forms spontaneous micron-sized liquid-like condensates with DNA at sub-physiological concentrations in vitro. The heterotypic condensates are metastable at 298 K, partially solubilizing with time, while still retaining their liquid-like properties. The condensates display UCST-like phase behavior solubilizing at higher temperatures, but with a large decrease in droplet-assembly propensities at 310 K and also at higher ionic strength. Condensate formation can be tuned in a cyclic manner between 298 and 310 K with the extent of reversibility determined by the incubation time, highlighting strong hysteresis. An engineered phospho-mimetic variant (Y61E) of H-NS, which is dimeric and only weakly binds DNA, is unable to form condensates. The Y61E mutant solubilizes pre-formed H-NS condensates with DNA in a few minutes with nearly an order of magnitude speed-up in droplet dissolution at 310 K relative to 298 K, demonstrating rapid molecular transport between dilute and condensed phases. Our results establish that the oligomerization of H-NS is intrinsically tied not only to DNA binding but also its phase-separation tendencies, while showcasing the regulatable and programmable nature of heterotypic condensates formed by an archetypal NAP via multiple cues and their lifetimes.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: a7f775e191a530f47e5405257cc435477b0e62c0
+Title: Adolescent-like Processing of Behaviorally Salient Cues in Sensory and Prefrontal Cortices of Adult Preterm-Born Mice
+Authors: A. Ribic, Emily McCoy, Vyshnavi Pendala, Mona Fariborzi, Lara Y. Demir, Olivia Buell, Samuel Fedde, Jacqueline Stinger, Luciano Elbaum, Troy D. Holsworth, Philip Amenyo Awude
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/a7f775e191a530f47e5405257cc435477b0e62c0
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Preterm birth is a leading risk factor for atypicalities in cognitive and sensory processing, but it is unclear how prematurity impacts circuits that support these functions. To address this, we trained adult mice born a day early (preterm mice) on a visual discrimination task and found that they commit more errors and fail to achieve high levels of performance. Using in vivo electrophysiology, we found that the neurons in the primary visual cortex (V1) and the V1-projecting prefrontal anterior cingulate cortex (ACC) are hyper-responsive to the reward, reminiscent of cue processing in adolescence. Moreover, the non-rewarded cue fails to robustly activate the V1 and V1-projecting ACC neurons during error trials, in contrast to prefrontal fast-spiking (FS) interneurons which show elevated error-related activity, suggesting that preterm birth impairs the function of prefrontal circuits for error monitoring. Finally, environmental enrichment, a well-established paradigm that promotes sensory maturation, failed to improve the performance of preterm mice, suggesting limited capacity of early interventions for reducing the risk of cognitive deficits after preterm birth. Altogether, our study for the first time identifies potential circuit mechanisms of cognitive atypicalities in the preterm population and highlights the vulnerability of prefrontal circuits to advanced onset of extrauterine experience.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

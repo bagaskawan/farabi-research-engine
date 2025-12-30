@@ -54,6 +54,24 @@ You MUST use a "Smart Hybrid" approach for `final_keywords`:
 - ALL LOWERCASE
 - Include scientific field only if essential
 
+**KEYWORD STRUCTURE (THE GOLDEN STANDARD):**
+To ensure quality AND quantity, structure keywords as:
+"[Scientific Domain] [Specific Phenomenon]"
+
+Good Examples:
+- "clinical psychology social media anxiety" (Domain + Topic)
+- "artificial intelligence economic labor market"
+- "neuroscience creativity incubation"
+- "developmental psychology screen time children"
+
+Bad Examples:
+- "impact of social media on mental health" (Too many words, natural language)
+- "how to make money with ai" (Not academic)
+- "why people cheat in relationships" (Too casual)
+
+Why this works: Even if the system broadens the search to fewer words,
+"clinical psychology" or "artificial intelligence economic" will still return quality academic papers.
+
 ==============================================================================
 
 **BEHAVIORAL RULES:**

@@ -1,0 +1,223 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: cognitive psychology music attention
+Search Time: 2025-12-29 12:08:41
+Total Available in API: 12963
+Papers Retrieved: 15
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 22b5229db62dac42f4a2eaf783ee6a2f8f7919bd
+Title: Acoustics and cognitive psychology at the University at Buffalo, the State University of New York
+Authors: M. Dent, Federica Bulgarelli, Andrés Buxó-Lugo, Christopher McNorgan, E. Mercado, Peter Q. Pfordresher
+Year: 2022
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/22b5229db62dac42f4a2eaf783ee6a2f8f7919bd
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+The Psychology Department at the University at Buffalo, SUNY offers mentorship-based, research-intensive Masters’ and Doctoral degrees in Cognitive and Behavioral Neuroscience Areas of Psychology. Faculty specialize in audition, vocal production, psycholinguistics, bioacoustics, language development, attention, music cognition, and learning. Specific expertise includes auditory and vocal processing and multisensory integration across the lifespan. Study populations include mice, whales, and human children and adults, including special populations such as musicians, bilinguals, and people with conditions like aphasia, autism, dyslexia and attention deficit hyperactivity disorder. Methodologies include, but are not limited to, eye tracking, functional magnetic resonance imaging, motion capture, animal psychophysics, electroencephalograms, and surface electromyography. The program is collaborative, collegial, and supportive, and the graduate student stipends are competitive in an area of the country with a low cost of living. Students train with other students and faculty to become experts in their chosen area of study. The combination of academic and research training allows students to thrive and leave the program prepared for independent careers in academia or applied settings such as industry. See: https://arts-sciences.buffalo.edu/psychology/graduate/overview.html for more information about the program.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 01ac4e40a77fe0c0fd6803bf21b7d3dd815a9db5
+Title: Happy and sad music acutely modulate different types of attention in older adults
+Authors: Nicholas Dovorany, S. Brannick, N. Johnson, Ileana Ratiu, A. LaCroix
+Year: 2023
+Citation Count: 9
+URL: https://www.semanticscholar.org/paper/01ac4e40a77fe0c0fd6803bf21b7d3dd815a9db5
+PDF URL: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1029773/pdf
+
+Abstract:
+Of the three subtypes of attention outlined by the attentional subsystems model, alerting (vigilance or arousal needed for task completion) and executive control (the ability to inhibit distracting information while completing a goal) are susceptible to age-related decline, while orienting remains relatively stable. Yet, few studies have investigated strategies that may acutely maintain or promote attention in typically aging older adults. Music listening may be one potential strategy for attentional maintenance as past research shows that listening to happy music characterized by a fast tempo and major mode increases cognitive task performance, likely by increasing cognitive arousal. The present study sought to investigate whether listening to happy music (fast tempo, major mode) impacts alerting, orienting, and executive control attention in 57 middle and older-aged adults (M = 61.09 years, SD = 7.16). Participants completed the Attention Network Test (ANT) before and after listening to music rated as happy or sad (slow tempo, minor mode), or no music (i.e., silence) for 10 min. Our results demonstrate that happy music increased alerting attention, particularly when relevant and irrelevant information conflicted within a trial. Contrary to what was predicted, sad music modulated executive control performance. Overall, our findings indicate that music written in the major mode with a fast tempo (happy) and minor mode with a slow tempo (sad) modulate different aspects of attention in the short-term.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: e58e5112a35e2563bf8dec43eafd9eae1cbd76a4
+Title: Mindfulness and music interventions in the workplace: assessment of sustained attention and working memory using a crowdsourcing approach
+Authors: J. Axelsen, Jacob Stig Jarnot Meline, Walter Staiano, Ulrich Kirk
+Year: 2022
+Citation Count: 22
+URL: https://www.semanticscholar.org/paper/e58e5112a35e2563bf8dec43eafd9eae1cbd76a4
+PDF URL: https://bmcpsychology.biomedcentral.com/counter/pdf/10.1186/s40359-022-00810-y
+
+Abstract:
+Background Occupational stress has huge financial as well as human costs. Application of crowdsourcing might be a way to strengthen the investigation of occupational mental health. Therefore, the aim of the study was to assess Danish employees’ stress and cognition by relying on a crowdsourcing approach, as well as investigating the effect of a 30-day mindfulness and music intervention. Methods We translated well-validated neuropsychological laboratory- and task-based paradigms into an app-based platform using cognitive games measuring sustained attention and working memory and measuring stress via. Cohen’s Perceived Stress Scale. A total of 623 healthy volunteers from Danish companies participated in the study and were randomized into three groups, which consisted of a 30-day intervention of either mindfulness or music, or a non-intervention control group. Results Participants in the mindfulness group showed a significant improvement in the coefficient of sustained attention, working memory capacity and perceived stress ( p  < .001). The music group showed a 38% decrease of self-perceived stress. The control group showed no difference from pre to post in the survey or cognitive outcome measures. Furthermore, there was a significant correlation between usage of the mindfulness and music app and elevated score on both the cognitive games and the perceived stress scale. Conclusion The study supports the nascent field of crowdsourcing by being able to replicate data collected in previous well-controlled laboratory studies from a range of experimental cognitive tasks, making it an effective alternative. It also supports mindfulness as an effective intervention in improving mental health in the workplace.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: f09e0d64c546dbb060dfdd24b6e310a7f5fc57cc
+Title: Innovation of college pop music teaching in traditional music culture based on robot cognitive-emotional interaction model
+Authors: Hua Zhou
+Year: 2023
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/f09e0d64c546dbb060dfdd24b6e310a7f5fc57cc
+PDF URL: https://www.3ciencias.com/wp-content/uploads/2023/04/art-10-3c-tic-ed42-vol12-n1-Innovation-of-college-pop-music-teaching-in-traditional-music-culture-based-on-robot-cognitive-emotional-interaction-model.pdf
+
+Abstract:
+Emotional computing and artificial psychology is a new research direction that has received increasing attention in the field of harmonious human-computer interaction and artificial intelligence and is also a new intersection of mathematics, information science, intelligence science, neuroscience, physiology, psychological science and other multidisciplinary intersection. The current problems and drawbacks in the teaching of popular music in colleges and universities, and the search for methods and measures to reform and innovate popular music education in colleges and universities are the difficulties of current music teaching work. In this paper, we try to apply a robot cognitive-emotional interaction model to college pop music teaching, and establish an emotional interaction model based on reinforcement learning with the help of cognitive-emotional computing of human-computer interaction, to be able to integrate emotional interaction in pop music teaching and to make an accurate emotional analysis of students' singing effect. Different from traditional music teaching methods, the robot-based cognitive-emotional interaction model established in this paper can establish an innovative teaching model for college pop music teaching and optimize the teaching effect.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 0938df30ca6516c5572e52259cda07c797a5dd96
+Title: With a little help from my playlists: The impact of background music on sustained attention performance.
+Authors: Cansu Sümer, Benjamin G. Serfas, Kim Büttner, O. Büttner
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/0938df30ca6516c5572e52259cda07c797a5dd96
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+A long line of research has investigated vigilance decrement, the decline in the sustained attention performance over time. Overload perspectives suggest this decrement results from cognitive resource depletion because of task load, while underload perspectives attribute it to attention disengagement from tasks that are inherently underarousing and monotonous. Based on these two perspectives, this article investigates whether background music influences arousal and task load, thereby affecting vigilance performance. Across two experiments that were conducted in 2023 and 2024, we systematically examined the effects of music presence and different types of music (liked, disliked) on performance during an abbreviated and visually taxing vigilance task. We analyzed the roles of arousal, boredom, task load, task engagement, and personality traits (extraversion, boredom proneness). Our results did not fully align with either the overload or underload perspectives. We discuss these findings within alternative theoretical frameworks, offering new insights into the complex dynamics of vigilance and attention. (PsycInfo Database Record (c) 2025 APA, all rights reserved).
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: fb5642648fe338ef375544e99fbdc49a48a3c2fe
+Title: Mindfulness and music interventions in the workplace: assessment of sustained attention and working memory using a crowdsourcing approach
+Authors: J. Axelsen, Jacob Stig Jarnot Meline, Walter Staiano, Ulrich Kirk
+Year: 2022
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/fb5642648fe338ef375544e99fbdc49a48a3c2fe
+PDF URL: https://bmcpsychology.biomedcentral.com/counter/pdf/10.1186/s40359-022-00810-y
+
+Abstract:
+Occupational stress has huge financial as well as human costs. Application of crowdsourcing might be a way to strengthen the investigation of occupational mental health. Therefore, the aim of the study was to assess Danish employees’ stress and cognition by relying on a crowdsourcing approach, as well as investigating the effect of a 30-day mindfulness and music intervention. We translated well-validated neuropsychological laboratory- and task-based paradigms into an app-based platform using cognitive games measuring sustained attention and working memory and measuring stress via. Cohen’s Perceived Stress Scale. A total of 623 healthy volunteers from Danish companies participated in the study and were randomized into three groups, which consisted of a 30-day intervention of either mindfulness or music, or a non-intervention control group. Participants in the mindfulness group showed a significant improvement in the coefficient of sustained attention, working memory capacity and perceived stress (p < .001). The music group showed a 38% decrease of self-perceived stress. The control group showed no difference from pre to post in the survey or cognitive outcome measures. Furthermore, there was a significant correlation between usage of the mindfulness and music app and elevated score on both the cognitive games and the perceived stress scale. The study supports the nascent field of crowdsourcing by being able to replicate data collected in previous well-controlled laboratory studies from a range of experimental cognitive tasks, making it an effective alternative. It also supports mindfulness as an effective intervention in improving mental health in the workplace.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 5377dccea2735b621b83ba2d686e62092e4aab1d
+Title: The effects of music-based interventions on cognitive function in cognitively normal older adults: a systematic review and meta-analysis
+Authors: LiJuan Tang, Zan Feng, Yunxu Zhang, Feng Tong
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/5377dccea2735b621b83ba2d686e62092e4aab1d
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Objective This systematic review and meta-analysis aimed to investigate whether music-based interventions (MBIs) can improve cognitive function in cognitively normal older adults. Methods We systematically searched multiple databases through March 2025. Only randomized controlled trials (RCTs) were included. Eligible interventions were structured programs with music as the core component. Participants were cognitively normal adults aged ≥60 years. Primary outcome measures included global cognition, memory, executive function, and attention. A random-effects model meta-analysis was conducted to synthesize effect sizes. Results Nine RCTs (total N = 625 participants) met the inclusion criteria. Music-based interventions significantly improved global cognition [SMD = 0.31, 95% CI (0.11, 0.52)], memory [SMD = 0.36, 95% CI (0.04, 0.69)], and executive function [SMD = 0.43, 95% CI (0.11, 0.74)] compared to control groups. However, no significant improvement in attention was observed [SMD = −0.12, 95% CI (−0.34, 0.11)]. Conclusion Music-based interventions have positive effects on global cognition, executive function, and memory in cognitively normal older adults, but there is no evidence of improvement in attention. Larger sample sizes and higher-quality studies are needed to confirm these findings.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 6519e7ef64e58ddd40ea762f38ad2446c43feaa4
+Title: How Music Affects Cognitive Development in Kids
+Authors: Inzamanul Hoque
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/6519e7ef64e58ddd40ea762f38ad2446c43feaa4
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This paper explores the influence of music on cognitive development in children, highlighting its role in enhancing memory, attention, problem-solving, and language skills. Drawing on contemporary research in developmental psychology, neuroscience, and education, the paper argues that music exposure—both passive (listening) and active (instrumental practice, singing)—positively impacts neural connectivity and executive functioning. It further examines the mechanisms through which music stimulates cognitive growth and discusses practical strategies for integrating music into early childhood education. The study concludes with recommendations for parents, educators, and policymakers to leverage music as a tool for fostering holistic cognitive development in children.
+
+============================================================
+PAPER #9
+============================================================
+Paper ID: c552e6dbc80930b11f2f8cd96bae00831bbcd5ec
+Title: The Emotional Effect of Background Music on Selective Attention of Adults
+Authors: Éva Nadon, B. Tillmann, A. Saj, N. Gosselin
+Year: 2021
+Citation Count: 20
+URL: https://www.semanticscholar.org/paper/c552e6dbc80930b11f2f8cd96bae00831bbcd5ec
+PDF URL: https://www.frontiersin.org/articles/10.3389/fpsyg.2021.729037/pdf
+
+Abstract:
+Daily activities can often be performed while listening to music, which could influence the ability to select relevant stimuli while ignoring distractors. Previous studies have established that the level of arousal of music (e.g., relaxing/stimulating) has the ability to modulate mood and affect the performance of cognitive tasks. The aim of this research was to explore the effect of relaxing and stimulating background music on selective attention. To this aim, 46 healthy adults performed a Stroop-type task in five different sound environments: relaxing music, stimulating music, relaxing music-matched noise, stimulating music-matched noise, and silence. Results showed that response times for incongruent and congruent trials as well as the Stroop interference effect were similar across conditions. Interestingly, results revealed a decreased error rate for congruent trials in the relaxing music condition as compared to the relaxing music-matched noise condition, and a similar tendency between relaxing music and stimulating music-matched noise. Taken together, the absence of difference between background music and silence conditions suggest that they have similar effects on adult’s selective attention capacities, while noise seems to have a detrimental impact, particularly when the task is easier cognitively. In conclusion, the type of sound stimulation in the environment seems to be a factor that can affect cognitive tasks performance.
+
+============================================================
+PAPER #10
+============================================================
+Paper ID: 6558eed1074bc72f255b77111f024c251b6bb71a
+Title: Social Cognitive Predictors of Music Majors’ Academic Well-Being and Persistence Intentions
+Authors: Emily R. Cygrymus, R. Lent
+Year: 2022
+Citation Count: 4
+URL: https://www.semanticscholar.org/paper/6558eed1074bc72f255b77111f024c251b6bb71a
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Vocational psychology has devoted limited attention to factors that promote or hinder the career development of musicians. We combined features of social cognitive career theory’s (SCCT) well-being and choice models to examine the experiences of musicians at a formative point in their career development – the first few years of college, during which many would-be musicians either reaffirm or abandon their career paths. Consistent with SCCT, we posited that academic satisfaction and stress would be predicted by favorable levels of self-efficacy, outcome expectations, social support, goal progress, and trait negative affect. We also expected that satisfaction and stress levels would, along with self-efficacy and outcome expectations, predict intentions to persist in undergraduate music majors. Participants were 260 first- and second-year undergraduate music majors. The hypothesized model and a slightly revised version (which added a direct path from goal progress to persistence intentions) produced good fit to the data and accounted well for variation in academic satisfaction, stress, and persistence intentions.
+
+============================================================
+PAPER #11
+============================================================
+Paper ID: 22bc0d0f3f6747246c60a5f45161f57a25944c36
+Title: Music cognition and the cognitive psychology of film structure.
+Authors: A. Cohen
+Year: 2002
+Citation Count: 18
+URL: https://www.semanticscholar.org/paper/22bc0d0f3f6747246c60a5f45161f57a25944c36
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #12
+============================================================
+Paper ID: b54de8c736a76906fe41dd894eb4e3b535e29079
+Title: More than meets the ear: Investigating how music affects cognitive task performance.
+Authors: Manuel F. Gonzalez, J. R. Aiello
+Year: 2019
+Citation Count: 47
+URL: https://www.semanticscholar.org/paper/b54de8c736a76906fe41dd894eb4e3b535e29079
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Researchers have documented various (sometimes conflicting) effects of music on cognitive task performance, and have highlighted several mechanisms through which these effects may occur (e.g., arousal, mood, attention). To further understand these effects, we consider interactions between music-based, task-based, and performer-based characteristics. Specifically, we drew from the distraction-conflict theory of social facilitation and research on boredom proneness to hypothesize that music-along with its complexity and volume-facilitates simple task performance and impairs complex task performance, and that one's preference for external stimulation (a dimension of boredom proneness) moderates these effects. We tested our hypotheses in a laboratory experiment, in which participants completed cognitive tasks either in silence or with music of varying complexity and volume. We found that (a) music generally impaired complex task performance, (b) complex music facilitated simple task performance, and (c) preference for external stimulation moderated these effects. Therefore, the data suggest that music's effects on task performance depend on the music, the task, and the performer. (PsycINFO Database Record (c) 2019 APA, all rights reserved).
+
+============================================================
+PAPER #13
+============================================================
+Paper ID: 038014c5d96c29aa86c8e6d46e64705f43e934c7
+Title: Selective Attention and Inhibitory Control of Attention Are Correlated With Music Audiation
+Authors: Noemí Grinspun, L. Nijs, Leonie Kausel, Kelsey E. Onderdijk, Nicolás Sepúlveda, A. Rivera-Hutinel
+Year: 2020
+Citation Count: 9
+URL: https://www.semanticscholar.org/paper/038014c5d96c29aa86c8e6d46e64705f43e934c7
+PDF URL: https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01109/pdf
+
+Abstract:
+Executive functions (EFs) are cognitive functions needed for adaptive and targeted behavior. Music aptitude is the potential or capacity for musical achievement. A key element of music aptitude is audiation, defined as the process through which sound becomes music and meaning is attributed to that music. In this paper, we report on the association between audiation skills and executive skills. Not only is this important to consider the validity of the audiation tests, but also to better understand the concept of audiation and its link to cognitive skills. We conducted an empirical study, in which a sample of second grade school students from two elementary schools, one from Ghent, Belgium (N = 36) and the other from Santiago, Chile (N = 25), were administered both a musical aptitude and an attention and inhibitory control test. We hypothesized that a positive correlation exists between sustained attention, inhibitory control and music aptitude.
+
+============================================================
+PAPER #14
+============================================================
+Paper ID: ff19e3c453edf9008e60c904c2a36b0a42233915
+Title: Music Psychology of the Piano-Playing Hands in Historical Discourse
+Authors: Y. Kim
+Year: 2021
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/ff19e3c453edf9008e60c904c2a36b0a42233915
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Music-making hands have drawn considerable scholarly attention, featuring prominently in recent investigations in biomechanics, paleoanthropology, and cognitive sciences. Yet already in the late nineteenth and early twentieth centuries, piano pedagogy theories were evolving not only in response to changing musical styles but also to scientific conceptualizations of the human body. Taking piano-playing hands as a platform for human/machine interaction, this article analyzes the historical discourse on piano-playing hands in relation to the contemporary scientific context and via the framework of cognitive science. In this process, these scientific and pedagogical writings, which have been previously discussed only dispersedly and marginally, emerge as more than didactic instruction. This historical discourse on music psychology of piano-playing hands points to music cognition that is extended beyond the body, situated in activity, and distributed beyond the individual.
+
+============================================================
+PAPER #15
+============================================================
+Paper ID: 39aa3afd4bf2b87078ced4dd1089cbb886682b0d
+Title: Cognitive Effects of Music and Dance Training in Children
+Authors: A. D’Souza, M. Wiseheart
+Year: 2018
+Citation Count: 36
+URL: https://www.semanticscholar.org/paper/39aa3afd4bf2b87078ced4dd1089cbb886682b0d
+PDF URL: https://doi.org/10.1037/arc0000048
+
+Abstract:
+The idea that learning music can make a child smarter has gained considerable attention from parents, educators, and policymakers. Intuitively, learning to play an instrument is mentally challenging and is thought to generalize to nonmusic improvements. This claim offers promise in using music to enhance mental performance, but before it can be applied to areas such as education and cognitive remediation, the reliability of musical effects must be established. Early research indicated that musicians outperformed nonmusicians on a range of psychological abilities beyond music processing. Alternatively, because better mental ability could also result from other training activities or an individual’s background characteristics, any conclusions on musical training were still premature. In fact, although some recent studies that provided musical training to nontrained children did show small mental improvements after a few weeks of training, most well-designed studies that trained nonexperts failed to find any of the benefits previously seen in expert musicians. In the current study, children aged 6 to 9 years old were given 3 weeks of music or dance lessons and measured on mental performance before and after training. To test for training-induced change, performance before and after training was compared with a nontrained group. To test whether learning music itself caused change, performance in trained groups was compared with each other, because dance is a similarly challenging skill and shares training features with music. No training effects were observed on any tested cognitive ability, which questions whether mental enrichment can occur from short-term training. S C I E N T I F I C A B S T R A C T Musical training is popularly believed to improve children’s cognitive ability. Early research evidence, mostly correlational, suggested that musicians outperform nonmusicians on many cognitive abilities. However, recent experimental evidence has failed to replicate most benefits, leaving it unclear whether previously demonstrated effects were a direct result of learning music. Although a few studies have shown some change with as little as a few weeks of training, the This article was published November 15, 2018. Annalise A. D’Souza and Melody Wiseheart, Department of Psychology and LaMarsh Centre for Child and Youth Research, York University. The authors have made available for use by others the data that underlie the analyses presented in this article (D’Souza & Wiseheart, 2018), thus allowing replication and potential extensions of this work by qualified researchers. Next users are obligated to involve the data originators in their publication plans, if the originators so desire. This research was supported by Grant 410–2010-2747 to Melody Wiseheart from the Social Sciences and Humanities Research Council of Canada. The study was approved by the York University Human Participants Review Sub-Committee, e2008-177. Data have been previously presented at two conferences (D’Souza & Wiseheart, Development Conference, Ottawa, Ontario, Canada, May 2014; Puckering, D’Souza, & Wiseheart, Canadian Society for Brain, Behavior and Cognitive Science Annual Meeting, Toronto, Ontario, Canada, July 2014), and in a master’s thesis by Annalise A. D’Souza (Effects of Music and Dance Training on Executive Functions in Children, 2013). We thank our Fine Arts faculty collaborators and teachers (Hannah Luviano, Michael Marcuzzi, Rachel Muehrer, Tracey Norman, Lisa Sandlos) for designing and delivering the training curriculum. We thank research assistants (Galit Blumenthal, Katherine Descours, Rachita Saini, Lee Unger) for data collection and coding, and class volunteers for helping deliver the training (Marlene Almeida, Nooshin Davar, Kayla Dawson, Mahta Kakvan, Nakeesa Kooshafar, Pariah Mirazimi, Andrea Murua, Mearon Naman, Andrew Oh, Zina Rakhamilova, Pouya Rostami, Rachita Saini, Sahar Tabrizi, Rida Waseem, and Ariella Winter). We thank the Cognitive Flexibility Lab for input throughout all stages of this study. Copyright of this manuscript belongs to the author(s). The author(s) grant(s) the American Psychological Association the exclusive right to publish this manuscript first, identify itself as the original publisher, and claim all commercial exploitation rights. Upon publication, the manuscript is available to the public to copy, distribute, or display under a Creative Commons Attribution-Noncommercial 3.0 Unported License (http://creativecommons.org/licenses/by-nc/3.0/), which permits use, distribution, and reproduction in any medium, provided that the original work is properly cited and is not used for commercial purposes. Please use APA’s Online Permissions Process (Rightslink®) at http://www.apa.org/about/contact/copyright/seek-permission.aspx to request commercial reuse of this content. Correspondence concerning this article should be addressed to Melody Wiseheart, Department of Psychology, York University, 4700 Keele Street, Toronto, ON M3J1P3, Canada. E-mail: melodywiseheart@gmail.com Archives of Scientific Psychology 2018, 6, 178–192 © 2018 The Author(s) DOI: http://dx.doi.org/10.1037/arc0000048 2169-3269 Archives of Scientific Psychology www.apa.org/pubs/journals/arc larger training literature shows that transfer of skills between unrelated areas is extremely rare, especially in properly controlled studies. The current study used an experimental design to assess the cause (whether music uniquely produces change) and the effect (which cognitive abilities are impacted) of the link between music and cognition. Sixto 9-year-old children (n 75) with no prior training were randomly allocated to 3 weeks of music or dance training. Cognitive performance before and after training was compared between trained groups, because both training forms share features of training plus a nontrained control group to isolate training-induced change from normal maturation. No changes were found on any measured ability (inhibitory control, working memory, task switching, processing speed, receptive vocabulary, and nonverbal intelligence). Findings confirm evidence from the general training literature that training-induced improvements on cognitive performance are unlikely. Short-term training effects have a much narrower scope than previous evidence suggests.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

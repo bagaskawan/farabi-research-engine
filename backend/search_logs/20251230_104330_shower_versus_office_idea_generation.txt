@@ -1,0 +1,118 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: shower versus office idea generation
+Search Time: 2025-12-30 10:43:30
+Total Available in API: 26
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 6cb8956ea8c1848c745f58acbea04a9a0659719b
+Title: For Inventors and Patent Review Committees (Relating to Idea Generation)
+Authors: Zhang Tao, Jingui Fang
+Year: 2016
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/6cb8956ea8c1848c745f58acbea04a9a0659719b
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 3b6f8ca1a132b38967ebb3fc02c126af7d169a06
+Title: Generation Of Emergency Care Researchers NIH : Developing And Funding Research In Emergency Care And Training The Next
+Authors: W. Koroshetz, Jeremy Brown
+Year: 2013
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/3b6f8ca1a132b38967ebb3fc02c126af7d169a06
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: ddc6a9ea75780b1ec11e5d48b13eafc90afba4ef
+Title: Electronic Commerce and Business Communications
+Authors: M. Chesher, Rukesh Kaura
+Year: 1998
+Citation Count: 41
+URL: https://www.semanticscholar.org/paper/ddc6a9ea75780b1ec11e5d48b13eafc90afba4ef
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: d0ce230b060bacbcdf6689e2a38650a72671c830
+Title: Book Review: Confessions of a Community College Administrator by M. Reed
+Authors: Susan T. Kater
+Year: 2014
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/d0ce230b060bacbcdf6689e2a38650a72671c830
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 62b0d6f93ea0832b4bcf8752e92f1e11ecfd615e
+Title: AN INVESTIGATION INTO HOW THE USE OF ELECTRONIC DOCUMENTMANAGEMENT SYSTEMS IMPROVES FILE MANAGEMENT INORGANIZATIONS(A CASE STUDY OF KENYA LITERATURE BUREAU)
+Authors: Christine M. Masita
+Year: 2018
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/62b0d6f93ea0832b4bcf8752e92f1e11ecfd615e
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 5d51833ba23c1e3caf3ac08ffe17ddb00391b6c3
+Title: Presidents and Terminal Logic Behavior: Term Limits and Executive Action in the United States, Brazil and Argentina. By Genevieve M. Kehoe. College Station: Texas A&M University Press, 2014. 231 pp.
+Authors: T. Cronin
+Year: 2015
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/5d51833ba23c1e3caf3ac08ffe17ddb00391b6c3
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: f95679e8b7aaf16edc71c48f76c79b6538b52d63
+Title: Building cycles : growth & instability
+Authors: R. Barras
+Year: 2009
+Citation Count: 12
+URL: https://www.semanticscholar.org/paper/f95679e8b7aaf16edc71c48f76c79b6538b52d63
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: f3629443fe8455e2c018f1d0648f4d99fb2f8c2a
+Title: Catalogue of the Western Asiatic Seals in the British Museum. Stamp Seals III. Impressions of Stamp Seals on Cuneiform Tablets, Clay Bullae and Jar Handles . By T. C. Mitchell and A. Searight. pp. 314. Leiden, Brill, 2007.
+Authors: J. MacGinnis
+Year: 2008
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/f3629443fe8455e2c018f1d0648f4d99fb2f8c2a
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

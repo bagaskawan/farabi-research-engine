@@ -67,7 +67,7 @@ export default function ProjectSidebar({
 
   return (
     <aside className="w-80 flex-shrink-0 bg-background">
-      <div className="sticky top-12 h-[calc(100vh-48px)] overflow-y-auto p-4">
+      <div className="sticky top-12 h-[calc(100vh-48px)] overflow-y-auto p-4 scrollbar-subtle">
         {/* References */}
         <SidebarSection
           title={`References (${papers.length})`}

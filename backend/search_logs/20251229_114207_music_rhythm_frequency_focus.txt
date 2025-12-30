@@ -1,0 +1,218 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: music rhythm frequency focus
+Search Time: 2025-12-29 11:42:07
+Total Available in API: 6473
+Papers Retrieved: 15
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: f3fc5e9211d02c8bda29ed818824a1cfba6d2ad7
+Title: An Investigation of Internal Music in Folk Poems for Children and Adolescents
+Authors: Seyedeh Fereshteh Hassanzadeh Fard, Masoud Sepehvandi, Ali Fardad
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/f3fc5e9211d02c8bda29ed818824a1cfba6d2ad7
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Children’s and adolescents’ poetry, as a form of lyrical literature, plays a significant role in the development of language, imagination, and emotions in young readers. One of the fundamental components in attracting young audiences is the use of internal music within the structure of the poem—music that emerges through techniques such as repetition, paronomasia (pun), alliteration, and assonance. This study aims to examine the function of internal music in folk poems for children and adolescents and to analyze the aesthetic strategies employed in this genre. The research method is descriptive-analytical, based on textual analysis of selected poems by contemporary poets in the field of children’s and adolescents’ literature. Data were collected through purposive sampling and analyzed with a focus on phonetic elements and rhetorical devices. The findings of the study revealed that free repetition and phonetic repetition had the highest frequency in the poems analyzed and contributed significantly to the creation of rhythm, euphony, and conceptual retention in the audience’s mind. Moreover, the widespread use of paronomasia and alliteration led to the creation of linguistic playfulness, enhanced auditory appeal, and stimulated children’s creativity. Assonance was also frequently used as a technique to reinforce the resonance and fluidity of the poem. The results of this study indicate that internal music not only enhances the aesthetic dimension of children’s poetry but also serves as an effective factor in strengthening language skills, facilitating the learning process, and fostering emotional connection with the audience. These findings underscore the importance of children’s poets paying attention to musical techniques and employing them consciously in the composition of poems.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 71f5a26aaa20ca6868c7c5b60fb17035a70f725f
+Title: Controlling Rhythm in the Frequency Domain
+Authors: Robert Tubb
+Year: 2015
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/71f5a26aaa20ca6868c7c5b60fb17035a70f725f
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 1d9f6a99b003a90f2cf51b18712576d800d1d823
+Title: Device-Guided Music Transfer
+Authors: Manh Pham Hung, Changshuo Hu, Ting Dang, Dong Ma
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/1d9f6a99b003a90f2cf51b18712576d800d1d823
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Device-guided music transfer adapts playback across unseen devices for users who lack them. Existing methods mainly focus on modifying the timbre, rhythm, harmony, or instrumentation to mimic genres or artists, overlooking the diverse hardware properties of the playback device (i.e., speaker). Therefore, we propose DeMT, which processes a speaker's frequency response curve as a line graph using a vision-language model to extract device embeddings. These embeddings then condition a hybrid transformer via feature-wise linear modulation. Fine-tuned on a self-collected dataset, DeMT enables effective speaker-style transfer and robust few-shot adaptation for unseen devices, supporting applications like device-style augmentation and quality enhancement.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 43b3ecca3294c00c3eee73f32cc54aadfb2657b6
+Title: Extending Deep Rhythm for Tempo and Genre Estimation Using Complex Convolutions, Multitask Learning and Multi-input Network
+Authors: Hadrien Foroughmand, Geoffroy Peeters
+Year: 2022
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/43b3ecca3294c00c3eee73f32cc54aadfb2657b6
+PDF URL: https://doi.org/10.5920/jcms.887
+
+Abstract:
+Tempo and genre are two inter-leaved aspects of music, genres are often associated to rhythm patterns which are played in specific tempo ranges.In this paper, we focus on the Deep Rhythm system based on a harmonic representation of rhythm used as an input to a convolutional neural network.To consider the relationships between frequency bands, we process complex-valued inputs through complex-convolutions.We also study the joint estimation of tempo/genre using a multitask learning approach. Finally, we study the addition of a second input convolutional branch to the system applied to a mel-spectrogram input dedicated to the timbre.This multi-input approach allows to improve the performances for tempo and genre estimation.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 202d53b025d61de059ab249c12ea03b704c9fa17
+Title: Audio Features Underlying Perceived Groove and Sensorimotor Synchronization in Music
+Authors: Jan Stupacher, Michael J. Hove
+Year: 2016
+Citation Count: 96
+URL: https://www.semanticscholar.org/paper/202d53b025d61de059ab249c12ea03b704c9fa17
+PDF URL: https://escholarship.org/content/qt2sw3r2dw/qt2sw3r2dw.pdf?t=nzi8vc
+
+Abstract: Not available
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 859b822e506f0dd5fb8611f8db7ba8a4b5bae0c9
+Title: PHARMACEUTICAL AND NONPHARMACEUTICAL USE OF MUSIC AND AL-QURAN THERAPY IN PREVENTING THE SPREAD OF PANDEMICS (COVID-19): A SYSTEMATIC REVIEW
+Authors: Music Theraphy, Al-Quran Therapy, Patients, P. Covid, emic
+Year: 2020
+Citation Count: 8
+URL: https://www.semanticscholar.org/paper/859b822e506f0dd5fb8611f8db7ba8a4b5bae0c9
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 47da5fc128cdd93b62d7368e458791d0950b2b34
+Title: Leveraging Large-language Models for Thematic Analysis of Children’s Folk Lyrics: A comparative study of Iberian Traditions
+Authors: Jorge Forero Rodriguez, Gilberto Bernardes
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/47da5fc128cdd93b62d7368e458791d0950b2b34
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Folk music and particularly children’s folk songs serve as vital repositories of cultural identity, emotional expression, and social values. This study presents a computational thematic analysis of Portuguese and Spanish children’s folk songs using the I-Folk corpus, comprising 800 annotated entries in the Music Encoding Initiative (MEI) format. Despite shared historical influences on the Iberian Peninsula, the lyrical content of each tradition reveals distinct thematic orientations. Through a methodological framework that combines traditional text pre-processing, frequency analysis, and semantic embedding using large language models (LLMs), we uncover cross-cultural similarities and divergences in content, form, and emotional register. Spanish lyrics focus primarily on caregiving, emotional development, and moral-religious motifs, while Portuguese songs emphasize performative rhythm, localized identity, and folkloric references. Our results highlight the need for tailored analytical strategies when working with children’s repertoire and demonstrate the utility of LLMs in capturing culturally embedded patterns that are often obscured in conventional analyses. This work contributes to digital folklore scholarship, corpus-based ethnomusicology, and the preservation of underrepresented cultural expressions in computational humanities.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: d0f8260fa472b3ba75058906956c737a385399e5
+Title: Music, speech, and temporal information processing
+Authors: T. Zhao, P. Kuhl
+Year: 2018
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/d0f8260fa472b3ba75058906956c737a385399e5
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Music and speech share many acoustic characteristics. Both utilize dynamic acoustic cues (e.g., frequency, time, intensity) to convey information and emotion. We focus on temporal information processing at a slower time scale (e.g., musical timing, speech rhythm) to examine connections between music and speech: (1) transfer effects, (2) neural mechanisms and (3) theoretical frameworks. I will focus on early infancy. We observed a transfer effect from music experience to both music and speech processing in 9-month-old infants (Zhao & Kuhl, 2016). Infants were randomly assigned to either a 12-session music intervention that focused on triple meter (waltz) or a 12-session control group (no music) during the “sensitive period” for phonetic learning. The music intervention group exhibited enhanced neural detection of both mistimed musical beats and speech syllables, quantified by the mismatch response (MMR) measured with magnetoencephalography (MEG). The effects were observed in auditory and prefrontal regions of the cortex. Following the "predictive coding" and "dynamic attending" theories, I will discuss a current two-pronged approach that can extend this research to understand the effects of music on infants’ higher-level cognitive skills as well as their early stage sensory encoding of sounds, and implications of these findings for theories of language development.Music and speech share many acoustic characteristics. Both utilize dynamic acoustic cues (e.g., frequency, time, intensity) to convey information and emotion. We focus on temporal information processing at a slower time scale (e.g., musical timing, speech rhythm) to examine connections between music and speech: (1) transfer effects, (2) neural mechanisms and (3) theoretical frameworks. I will focus on early infancy. We observed a transfer effect from music experience to both music and speech processing in 9-month-old infants (Zhao & Kuhl, 2016). Infants were randomly assigned to either a 12-session music intervention that focused on triple meter (waltz) or a 12-session control group (no music) during the “sensitive period” for phonetic learning. The music intervention group exhibited enhanced neural detection of both mistimed musical beats and speech syllables, quantified by the mismatch response (MMR) measured with magnetoencephalography (MEG). The effects were observed in auditory and prefrontal regions...
+
+============================================================
+PAPER #9
+============================================================
+Paper ID: 7bcd3e84a247a7b0f8f18c70ce3a9221be0fc564
+Title: HUMAN PERCEPTION AND COMPUTER EXTRACTION OF MUSICAL BEAT STRENGTH
+Authors: G. Tzanetakis, Georg Essl, P. Cook
+Year: 2002
+Citation Count: 42
+URL: https://www.semanticscholar.org/paper/7bcd3e84a247a7b0f8f18c70ce3a9221be0fc564
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #10
+============================================================
+Paper ID: 55c45c9d30d6f9bf330d5bac11a49c2001787a51
+Title: 頻譜長條圖、週期性長條圖、抖動模式在器樂相似度上之效果比較
+Authors: 周聖哲
+Year: 2008
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/55c45c9d30d6f9bf330d5bac11a49c2001787a51
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #11
+============================================================
+Paper ID: 433261ab892dfb3cc86a55c077902335d7fafff3
+Title: Towards the Development of a Curriculum for Contemporary Musicianship
+Authors: M. Hannan
+Year: 2005
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/433261ab892dfb3cc86a55c077902335d7fafff3
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #12
+============================================================
+Paper ID: aaeb5a0d4074302868b9b4009a02565855ad3607
+Title: “I can feel the rhythm, and it is somehow nice”: Deafness challenging the hierarchy of senses in music education
+Authors: K. Sutela, Outi Ahonen
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/aaeb5a0d4074302868b9b4009a02565855ad3607
+PDF URL: https://journals.sagepub.com/doi/pdf/10.1177/1321103X231223864
+
+Abstract:
+In this article, we explore how deafness challenges the hierarchy of senses in music education. As part of a larger three-year research project focusing on memories of Finnish state schools for the d/Deaf, “Voices of a Silent People—Renovated Bodies,” this article concentrates on experiences of music education. The methodological starting point of the research project is sign history, with a focus on d/Deaf people’s signed memories. The interview data for the whole research project (N = 116) were collected by interviewing d/Deaf people in group discussions and individual interviews. There were 61 participants who produced the transcribed interview data related to the third substudy on music education (n = 61). Our critique of the hierarchy of senses in music education is based on Merleau-Ponty’s phenomenological thought and, more specifically, the criticism of the mind–body, self–other, and subject–object dichotomies in the listening process. The results suggest that d/Deaf people can feel sound with their bodies. Sound is experienced holistically through different channels: body, touch, vision, and for some, through hearing or feeling bass frequencies. Sound is not categorized into perceptions of one sense. To conclude, four dimensions that make it possible to formulate more inclusive and multisensory music education are presented.
+
+============================================================
+PAPER #13
+============================================================
+Paper ID: 261f3c2c722a3a29f85083fc1ba2a84a3be77487
+Title: What Young People Think About Music, Rhythm and Trauma: An Action Research Study
+Authors: K. Mcferran, A. Crooke, Zoe Kalenderidis, H. Stokes, Kate Teggelove
+Year: 2022
+Citation Count: 5
+URL: https://www.semanticscholar.org/paper/261f3c2c722a3a29f85083fc1ba2a84a3be77487
+PDF URL: https://www.frontiersin.org/articles/10.3389/fpsyg.2022.905418/pdf
+
+Abstract:
+A number of popular theories about trauma have suggested rhythm has potential as a mechanism for regulating arousal levels. However, there is very little literature examining this proposal from the perspective of the young people who might benefit. This action research project addresses this gap by collaborating with four groups of children in the out-of-home-care system to discover what they wanted from music therapists who brought a strong focus on rhythm-based activities. The four music therapy groups took place over a 12 month period and each cycle of action and reflection led to adjustments in what activities were offered, as well as exploring different levels of structure and ways of building relationships in the groups. The initial group incorporated a strong emphasis on highly structured rhythm-based activities, but young people found the format difficult to engage with. The second cycle included more opportunities for creativity and self-direction within semi-structured activities which children reported enjoying, but too much freedom also became overwhelming at times. The two groups in the third cycle seemed to balance structure and responsiveness successfully but were also influenced by the introduction of individual sessions prior to group commencement, which was designed to contribute to safety and trust building. Final reflections on the role of rhythm in supporting young people who have had adverse experiences were centred around the ideas of co-regulation. This was qualitatively different to our expectations that practicing rhythm-based activities would lead to an expanded window of tolerance that resulted in less time being spent in either hypo-arousal or hyper-arousal. Instead of entraining to an external rhythm, young people felt safe when their rhythms were matched, even if they were irregular, out of time and unpredictable. The small moments of co-regulation resulted in pleasure, comfort, satisfaction and peace and these moments were highly valued by the young people, who described just wanting to be relaxed and happy. Although not as rhythm-specific as the literature might suggest, music making with trusted adults helped the young people in this study feel more content.
+
+============================================================
+PAPER #14
+============================================================
+Paper ID: ad82dc6dc00d1bb813a13a9777a4b8152d817951
+Title: Strategies for Reducing Cognitive Load in Complex Polyphonic Music Learning: A Focus on Bach’s C Major Fugue from The Well-Tempered Clavier, Book I
+Authors: Su-Young Bae
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/ad82dc6dc00d1bb813a13a9777a4b8152d817951
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This study analyzed how piano instructors manage the cognitive load experienced by students when learning Bach’s Fugue in C Major from The Well-Tempered Clavier, Book I, based on Cognitive Load Theory (CLT). In-depth interviews were conducted through Focus Group Interviews (FGI) with six instructors with over ten years of teaching experience, exploring various strategies to reduce cognitive load in complex polyphonic music learning. The results showed that students experienced a high cognitive load in maintaining independent voices, identifying the subject and counter-subject, analyzing the structure, managing rhythm and tempo, balancing voices, and memorizing. To address this, the instructors guided students to practice voices separately, visually mark the subject and counter-subject, and use recordings to enhance understanding. Additionally, students were assisted in mastering dynamics and articulation through diverse performance examples and encouraged to maintain tempo by tapping a steady beat. To reduce learning burdens, students were also allowed to explore freely without being constrained by fixed tempo, and sectional practice was used to effectively understand the structure and reduce cognitive load. This study suggests the applicability of CLT in complex polyphonic music learning and provides foundational material for developing effective instructional strategies in music education.
+
+============================================================
+PAPER #15
+============================================================
+Paper ID: 7b26947403639d673709307421dbb3f499229252
+Title: Music Rhythm Detection Algorithm Based on Multipath Search and Cluster Analysis
+Authors: Shuqing Ma
+Year: 2021
+Citation Count: 6
+URL: https://www.semanticscholar.org/paper/7b26947403639d673709307421dbb3f499229252
+PDF URL: https://downloads.hindawi.com/journals/complexity/2021/5627626.pdf
+
+Abstract:
+Music rhythm detection and tracking is an important part of the music comprehension system and visualization system. The music signal is subjected to a short-time Fourier transform to obtain the frequency spectrum. According to the perception characteristics of the human auditory system, the spectrum amplitude is logarithmically processed, and the endpoint intensity curve and the phase information of the peak value are output through half-wave rectification. The Pulse Code Modulation (PCM) characteristic value is extracted according to the autocorrelation characteristic of the endpoint intensity curve. This article proposes a rhythm detection algorithm based on multipath search and cluster analysis; that is, based on the clustering algorithm, it absorbs the idea of multipath tracking and proposes its own detection and tracking algorithm. It overcomes the weakness of the clustering algorithm that needs to use Musical Instrument Digital Interface (MIDI) auxiliary input to achieve the desired effect. This algorithm completely uses the PCM signal as the input, which is more robust than the clustering algorithm. The whole process is carried out in the time domain, and the amount of calculation is much smaller than the frequency domain calculation of multipath tracking, and the linear relationship with the rhythm of the music is much better than the filter bank algorithm. This algorithm can successfully detect the rhythm of the music with a strong sense of rhythm and can track the specific position of the rhythm point.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

@@ -1,0 +1,124 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: relaxation environment idea generation
+Search Time: 2025-12-30 10:13:48
+Total Available in API: 12985
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: c2361cded40e59cc78eef67010f1d8fb8c2cd6d4
+Title: An Environment Friendly Energy-Saving Dispatch Using Mixed Integer Linear Programming Relaxation in the Smart Grid with Renewable Energy Sources
+Authors: Yudhishthir Pandey, N. Hasan, M. A. Husain, Ahmad Masood Khan, F. I. Bakhsh, A. Minai, M. Tabrez
+Year: 2022
+Citation Count: 5
+URL: https://www.semanticscholar.org/paper/c2361cded40e59cc78eef67010f1d8fb8c2cd6d4
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Electrical energy demand has risen over the world which results in developmentof smart grid. Smart grid has identified the areas that requiresimprovement. Because of the focus on cost-effective operation as well asenvironmental concerns in the electrical power system, the complexity ofthe optimization function has increased. In this study, a new energy-saving dispatch model is developed, which takes into account renewable energysources in the smart grid as well as dynamic generation-load interaction.Moreover, the active demand response idea is employed for interruptibleloads during peak demand. During off-peak load periods and compensatingloads, the proposed energy-saving dispatch system operates on a bi-leveldispatch system. Lower level dispatch works with four dispatch functionssuch as interruptible load cost, compensation load cost, renewable energysource cost, and emission saving cost. Whereas, upper level dispatch dealswith cost functions for operation and emission. Renewable energy sources arerepresented as a generating unit as well as a load based on usage in this work.Linear programming relaxation and mixed integer linear programming relaxationmethodologies are used to solve the constrained optimization problem.The outcomes of the experiments were compared with existing methodologiessuch as the classic NSGA-II and the improved NSGA-II. Furthermore,the algorithm’s time complexity was examined. The proposed solution hasbeen implemented using the IEEE-30 bus standard. The performance resultsdemonstrate considerable reductions in operating costs as well as reductionsin emissions.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 81bbfa457dbc968ec829a97be8fce728cdc0ea7f
+Title: Innovative Teaching Behavior and Environment in Promoting Task Motivation Among Elementary School Teachers
+Authors: Husana, Marlou B., Velasco, Cecilia P.
+Year: 2023
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/81bbfa457dbc968ec829a97be8fce728cdc0ea7f
+PDF URL: https://ijsshmr.com/v2i10/Doc/2.pdf
+
+Abstract:
+Teachers are expected to establish and embody an innovative teaching behavior that includes idea generation, idea championing, idea implementation, and opportunity exploration that are necessary for them to cope to the rapid educational changes. Additionally, innovative work environment also contributes to the teacher’s task motivation. The purpose of the study is to find out if innovative teaching behavior and environment promotes elementary school teacher’s task motivation . Specifically, it seeks to answer the following questions. 1) To what extent does innovative teaching behavior manifest in teachers in terms of: Idea Generation; Idea Championing; Idea Implementation; and Opportunity Exploration? 2) What are the perceptions of teacher’s relative innovative work environment in terms of: Flexible Working Place; Inspiring Interior; Venues for relaxation; and Sense of Ownership? 3) What are the perceptions of teachers relative to task motivation in terms of: Responsibility; Achievement; Self-Development; and Independence? 4) Is there significant relationship between innovative teaching behavior and task motivation? 5) Is there significant relationship between innovative teaching environment and task motivation? Results revealed a significant relationship between innovative teaching behavior and task motivation, except for the domain of innovative teaching behavior particularly Idea Generation to the dimensions of task motivation in terms achievement and self-development. It also revealed a significant relationship between the Innovative Teaching Environment and Task Motivation. Thus, the hypotheses are rejected.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: b76cd108f458c0eb3e3b3a5a616db8175ca87ece
+Title: Variable resolution planning through predicate relaxation
+Authors: Miguel Ángel Martínez, F. Fernández, D. Borrajo
+Year: 2012
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/b76cd108f458c0eb3e3b3a5a616db8175ca87ece
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: a678a72f93d94372ba2ef09af9f4cabe88346b56
+Title: Task-relevant relaxation network for visuo-motory systems
+Authors: F. Hamker, H. Groß
+Year: 1996
+Citation Count: 5
+URL: https://www.semanticscholar.org/paper/a678a72f93d94372ba2ef09af9f4cabe88346b56
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 410feb094936b7c0cb639622ca0c146c0c5e04d7
+Title: Efficient on-chip source of microwave photon pairs in superconducting circuit QED
+Authors: F. Marquardt
+Year: 2006
+Citation Count: 33
+URL: https://www.semanticscholar.org/paper/410feb094936b7c0cb639622ca0c146c0c5e04d7
+PDF URL: https://pure.mpg.de/pubman/item/item_2573371_4/component/file_3287101/PhysRevB.76.205416.pdf
+
+Abstract:
+We describe a scheme for the efficient generation of microwave photon pairs by parametric down-conversion in a superconducting transmission line resonator coupled to a Cooper-pair box serving as an artificial atom. By properly tuning the first three levels with respect to the cavity modes, the down-conversion probability may reach the percentage level at good fidelity. We show this by numerically simulating the dissipative quantum dynamics of the coupled cavity-box system and discussing the effects of dephasing and relaxation in the solid state environment. The setup analyzed here might form the basis for a future on-chip source of entangled microwave photons, e.g., using Franson's idea of energy-time entanglement.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: f07685cc6b6dfbc932f646b2d2d6cdca3b364f73
+Title: TestSpark: IntelliJ IDEA's Ultimate Test Generation Companion
+Authors: Arkadii Sapozhnikov, Mitchell Olsthoorn, Annibale Panichella, Vladimir Kovalenko, P. Derakhshanfar
+Year: 2024
+Citation Count: 29
+URL: https://www.semanticscholar.org/paper/f07685cc6b6dfbc932f646b2d2d6cdca3b364f73
+PDF URL: https://dl.acm.org/doi/pdf/10.1145/3639478.3640024
+
+Abstract:
+Writing software tests is laborious and time-consuming. To address this, prior studies introduced various automated test-generation techniques. A well-explored research direction in this field is unit test generation, wherein artificial intelligence (AI) techniques create tests for a method/class under test. While many of these techniques have primarily found applications in a research context, existing tools (e.g., EvoSuite, Randoop, and AthenaTest) are not user-friendly and are tailored to a single technique. This paper introduces Test-Spark, a plugin for IntelliJ IDEA that enables users to generate unit tests with only a few clicks directly within their Integrated Development Environment (IDE). Furthermore, TestSpark also allows users to easily modify and run each generated test and integrate them into the project workflow. TestSpark leverages the advances of search-based test generation tools, and it introduces a technique to generate unit tests using Large Language Models (LLMs) by creating a feedback cycle between the IDE and the LLM. Since TestSpark is an open-source (https://github.com/JetBrains-Research/TestSpark), extendable, and well-documented tool, it is possible to add new test generation methods into the plugin with the minimum effort. This paper also explains our future studies related to TestSpark and our preliminary results. Demo video: https://youtu.be/0F4PrxWfiXo
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: eefcf474270ef2fe81a346c19041568c357eefc9
+Title: Unravelling the process of idea generation and assessment during the PhD trajectory: A case study approach
+Authors: Marie Gruber, Thomas Crispeels
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/eefcf474270ef2fe81a346c19041568c357eefc9
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/hequ.12523
+
+Abstract:
+The three missions of universities are education, research, and knowledge/technology transfer. At the micro‐level of the research and knowledge/technology transfer mission, we position researchers, as individuals who decided to pursue a scientific career in academia, with the PhD as the starting point. While existing literature acknowledges the supervisor's significance during this process from dependency to autonomy, this paper advocates for a closer examination of external factors such as the network, supervisor's experience, and work environment in idea generation. Ideas in this context encompass both curiosity‐driven and entrepreneurial concepts, often evolving from one to the other. Our research builds upon the theory of opportunity identification, drawing parallels between ideas and opportunities. The research asserts that PhD students primarily rely on their networks for idea generation due to limited prior knowledge and experience. Our findings underscore the dynamic interplay between PhD students, supervisors, and networks in the process of idea generation, advancing a comprehensive framework encapsulating the multifaceted influences on the trajectory from idea generation to execution in the context of PhD education. The framework is based on empirical evidence from a qualitative case study comprising 16 PhD students in a European H2020 project in the field of Photonics, illuminating the intricate relationship between supervisors' orientations (entrepreneurial or curiosity‐driven) and the types of ideas generated by PhD students. Practical implications highlight the need for tailored support and resources to foster independent research capabilities among PhD students, considering individual variations in supervisory support and networking opportunities.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: c4193bbfac194e994f607246c8463d24248c099c
+Title: Student speed dating as a catalyst for creative idea generation in sport management programs
+Authors: Logan Schuetz, Yo Han Lee, T. Hajek, Brady Runyan
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/c4193bbfac194e994f607246c8463d24248c099c
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This article presents a novel approach to addressing the challenges of idea generation among students in higher education, particularly in the field of sport management. Based on research into student engagement and creativity, the authors suggest incorporating speed dating techniques into both in-person and online classes. Speed dating sessions, conducted in breakout rooms via platforms like Zoom and Microsoft Teams, offer students multiple opportunities to engage in brief, structured interactions, thereby enhancing their presentation skills, idea generation, and perspectives through structured, rapid interactions. Additionally, this method encourages greater collaboration and active participation, improving the overall learning environment. This strategy not only fosters theoretical education, but also promotes self-regulated learning and academic motivation. Furthermore, speed dating encourages critical thinking, team-building, and peer evaluation skills, all essential in sport management education. By seamlessly integrating speed dating with instructor-driven tools, educators can optimize the online or hybrid class model, benefiting both instructors and students in sport management programs. Overall, the incorporation of speed dating represents a promising approach to enhancing student idea generation and creativity across diverse educational contexts, providing valuable insights and implications for future practice.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

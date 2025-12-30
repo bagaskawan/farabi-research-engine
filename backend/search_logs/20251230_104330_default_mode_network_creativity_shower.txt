@@ -1,0 +1,123 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: default mode network creativity shower
+Search Time: 2025-12-30 10:43:30
+Total Available in API: 140
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 0eb2b039e5c4bf7210c070d5c0fb62836f685319
+Title: Default mode network spatio-temporal electrophysiological signature and causal role in creativity
+Authors: E. Bartoli, E. Devara, H. Q. Dang, R. Rabinovich, R. Mathura, A. Anand, Pascuzzi B.R, J. Adkinson, K. Bijanki, S. Sheth, M. Ben Shofty
+Year: 2023
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/0eb2b039e5c4bf7210c070d5c0fb62836f685319
+PDF URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10541614
+
+Abstract:
+The default mode network (DMN) is a widely distributed, intrinsic brain network thought to play a crucial role in internally-directed cognition. It subserves self-referential thinking, recollection of the past, mind wandering, and creativity. Knowledge about the electrophysiology underlying DMN activity is scarce, due to the difficulty to simultaneously record from multiple distant cortical areas with commonly-used techniques. The present study employs stereo-electroencephalography depth electrodes in 13 human patients undergoing monitoring for epilepsy, obtaining high spatiotemporal resolution neural recordings across multiple canonical DMN regions. Our results offer a rare insight into the temporal evolution and spatial origin of theta (4-8Hz) and gamma signals (30-70Hz) during two DMN-associated higher cognitive functions: mind-wandering and alternate uses. During the performance of these tasks, DMN activity is defined by a specific pattern of decreased theta coupled with increased gamma power. Critically, creativity and mind wandering engage the DMN with different dynamics: creativity recruits the DMN strongly during the covert search of ideas, while mind wandering displays the strongest modulation of DMN during the later recall of the train of thoughts. Theta band power modulations, predominantly occurring during mind wandering, do not show a predominant spatial origin within the DMN. In contrast, gamma power effects were similar for mind wandering and creativity and more strongly associated to lateral temporal nodes. Interfering with DMN activity through direct cortical stimulation within several DMN nodes caused a decrease in creativity, specifically reducing the originality of the alternate uses, without affecting creative fluency or mind wandering. These results suggest that DMN activity is flexibly modulated as a function of specific cognitive processes and supports its causal role in creative thinking. Our findings shed light on the neural constructs supporting creative cognition and provide causal evidence for the role of DMN in the generation of original connections among concepts.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 37066a235ff5c6f489f276aae93898a3695736db
+Title: Simulating Emotion-Creativity Dynamics: A Default Mode Network Mediation Hypothesis Tested Via Computational Approaches
+Authors: Yun Zhang, Hongji Yang, Chongbi Zeng, Yumo Guo, Yanju Yao
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/37066a235ff5c6f489f276aae93898a3695736db
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Creativity, as a complex cognitive phenomenon, is deeply influenced by culture, situations, and individual experiences. Previous studies have demonstrated that emotions regulate creative production process to some degree. Furthermore, neuroscientific evidence suggests that the Default Mode Network (DMN) is a brain network associated with self-cognition and memory processing that plays a vital role in human creativity. This paper proposes a mathematical model that positions DMN as an intermediary between emotions and Creative ideation to control the production of creativity. Specifically, this paper investigates how emotions influence DMN and then regulate creative idea generation process in human brain. On this basis, potential pathways for integrating this framework into industrial artificial intelligence systems are explored in this paper. By simulating emotion-creativity interactions in computational models, this paper aims to design Artificial Creativity (AC) architectures capable of generating creativity through simulating emotion. This method quantitatively analyses the relationship between emotions and creativity generation, and derives specific mathematical models. It provides some references on how to stimulate creativity through specific emotions.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 87f0b498ea4873b7c92584274c44719be705ce9d
+Title: High Dream Recall Frequency is Associated with Increased Creativity and Default Mode Network Connectivity
+Authors: R. Vallat, Başak Türker, A. Nicolas, P. Ruby
+Year: 2022
+Citation Count: 14
+URL: https://www.semanticscholar.org/paper/87f0b498ea4873b7c92584274c44719be705ce9d
+PDF URL: https://www.dovepress.com/getfile.php?fileID=78492
+
+Abstract:
+Introduction Several results suggest that the frequency of dream recall is positively correlated with personality traits such as creativity and openness to experience. In addition, neuroimaging results have evidenced different neurophysiological profiles in high dream recallers (HR) and low dream recallers (LR) during both sleep and wakefulness, specifically within regions of the default mode network (DMN). These findings are consistent with the emerging view that dreaming and mind wandering pertain to the same family of spontaneous mental processes, subserved by the DMN. Methods To further test this hypothesis, we measured the DMN functional connectivity during resting wakefulness, together with personality and cognitive abilities (including creativity) in 28 HR and 27 LR. Results As expected, HR demonstrated a greater DMN connectivity than LR, higher scores of creativity, and no significant difference in memory abilities. However, there was no significant correlation between creativity scores and DMN connectivity. Discussion These results further demonstrate that there are trait neurophysiological and psychological differences between individuals who frequently recall their dreams and those who do not. They support the forebrain and the DMN hypotheses of dreaming and leave open the possibility that increased activity in the DMN promotes creative-thinking during both wakefulness and sleep. Further work is needed to test whether activity in the DMN is causally associated with creative-thinking.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 9d779c7a6c8119631f659d021ea50a4821d9db0f
+Title: The role of the default mode network in creativity
+Authors: Simone A. Luchini, Emmanuelle Volle, Roger Beaty
+Year: 2025
+Citation Count: 4
+URL: https://www.semanticscholar.org/paper/9d779c7a6c8119631f659d021ea50a4821d9db0f
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 9bea18ce152f2e71a16c7cb0dd30ecf66b191702
+Title: A Scoping Review of Music and the Default Mode Network: Insights into Creativity and Flow
+Authors: Eloise Hodges, Charles Limb
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/9bea18ce152f2e71a16c7cb0dd30ecf66b191702
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 51736258ee17f1ab05c087c2265e1ff712b25b2e
+Title: Occam’s razor misapplied: Pinpointing the role of the default mode network in creativity
+Authors: Anna Abraham
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/51736258ee17f1ab05c087c2265e1ff712b25b2e
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: cfbf68296c6e076c16885ec03539398015b2eed0
+Title: Creative tempo: Spatiotemporal dynamics of the default mode network in improvisational musicians
+Authors: Harrison Watters, Abia Fazili, L. Daley, Alexander Belden, T. LaGrow, T. Bolt, P. Loui, Shella Keilholz
+Year: 2024
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/cfbf68296c6e076c16885ec03539398015b2eed0
+PDF URL: https://www.biorxiv.org/content/biorxiv/early/2024/04/09/2024.04.07.588391.full.pdf
+
+Abstract:
+The intrinsic dynamics of human brain activity display a recurring pattern of anti-correlated activity between the default mode network (DMN), associated with internal processing and mentation, and task positive regions, associated with externally directed attention. In human functional magnetic resonance imaging (fMRI) data, this anti-correlated pattern is detectable on the infraslow timescale (<0.1 Hz) as a quasi-periodic pattern (QPP). While the DMN is implicated in creativity and musicality in traditional time-averaged functional connectivity studies, no one has yet explored how creative training may alter dynamic spatiotemporal patterns involving the DMN such as QPPs. In the present study, we compare the outputs of two QPP detection approaches, sliding window algorithm and complex principal components analysis (cPCA). We apply both methods to an existing dataset of musicians captured with resting state fMRI, grouped as either classical, improvisational, or minimally trained non-musicians. The original time-averaged functional connectivity (FC) analysis of this dataset used improvisation as a proxy for creative thinking and found that the DMN and visual networks (VIS) display higher connectivity in improvisational musicians. We expand upon this dataset’s original study and find that QPP analysis detects convergent results at the group level with both methods. In improvisational musicians, dynamic functional correlation in the group-averaged QPP was found to be increased between the DMN-VIS and DMN-FPN for both the QPP algorithm and complex principal components analysis (cPCA) methods. Additionally, we found an unexpected increase in FC in the group-averaged QPP between the dorsal attention network and amygdala in improvisational musicians; this result was not reported in the original seed-based study of this dataset. The current study represents a novel application of two dynamic FC detection methods with results that replicate and expand upon previous seed-based FC findings. The results show the robustness of both the QPP phenomenon and its detection methods. This study also demonstrates the value of dynamic FC methods in reproducing seed-based findings and their promise in detecting group-wise or individual differences that may be missed by traditional seed-based resting state fMRI studies.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 34cae68064b2e00b6bc80f5d58f467eb2a246bfb
+Title: Creativity and the Brain’s Default Mode Network
+Authors: M. Raichle
+Year: 2019
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/34cae68064b2e00b6bc80f5d58f467eb2a246bfb
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+It may be surprising to learn that the brain’s intrinsic, ongoing activity is the dominant mode of brain function, present and largely nonconscious whether we are daydreaming, sleeping, or engaged in the full range of human behaviors. Intrinsic activity is easily seen in the ongoing electrical activity of the brain, where extensive averaging is needed to separate evoked activity from intrinsic activity. Reinforcing its dominant role in brain function is the fact that it accounts for well over 90% of the enormous cost of brain function. A productive discussion of creativity must, therefore, take into account the role of intrinsic activity. Fortunately, intrinsic activity is highly organized, a feature highlighted by the recent discovery of the brain’s default mode network (DMN) that serves a dominant role in the overall organization of intrinsic activity. The relationship between the DMN and memory-related structures such as the hippocampus has the hallmark of how an internal model of the environment is built and maintained, which is critical for prediction, imagination, and creativity. More generally the DMN is concerned with our internal mental state (i.e., an egocentric perspective) whereas the networks with which it interacts offer an allocentric perspective. It is at this interface between the egocentric and allocentric perspective that the comfort one has with risk-taking, a necessary component of the creative process, is adjudicated. Exploring the many facets of the DMN’s role in the intrinsic activities of the brain will likely yield new insights into the creative process.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

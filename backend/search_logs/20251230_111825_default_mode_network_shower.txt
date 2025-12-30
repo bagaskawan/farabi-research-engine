@@ -1,0 +1,123 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: default mode network shower
+Search Time: 2025-12-30 11:18:25
+Total Available in API: 13272
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: a4031a4bde3bb57ef25f25564390d01bc7ed3719
+Title: Shared and differing functional connectivity abnormalities of the default mode network in mild cognitive impairment and Alzheimer's disease.
+Authors: Yaxuan Wang, Qian Li, Li Yao, N. He, Yingying Tang, Lizhou Chen, Fenghua Long, Yufei Chen, Graham J. Kemp, S. Lui, Fei Li
+Year: 2024
+Citation Count: 36
+URL: https://www.semanticscholar.org/paper/a4031a4bde3bb57ef25f25564390d01bc7ed3719
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Alzheimer's disease (AD) and mild cognitive impairment (MCI) both show abnormal resting-state functional connectivity (rsFC) of default mode network (DMN), but it is unclear to what extent these abnormalities are shared. Therefore, we performed a comprehensive meta-analysis, including 31 MCI studies and 20 AD studies. MCI patients, compared to controls, showed decreased within-DMN rsFC in bilateral medial prefrontal cortex/anterior cingulate cortex (mPFC/ACC), precuneus/posterior cingulate cortex (PCC), right temporal lobes, and left angular gyrus and increased rsFC between DMN and left inferior temporal gyrus. AD patients, compared to controls, showed decreased rsFC within DMN in bilateral mPFC/ACC and precuneus/PCC and between DMN and left inferior occipital gyrus and increased rsFC between DMN and right dorsolateral prefrontal cortex. Conjunction analysis showed shared decreased rsFC in mPFC/ACC and precuneus/PCC. Compared to MCI, AD had decreased rsFC in left precuneus/PCC and between DMN and left inferior occipital gyrus and increased rsFC in right temporal lobes. MCI and AD share a decreased within-DMN rsFC likely underpinning episodic memory deficits and neuropsychiatric symptoms, but differ in DMN rsFC alterations likely related to impairments in other cognitive domains such as language, vision, and execution. This may throw light on neuropathological mechanisms in these two stages of dementia.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: e4394f7c4638f05664c8849b22d02117edd73540
+Title: Default mode network electrophysiological dynamics and causal role in creative thinking
+Authors: E. Bartoli, E. Devara, H. Q. Dang, R. Rabinovich, R. Mathura, A. Anand, Bailey R Pascuzzi, J. Adkinson, Yoed N. Kenett, K. Bijanki, S. Sheth, Ben Shofty
+Year: 2024
+Citation Count: 31
+URL: https://www.semanticscholar.org/paper/e4394f7c4638f05664c8849b22d02117edd73540
+PDF URL: https://academic.oup.com/brain/advance-article-pdf/doi/10.1093/brain/awae199/58272199/awae199.pdf
+
+Abstract:
+Abstract The default mode network (DMN) is a widely distributed, intrinsic brain network thought to play a crucial role in internally directed cognition. The present study employs stereo-EEG in 13 human patients, obtaining high resolution neural recordings across multiple canonical DMN regions during two processes that have been associated with creative thinking: spontaneous and divergent thought. We probe these two DMN-associated higher cognitive functions through mind wandering and alternate uses tasks, respectively. Our results reveal DMN recruitment during both tasks, as well as a task-specific dissociation in spatiotemporal response dynamics. When compared to the fronto-parietal network, DMN activity was characterized by a stronger increase in gamma band power (30–70 Hz) coupled with lower theta band power (4–8 Hz). The difference in activity between the two networks was especially strong during the mind wandering task. Within the DMN, we found that the tasks showed different dynamics, with the alternate uses task engaging the DMN more during the initial stage of the task, and mind wandering in the later stage. Gamma power changes were mainly driven by lateral DMN sites, while theta power displayed task-specific effects. During alternate uses task, theta changes did not show spatial differences within the DMN, while mind wandering was associated to an early lateral and late dorsomedial DMN engagement. Furthermore, causal manipulations of DMN regions using direct cortical stimulation preferentially decreased the originality of responses in the alternative uses task, without affecting fluency or mind wandering. Our results suggest that DMN activity is flexibly modulated as a function of specific cognitive processes and supports its causal role in divergent thinking. These findings shed light on the neural constructs supporting different forms of cognition and provide causal evidence for the role of DMN in the generation of original connections among concepts.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 63baef9a42a0de02de1ab42e5922f14bc0a78516
+Title: Weakened effective connectivity between salience network and default mode network during resting state in adolescent depression
+Authors: David Willinger, I. Häberling, I. Ilioska, G. Berger, S. Walitza, S. Brem
+Year: 2024
+Citation Count: 19
+URL: https://www.semanticscholar.org/paper/63baef9a42a0de02de1ab42e5922f14bc0a78516
+PDF URL: https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1386984/pdf
+
+Abstract:
+Adolescent major depressive disorder (MDD) is associated with altered resting-state connectivity between the default mode network (DMN) and the salience network (SN), which are involved in self-referential processing and detecting and filtering salient stimuli, respectively. Using spectral dynamical causal modelling, we investigated the effective connectivity and input sensitivity between key nodes of these networks in 30 adolescents with MDD and 32 healthy controls while undergoing resting-state fMRI. We found that the DMN received weaker inhibition from the SN and that the medial prefrontal cortex and the anterior cingulate cortex showed reduced self-inhibition in MDD, making them more prone to external influences. Moreover, we found that selective serotonin reuptake inhibitor (SSRI) intake was associated with decreased and increased self-inhibition of the SN and DMN, respectively, in patients. Our findings suggest that adolescent MDD is characterized by a hierarchical imbalance between the DMN and the SN, which could affect the integration of emotional and self-related information. We propose that SSRIs may help restore network function by modulating excitatory/inhibitory balance in the DMN and the SN. Our study highlights the potential of prefrontal-amygdala interactions as a biomarker and a therapeutic target for adolescent depression.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: d51e3fda7809666809adb8dbc8110b5d6fe9a31d
+Title: Early detection of dementia with default-mode network effective connectivity
+Authors: Sam Ereira, S. Waters, Adeel Razi, Charles R. Marshall
+Year: 2024
+Citation Count: 13
+URL: https://www.semanticscholar.org/paper/d51e3fda7809666809adb8dbc8110b5d6fe9a31d
+PDF URL: https://www.nature.com/articles/s44220-024-00259-5.pdf
+
+Abstract:
+Altered functional connectivity precedes structural brain changes and symptoms in dementia. Alzheimer’s disease is the largest contributor to dementia at the population level, and disrupts functional connectivity in the brain’s default-mode network (DMN). We investigated whether a neurobiological model of DMN effective connectivity could predict a future dementia diagnosis at the single-participant level. We applied spectral dynamic causal modeling to resting-state functional magnetic resonance imaging data in a nested case–control group from the UK Biobank, including 81 undiagnosed individuals who developed dementia up to nine years after imaging, and 1,030 matched controls. Dysconnectivity predicted both future dementia incidence (AUC = 0.82) and time to diagnosis (R = 0.53), outperforming models based on brain structure and functional connectivity. We also evaluated associations between DMN dysconnectivity and major risk factors for dementia, revealing strong relationships with polygenic risk for Alzheimer’s disease and social isolation. Neurobiological models of effective connectivity may facilitate early detection of dementia at population level, supporting rational deployment of targeted dementia-prevention strategies. Altered patterns of effective connectivity in the brain’s default-mode network predicted both future dementia incidence and time to diagnosis.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 75d7a24c114fb3c3ff3b6e474429a0fe51f9346b
+Title: The brain's default mode network.
+Authors: M. Raichle
+Year: 2015
+Citation Count: 3300
+URL: https://www.semanticscholar.org/paper/75d7a24c114fb3c3ff3b6e474429a0fe51f9346b
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: f8d71b849b3d80d1226236a82df46d765a664e36
+Title: Default-mode network activity distinguishes Alzheimer's disease from healthy aging: Evidence from functional MRI
+Authors: M. Greicius, G. Srivastava, A. Reiss, V. Menon
+Year: 2004
+Citation Count: 3685
+URL: https://www.semanticscholar.org/paper/f8d71b849b3d80d1226236a82df46d765a664e36
+PDF URL: https://doi.org/10.1073/pnas.0308627101
+
+Abstract: Not available
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: f33cdc9a62cba8cb01411feeaa6681add2956363
+Title: Blood-brain barrier opening of the default mode network in Alzheimer's disease with magnetic resonance-guided focused ultrasound.
+Authors: Y. Meng, Maged Goubran, J. Rabin, Melissa Mcsweeney, J. Ottoy, Christopher B. Pople, Yuexi Huang, Alexandra Storace, Miracle Ozzoude, A. Bethune, B. Lam, W. Swardfager, C. Heyn, A. Abrahão, B. Davidson, C. Hamani, I. Aubert, H. Zetterberg, N. Ashton, T. Karikari, K. Blennow, Sandra E. Black, K. Hynynen, N. Lipsman
+Year: 2023
+Citation Count: 48
+URL: https://www.semanticscholar.org/paper/f33cdc9a62cba8cb01411feeaa6681add2956363
+PDF URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10226733
+
+Abstract:
+The blood-brain barrier (BBB) protects the brain but is also an important obstacle for the effective delivery of therapeutics in Alzheimer's disease and other neurodegenerative disorders. Transcranial magnetic resonance-guided focused ultrasound (MRgFUS) has been shown to reversibly disrupt the BBB. However, treatment of diffuse regions across the brain along with the effect on Alzheimer's disease relevant pathology need to be better characterized. This study is an open-labelled single-arm trial (NCT04118764) to investigate the feasibility of modulating BBB permeability in the default mode network and the impact on cognition, amyloid and tau pathology as well as BBB integrity. Nine participants [mean age 70.2 ± 7.2 years, mean Mini-Mental State Examination (MMSE) 21.9] underwent three biweekly procedures with follow-up visits up to 6 months. The BBB permeability of the bilateral hippocampi, anterior cingulate cortex and precuneus was transiently increased without grade 3 or higher adverse events. Participants did not experience worsening trajectory of cognitive decline (ADAS-cog11, MMSE). Whole brain vertex-based analysis of the 18F-florbetaben PET imaging demonstrated clusters of modest SUVR reduction in the right parahippocampal and inferior temporal lobe. However, CSF and blood biomarkers did not demonstrate any amelioration of Alzheimer's disease pathology (P-tau181, amyloid-β42/40 ratio), nor did it show persistent BBB dysfunction (plasma PDGFRbeta and CSF-to-plasma albumin ratio). This study provides neuroimaging and fluid biomarker data to characterize the safety profile of MRgFUS BBB modulation in neurodegeneration as a potential strategy for enhanced therapeutic delivery.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 48949e10211561103a3424e379e66ad826c25233
+Title: 20 years of the default mode network: A review and synthesis
+Authors: Vinod Menon
+Year: 2023
+Citation Count: 468
+URL: https://www.semanticscholar.org/paper/48949e10211561103a3424e379e66ad826c25233
+PDF URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10524518
+
+Abstract: Not available
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

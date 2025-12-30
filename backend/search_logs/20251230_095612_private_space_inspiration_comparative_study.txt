@@ -1,0 +1,125 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: private space inspiration comparative study
+Search Time: 2025-12-30 09:56:12
+Total Available in API: 1392
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 70dbdc15d6a5f8cb86b8c3c17b85ebafaada2ac0
+Title: A Comparative Study about the Evaluation of the Urban Space Qualities and Urban Activities in the Relationship Between Public Realm and Private Space
+Authors: F. Bilge
+Year: 2020
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/70dbdc15d6a5f8cb86b8c3c17b85ebafaada2ac0
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 2074f38c579f2dfaf8138c514c814a27278406dd
+Title: Comparative Study of Patient Satisfaction, Physical Space and Medical Equipment between Governmental and Private Hospitals
+Authors: Masoumeh Seidi
+Year: 2020
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/2074f38c579f2dfaf8138c514c814a27278406dd
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 27e6c4332a1bec614917e912c80c53843b817918
+Title: Daily activity space and exposure: A comparative study of Hong Kong's public and private housing residents' segregation in daily life
+Authors: Donggen Wang, Fei Li
+Year: 2016
+Citation Count: 102
+URL: https://www.semanticscholar.org/paper/27e6c4332a1bec614917e912c80c53843b817918
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 45f5e4dab0cbba60aa9cf3b2c468fa8b93a55604
+Title: RE-PRESENTATION OF HOMOSEXUALITY ON SCREEN: A COMPARATIVE STUDY OF THE MALAYALAM FILMS MOOTHON AND KAATHAL- THE CORE AS REPRESENTATIVES OF CULTURAL TRANSITION
+Authors: Karthika Prajoth, Priya M.G.
+Year: 2024
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/45f5e4dab0cbba60aa9cf3b2c468fa8b93a55604
+PDF URL: https://www.granthaalayahpublication.org/Arts-Journal/ShodhKosh/article/download/975/934
+
+Abstract:
+Films are a significant part of popular culture that form the frame for exhibiting the culture of the times. Cinema shares a symbiotic relationship with culture by providing a platform for cultural representations and drawing inspiration from the cultural artefacts simultaneously. Two of the phenomenal off-centred Malayalam films, Moothon directed by Geetu Mohandas and Kaathal-The Core directed by Jeo Baby, become the recent trailblazers by unleashing the cultural transitions in exploring Homosexuality, its impact on the Malayalee audience and the necessity of comprehending the notion of queer space in the present Kerala society. Drawing theoretical insights from Eve Kosofsky Sedgewick's influential work The Epistemology of the Closet, Judith Butler’s “Gender Trouble: Feminism and the Subversion of Identity”, Gayle Rubin’s “Thinking Sex: Notes for a Radical Theory of the Politics of Sexuality” and Michael Foucault's concept of Heterotopia, this study explores the existential struggles and the trauma behind expressing one's unusual sexuality. Moreover, both the utopian and the dystopian perspectives in understanding the lives of the gay communities are analysed in this study with reference to the selected films. This paper is an attempt to focus on concepts such as free life, gender fluidity and queer spaces that are evolving around us.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: b33f5bc2ff2d049bc5803fad5c962739a497c068
+Title: A comparative study on the benefits offered to faculty in private and public educational institutions
+Authors: Vanishree K, Ankita Sharma, Vaishnavi Mandava, Kushal Bh
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/b33f5bc2ff2d049bc5803fad5c962739a497c068
+PDF URL: https://doi.org/10.1051/itmconf/20246801007
+
+Abstract:
+This study aims to explore the quality of work life (QWL) for university teachers in Bangalore’s private sector. The purpose of this study is to evaluate the quality of work life (QWL) of private-sector teachers, compare it with their public-sector counterparts, and explore any potential benefits that public-sector employment might offer. A personal interview with a structured questionnaire was conducted with 100 teachers in Bangalore’s private sector. Data was analyzed with a T-test. Results indicate that while private sector teachers enjoy comparable professional development opportunities, they face challenges in work-life balance and lack non-financial incentives compared to public sector colleagues. These disparities create a stressful environment for private-sector teachers, potentially impacting their job satisfaction and student performance. The findings of this study advocate for reducing disparities between the public and private education sectors, adding to the ongoing dialogue between employees and employers in the educational sector. Additionally, the study aims to inform policymakers to foster a more equitable environment across the educational space. The findings of this study aim to inform policymakers in fostering a more equitable environment across the educational space by reducing disparities between the public and private education sectors. It also contributes to the ongoing dialogue between employees and employers in the educational sector.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 25b408e510ed7882674dcae9ebe8b69b86c2797d
+Title: Comparative Study of Methods of Supplying Power to the Lunar Base
+Authors: Ikumi Noda, Shin'ya Obara
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/25b408e510ed7882674dcae9ebe8b69b86c2797d
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+In recent years, space development has been actively promoted by private companies entering the space industry, and the National Aeronautics and Space Administration (NASA) is implementing the first manned lunar exploration program since the Apollo program (Artemis program). This project aims to survey the resources of the Antarctic region, construct a base to serve as a relay station for a manned Mars mission, and conduct sustainable activities on the Moon's surface. Electricity is necessary to create a habitable environment for human beings in the special environment on the Moon. The cost of transporting electricity to the lunar surface is approximately 700,000 US dollars/kg, and the cost of nighttime energy supply technology, which can supply energy for up to 360 hours during the night, is approximately 700,000 US dollars/kg, so a high energy density power generation method is a challenge. In this study, we investigated a method to supply the power necessary for four people to stay at the lunar base, assuming the initial stage of manned exploration. Photovoltaic power generation, solar thermal power generation, and a small nuclear reactor were compared as supply methods, and lithium-ion batteries were assumed to be used to store energy during the time when power demand is not met. The comparison items were weight, energy density, supply duration, service life, cost per year, and number of transports, and the optimal power supply method at the lunar base was examined. The photovoltaic power generation system weighed approximately 89.87 tons, had an energy density of 385.22 Whiton, a supply duration of 414 hours, a service life of 15 years, a cost per year of approximately 4.263 billion dollars, and a frequency of transportation of 0.90 times. Solar thermal power generation weighs approximately 175.82 tons, has an energy density of 196.90 Whiton, a supply duration of 337 hours, and a service life of 10 years, at a cost of approximately $12.511 billion per year, and 1.76 transport cycles. The small reactor weighed approximately 28.93 tons, had an energy density of 1196.48 Whiton, a supply duration of 420 hours, and a service life of 15 years, with a cost per year of approximately $1.373 billion and 0.29 transport cycles. In all items, the supply method using small nuclear reactors was superior, and the result showed that small nuclear reactors were the best method of supplying electricity to the lunar base.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 4914848718da90278b723b2fa75a707eafae60b3
+Title: A Comparative Study on the Development of Basic Education in Developing Countries under the Background of the Belt and Road Initiative—Taking China and Thailand as Examples
+Authors: Ran Jingyi
+Year: 2023
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/4914848718da90278b723b2fa75a707eafae60b3
+PDF URL: http://www.clausiuspress.com/assets/default/article/2023/06/03/article_1685803528.pdf
+
+Abstract:
+: Implementation of the "Belt and Road Initiatives" is a long-term and systematic project. Countries along the Belt and Road have distinctive educational characteristics, rich resources, strong complementarity and huge space for cooperation. In the new era, China is actively building an education community under the Belt and Road Initiative, an upgraded version of the Belt and Road Initiative. Thailand is an important member of the "Belt and Road" ASEAN line. It has maintained good cooperative relations with China. The two countries have carried out in-depth cooperation in many areas, especially in the field of education. This paper mainly takes the education of China and Thailand as examples, summarizes the common points and future trends of the current reform of basic education in China and Thailand, and makes a comprehensive comparison and analysis of the development of basic education in China and Thailand, so as to provide new reference and inspiration for the development of basic education in developing countries.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 4dc22980e797c4fb6a6a8d7f47dd5127f9711c58
+Title: International space law in the context of regulating the activities of private space companies, using the example of the United States
+Authors: Karina Sergeevna Tikhomirova, Valeriya Mikhailovna Ruchina, Anastasiya Aleksandrovna Medonova
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/4dc22980e797c4fb6a6a8d7f47dd5127f9711c58
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+
+ The authors examine in detail the issues of regulation of international space activities by international law. The subject of the study examines international treaties that regulate the activities of states and their private companies in outer space. The absence of comprehensive regulations for space activities and the absence of legislation to control private companies lead to the fact that the activities of states in space are focused more on its monopolization, rather than on collective security. Particular attention is paid to private space companies of the United States, since the most serious challenge in the space arena is their rapid development. In turn, their activities are only indirectly regulated by international space law, and do not have any international standardization, but at the same time pose a real threat to international security. The study is based on comparative legal and institutional methods used to identify contradictions between international and national space law. Comparative analysis and case studies were used to study competition in outer space between state actors and between state and private company in order to identify gray areas in international space law. The novelty of the study lies in the comprehensive analysis of the existing space legislation, such as: the Outer Space Treaty, the Convention on International Liability for Damage Caused by Space Objects, the Convention on Registration of Objects, the Moon Agreement; consideration of the imperfections of their provisions and proposals for improving the norms of international space law. A comparative analysis of the norms of international space law with the US legislation in the space industry is provided. The article considers the influence of private companies on the development of international space activities, and also identifies the risks that their activities pose. The authors come to the conclusion about the need for an international comprehensive modernization of space law: development of cybersecurity standards and regulations for the use of nuclear facilities in space, creation of unified international standards for private companies with the establishment of a global registry of these companies; reform of the UN COPUOS, introduction of mechanisms for the implementation of norms through national legislation.
+
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

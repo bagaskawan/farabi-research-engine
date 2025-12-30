@@ -114,7 +114,7 @@ export default function WorkspaceCanvas({
   }
 
   return (
-    <main className="lg:col-span-8 h-[calc(100vh-150px)] overflow-y-auto pr-4">
+    <main className="lg:col-span-8 h-[calc(100vh-150px)] overflow-y-auto pr-4 scrollbar-subtle">
       {/* Editor */}
       <div className="max-w-3xl mx-auto px-6 lg:px-8 py-4">
         <div className="min-h-[calc(100vh-200px)] w-full p-4 mb-4 font-barlow prose prose-stone dark:prose-invert min-w-full max-w-full flex-1">

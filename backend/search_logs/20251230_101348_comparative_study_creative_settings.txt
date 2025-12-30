@@ -1,0 +1,122 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: comparative study creative settings
+Search Time: 2025-12-30 10:13:48
+Total Available in API: 61923
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 833752c68514387213f648481116f38b1aa71a89
+Title: Musical activities in preschool education: A cross-cultural comparative study
+Authors: Alfredo Bautista, María Elena Riaño, Joanne Wong, Adolf Murillo
+Year: 2023
+Citation Count: 12
+URL: https://www.semanticscholar.org/paper/833752c68514387213f648481116f38b1aa71a89
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+The purpose of this study was to investigate the types of musical activities carried out in preschools for children aged 3–6 years in two contrasting cultural settings: Spain, a Mediterranean European country, and Hong Kong, a special administrative region in China. Participants were 398 teachers in preschools, 199 in each location. We administered a survey in which we asked how often they carried out 19 musical activities. In our analysis, we considered these activities independently and clustered by content (based on the type of musical practice involved) and nature (based on the potential of the activity to foster creativity). Participants in Hong Kong reported carrying out eight activities most often while participants in Spain reported carrying out four activities most often. Regarding content, Singing and Voice activities were provided most often in Hong Kong, whereas Rhythmic Movement activities were provided most often in Spain. Regarding nature, Reproductive activities were carried out more often than Creative activities in both locations. Contrary to our expectations, Creative activities were carried out more often in Hong Kong than Spain. We conclude that there are mismatches between the curriculum for music and actual practices in both cultures, with repetitive musical practices being the most prevalent. Implications are discussed for curriculum designers, teacher educators, and teachers themselves.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 59a2be53f22d124bee9a10c93b71e68c0f5fe74f
+Title: Exploring the Validity of a Creative Personality Scale in University Settings: A Confirmatory Factor Analysis Approach
+Authors: Rahmat Aziz, Fathul Lubabin Nuqul, Endah Kurniawati Purwaningtyas, Yulia Sholichatun, Forbis Ahamed
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/59a2be53f22d124bee9a10c93b71e68c0f5fe74f
+PDF URL: http://repository.uin-malang.ac.id/21275/2/21275.pdf
+
+Abstract:
+: Exploring the Validity of a Creative Personality Scale in University Settings: A Confirmatory Factor Analysis Approach. Objective: This study aims to validate a revised 24-item Creative Personality Scale explicitly tailored for university students using Confirmatory Factor Analysis (CFA). The scale addresses gaps in existing tools initially designed for high school students and offers a more accurate fit for higher education contexts. Methods: A sample of 804 students from various faculties was selected through stratified random sampling to ensure diverse representation. The scale was revised after the initial analysis revealed inconsistencies in certain items within the university context. CFA was then employed to assess the revised scale’s construct validity and reliability. Findings: The revised scale demonstrated significant improvements in internal consistency, with Cronbach’s Alpha increasing from 0.823 to 0.858. Additionally, model fit indices were favourable, with a Comparative Fit Index (CFI) of 0.92 and a Root Mean Square Error of Approximation (RMSEA) of 0.04, indicating strong model validity. Conclusion: This validated scale provides a reliable and accurate tool for assessing creativity in university students. It enables educational institutions to support better creativity development, which is increasingly essential for academic and professional success. The findings significantly contribute to educational psychology by providing a context-sensitive instrument for higher education.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 3385612ae9163e0ed2cfd5b60164de9bc17b28ef
+Title: Recomposition in the music of Kevin Volans: A comparative study investigating three settings of Chakra
+Authors: Dylan Michael Tabisher
+Year: 2015
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/3385612ae9163e0ed2cfd5b60164de9bc17b28ef
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 6181034d7667be7ed7e5c6dbd27697ce9b1d0180
+Title: A Comparative Study of Fashion and IP: Non-traditional Trademarks in Italy and Australia
+Authors: Jacopo Ciani, G. Ghidini, Violet Atkinson, William van Caenegem
+Year: 2019
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/6181034d7667be7ed7e5c6dbd27697ce9b1d0180
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 21a07cdd425ed3943c46b05a354d27bfa2c6f639
+Title: Intellectuals as Sacrificial Heroes: A Comparative Study of Bahram Beyzaie and Wole Soyinka
+Authors: S. Talajooy
+Year: 2015
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/21a07cdd425ed3943c46b05a354d27bfa2c6f639
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 713ba61ea1bc264e7bebf5ecafa3224ca5b27146
+Title: The Impact of Student-Centered Learning on Academic Motivation and Achievement: A Comparative Research between Traditional Instruction and Student-Centered Approach
+Authors: Lichao Wang
+Year: 2023
+Citation Count: 25
+URL: https://www.semanticscholar.org/paper/713ba61ea1bc264e7bebf5ecafa3224ca5b27146
+PDF URL: https://drpress.org/ojs/index.php/EHSS/article/download/12463/12131
+
+Abstract:
+This research explores the shift in the modern educational system towards student-centered learning based on its comparison to the traditional educational methods in standard classroom settings, emphasizing its distinctive factors and significance in creating intrinsic motivation and academic capabilities essential for success. The research underlines the crucial part that student-centered learning plays in developing intellectual capacity and intrinsic drive, both of which are necessary for academic success. The study, grounded in the theoretical underpinnings of creative pedagogy, emphasizes the value of student-centered learning while simultaneously exploring the impact of outside influences, particularly educators' perspectives, attitudes, teaching methods, and evaluation procedures. In order to fill in any gaps, the research explores the complex interplay of these factors within the framework of student-centered learning. The study urges the evolution of instructional strategies to fit the needs of the modern learning environment by emphasizing the importance of embracing and putting into practice student-centered tactics. The study reviews earlier research on student-centered learning and discusses how it might improve student motivation and performance. Additionally, it analyzes the methodology and theoretical framework that support student-centered approaches, including elements like personalization, active learning, and self-directed learning. It further states the importance of generating a supportive learning environment for students with a student-centered approach, emphasizing autonomy, motivation, and relatedness.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 36c39695ea07019ecb53606252f4a8ada8cff925
+Title: Predictive Research of the US Stock Market: Comparative Analysis Based on Multiple Data Science Methods
+Authors: Runduo Li
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/36c39695ea07019ecb53606252f4a8ada8cff925
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This study thoroughly investigates the effectiveness of numerous data science techniques in forecasting trends inside the US stock market using a wide range of machine learning (ML) and deep learning (DL) approaches. Among the investigated techniques are decision trees, random forests, long short-term memory networks (LSTM), and support vector machines (SVM). The study underlines both the benefits and drawbacks of every model in real-world settings by means of numerous comparisons, therefore evaluating its predictive capability. The results show that although simpler models such random forests and decision trees have a degree of interpretability and are easier for investors to understand, they frequently fail to portray the complexity of market behavior. On the other hand, creative models like LSTMs and fusion techniques show shockingly great capacity to analyze and predict complex market processes, so far much above conventional approaches. For legislators seeking improved knowledge of market behavior and trends as well as for investors seeking portfolio optimization, these findings have major ramifications. By means of improved prediction models, stakeholders can make better judgments, so enhancing possibly financial returns. At last, this study provides perceptive analysis that enhances our ability to project on the always shifting terrain of the financial markets.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: e2f105a5091172e0b8540d4ebf9e818ea39fb9bd
+Title: Mental health recovery on care farms and day centres: a qualitative comparative study of users’ perspectives
+Authors: S. Iancu, M. Zweekhorst, D. Veltman, A. V. van Balkom, J. Bunders
+Year: 2014
+Citation Count: 43
+URL: https://www.semanticscholar.org/paper/e2f105a5091172e0b8540d4ebf9e818ea39fb9bd
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

@@ -1,0 +1,140 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: bathroom immersion cognitive flow
+Search Time: 2025-12-30 10:13:48
+Total Available in API: 164
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 389ed5b29c017cda6de645a28b000247882d9821
+Title: A Preliminary Study of the Efficacy of Using a Wrist-Worn Multiparameter Sensor for the Prediction of Cognitive Flow States in University-Level Students
+Authors: Josephine Graft, W. Romine, Brooklynn Watts, Noah L. Schroeder, Tawsik Jawad, Tanvi Banerjee
+Year: 2023
+Citation Count: 5
+URL: https://www.semanticscholar.org/paper/389ed5b29c017cda6de645a28b000247882d9821
+PDF URL: https://www.mdpi.com/1424-8220/23/8/3957/pdf?version=1681384245
+
+Abstract:
+Engagement is enhanced by the ability to access the state of flow during a task, which is described as a full immersion experience. We report two studies on the efficacy of using physiological data collected from a wearable sensor for the automated prediction of flow. Study 1 took a two-level block design where activities were nested within its participants. A total of five participants were asked to complete 12 tasks that aligned with their interests while wearing the Empatica E4 sensor. This yielded 60 total tasks across the five participants. In a second study representing daily use of the device, a participant wore the device over the course of 10 unstructured activities over 2 weeks. The efficacy of the features derived from the first study were tested on these data. For the first study, a two-level fixed effects stepwise logistic regression procedure indicated that five features were significant predictors of flow. In total, two were related to skin temperature (median change with respect to the baseline and skewness of the temperature distribution) and three were related to acceleration (the acceleration skewness in the x and y directions and the kurtosis of acceleration in the y direction). Logistic regression and naïve Bayes models provided a strong classification performance (AUC > 0.7, between-participant cross-validation). For the second study, these same features yielded a satisfactory prediction of flow for the new participant wearing the device in an unstructured daily use setting (AUC > 0.7, leave-one-out cross-validation). The features related to acceleration and skin temperature appear to translate well for the tracking of flow in a daily use environment.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: eab31f2be17bc2b175fc500490b3ab56e4686536
+Title: The Impact of Immersion through Virtual Reality in the Learning Experiences of Art and Design Students: The Mediating Effect of the Flow Experience
+Authors: Cristobal Rodolfo Guerra-Tamez
+Year: 2023
+Citation Count: 63
+URL: https://www.semanticscholar.org/paper/eab31f2be17bc2b175fc500490b3ab56e4686536
+PDF URL: https://www.mdpi.com/2227-7102/13/2/185/pdf?version=1676952712
+
+Abstract:
+This study provides a theoretical model on the effectiveness of learning through virtual reality technology in bachelor art and design students. Surveys were applied to 200 undergraduate art and design students, and the data obtained were analyzed using multivariate partial least squares (PLS) structural equation modeling. Our model results indicate that immersion VR has a positive impact on the flow experience. Moreover, the data demonstrated a mediating effect of the flow experience on the learning experience variable explained through motivation, curiosity, cognitive benefits, reflective thinking, and the perception of value. These results have possibilities for academic art and design institutions to increase learning in the classroom through virtual reality technology, leaving the possibility of replicating the model in other areas of study.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: e3231e6ad62f98dcaecef1ac0a503b86a2d993e9
+Title: Navigating the State of Cognitive Flow: Context-Aware AI Interventions for Effective Reasoning Support
+Authors: Dinithi Dissanayake, Suranga Nanayakkara
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/e3231e6ad62f98dcaecef1ac0a503b86a2d993e9
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Flow theory describes an optimal cognitive state where individuals experience deep focus and intrinsic motivation when a task's difficulty aligns with their skill level. In AI-augmented reasoning, interventions that disrupt the state of cognitive flow can hinder rather than enhance decision-making. This paper proposes a context-aware cognitive augmentation framework that adapts interventions based on three key contextual factors: type, timing, and scale. By leveraging multimodal behavioral cues (e.g., gaze behavior, typing hesitation, interaction speed), AI can dynamically adjust cognitive support to maintain or restore flow. We introduce the concept of cognitive flow, an extension of flow theory in AI-augmented reasoning, where interventions are personalized, adaptive, and minimally intrusive. By shifting from static interventions to context-aware augmentation, our approach ensures that AI systems support deep engagement in complex decision-making and reasoning without disrupting cognitive immersion.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: b91a4294e76d3a684bf81a11401b7a777f3069a9
+Title: Enhancing flow states in neurodivergent individuals through cognitive network integration
+Authors: P. Hutson, James Hutson
+Year: 2024
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/b91a4294e76d3a684bf81a11401b7a777f3069a9
+PDF URL: https://doi.org/10.36922/ghes.4345
+
+Abstract:
+This article explores the concept of “flow” in the context of neurodivergence, focusing on the interaction between the default mode network (DMN) and task-positive networks (TPNs), particularly in conditions such as autism spectrum condition (ASC) and attention-deficit/hyperactivity disorder (ADHD). Flow, a state of deep immersion and focused engagement, is associated with enhanced performance and satisfaction across activities. The DMN, typically active during rest and self-referential thinking, interacts uniquely with TPNs during flow states, creating a dynamic balance crucial for sustained focus and reduced self-referential thinking. Neurodivergent individuals often exhibit distinct DMN activity patterns, which affect their capacity for achieving flow. For instance, individuals with ADHD may experience flow in stimulating tasks, whereas those with ASC may achieve it in areas of deep interest due to their intense focus. This paper examines the expertise-and-release model in creative flow and transient hypofrontality as a potential mechanism facilitating flow in neurodivergent individuals. It also proposes strategies to enhance flow through personalized cognitive training, specialized task environments, and technology-assisted interventions, aiming to harness neurodivergent strengths and accommodate unique cognitive profiles. This comprehensive analysis deepens understanding of neurodiversity and offers practical applications for improving quality of life and performance in neurodivergent populations.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 14216143344257878eef2cc12827384871f08974
+Title: Impact of Virtual Reality Immersion in Biology Classes on Habits of Mind of East Jerusalem Municipality High School Students: Examining Mediating Roles of Self-Regulation, Flow Experience, and Motivation
+Authors: Nader Neiroukh, Abedalkarim Ayyoub
+Year: 2025
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/14216143344257878eef2cc12827384871f08974
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This quantitative study investigates the effects of virtual reality immersion on enhancing scientific habits of mind (critical and creative thinking) through the mediation of flow experience, motivation, and self-regulation in high school biology classes in East Jerusalem. The random multi-stage cluster sample consisted of 347 high school students from three schools who learned biology concepts constructively during the first semester using VR-based instruction, complying with the principles of the Cognitive Affective Model of Immersive Learning (CAMIL). The results of PLS-SEM revealed that VRI significantly affected critical and creative thinking directly and indirectly. Cases of partial and complete mediation intervened, showing the effects of mediators on enhancing habits of mind through a sequence of mediation flowing from flow experience through motivation to self-regulation, which functioned as a key intermediary factor in the relationship between virtual reality immersion and habits of mind. Based on the results of the study, the complex structure warrants further investigation. The results of the study suggest that VRI’s impact on critical and creative thinking was intensified through mediation effects. In addition, the findings confirm that flow experience and motivation played essential roles in fostering a conducive learning environment that supports cognitive skill development. The results highlight that the enhancement of self-regulation was a necessary step for the enhancement of critical and creative thinking. The study recommends integrating VRI into teaching biology to enhance students’ higher-order thinking skills. Further studies on self-regulation should explore adaptive interventions that strengthen self-regulatory strategies to maximize the cognitive benefits of virtual reality immersion.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 6b724d8f84ef73362fdb7048bd8a663d116f6fcd
+Title: Augmented reality perceived value in expo tourism: exploring the roles of spatial presence, immersion, flow and readiness
+Authors: Amjad Abu Elsamen, A. Fotiadis, Shih-Shuo Yeh, Li-Hui Chang, T. Huan
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/6b724d8f84ef73362fdb7048bd8a663d116f6fcd
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+
+ 
+ Drawing on flow theory and the technology readiness index, the purpose of this study is to examine how spatial presence influences tourists’ flow experiences and how immersion mediates this relationship. It then explores how flow contributes to the perceived cognitive value of augmented reality (AR) and how technology readiness moderates the impact of flow on cognitive AR value.
+ 
+ 
+ 
+ From an initial pool of 1,506 respondents, a comprehensive set of rigorous screening criteria was applied to ensure that participants had attended Expo Dubai and could accurately identify the pavilions that incorporated AR technology. The final sample consisted of 315 valid responses. Partial least squares structural equation modeling was used to test all hypotheses.
+ 
+ 
+ 
+ Findings reveal that immersion partially mediated the relationship between spatial presence and tourists’ flow experiences, while flow directly influenced their cognitive AR value. Moreover, technology readiness significantly moderated the relationship between tourists’ flow experiences and cognitive AR value.
+ 
+ 
+ 
+ These findings offer theoretical contributions to the understanding of AR in tourism and provide practical insights for designing more engaging, immersive and user-centered AR applications.
+
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: acd194239ef8420f4de8e92c8805061a736be94c
+Title: The Learning Process in Live-Action Simulation Games: The Impact of Personality, Motivation, Immersion, and Flow on Learning Outcome in a Simulation Game.
+Authors: Anna K. Preuß
+Year: 2021
+Citation Count: 5
+URL: https://www.semanticscholar.org/paper/acd194239ef8420f4de8e92c8805061a736be94c
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Background Against the backdrop of the cognitive-motivational process model proposed by Vollmeyer and Rheinberg (1998), this study investigates how the personality trait need for cognition in combination with a specific situation (short and long version of a live-action simulation game), current motivation, and immersion and flow (mediators) predict the learning outcome in the simulation game EVERYDAY LIFE IN THE CLASSROOM (Starker & Imhof, 2014). Methods N = 138 teacher students played the short 2-hour version of the simulation game, and N = 77 played the long 2-day version. Need for cognition, current motivation, immersion, flow, and learning outcome were measured by self-report questionnaires. Results A hierarchical regression analysis was used to determine the impact of the predictor variables (need for cognition, current motivation, immersion, and flow) on the self-evaluated learning outcome. For the 2-hour group, the predictor variables interest, challenge, and immersion (subscale: engagement) impacted self-reported learning outcome significantly positive. For the 2-day group, significant predictors were need for cognition, interest, and immersion (subscale: engrossment). In comparison of the two game versions, students playing the 2-day version reported significantly higher levels of engagement, engrossment, and learning outcome. Conclusion The cognitive-motivational process model of learning was partly supported: interest and immersion predict learning outcome in the live-action simulation game. The extended 2-day version of the game leads to higher levels of immersion and higher learning outcome, indicating that a longer timeframe secures the desired effects on learning outcome from simulation games. Further research needs to shed light on the interaction of personality traits and immersion.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: dc0cc672da8d995e6977736a4e043ee775169ecd
+Title: Exploring Stories, Reading Environments: Flow, Immersion, and Presence as Processes of Becoming
+Authors: Elisabetta Modena, F. Parisi
+Year: 2021
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/dc0cc672da8d995e6977736a4e043ee775169ecd
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

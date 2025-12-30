@@ -1,0 +1,126 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: bathroom environment idea generation
+Search Time: 2025-12-30 11:18:25
+Total Available in API: 11721
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 3451f64fafa689a46aa902f9536a63c1fae7eb5e
+Title: LED Lightbulbs as a Source of Electricity Saving in Buildings
+Authors: Akhtar Zeb, M. A. Roméro, Dinar Baiguskarov, Sanzhar Aitbayev, K. Strelets
+Year: 2016
+Citation Count: 15
+URL: https://www.semanticscholar.org/paper/3451f64fafa689a46aa902f9536a63c1fae7eb5e
+PDF URL: https://www.matec-conferences.org/articles/matecconf/pdf/2016/36/matecconf_tpacee2016_02004.pdf
+
+Abstract:
+Today a number of renewable energy technologies are available for power generation, but fossil fuels are still providing a dominant share nevertheless. In order to decrease the electric bill and save our environment, energy conservation is always crucial. In this paper a very interesting idea is presented which is economically viable to reduce electricity usage in our buildings. An effort has been made to estimate the amount of energy that could be saved in the dormitory section of the IMOP building in Russia. Although there are many ways to reduce the consumption of electricity in this building but here the emphasis is on changing light bulbs inside the rooms, kitchen, toilet and bathroom of each apartment. The scope of the study is to figure out monthly electricity saving by replacing traditional light bulbs by LED light bulbs in the building under consideration. The total investment required and the payback period is also presented.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: f07685cc6b6dfbc932f646b2d2d6cdca3b364f73
+Title: TestSpark: IntelliJ IDEA's Ultimate Test Generation Companion
+Authors: Arkadii Sapozhnikov, Mitchell Olsthoorn, Annibale Panichella, Vladimir Kovalenko, P. Derakhshanfar
+Year: 2024
+Citation Count: 29
+URL: https://www.semanticscholar.org/paper/f07685cc6b6dfbc932f646b2d2d6cdca3b364f73
+PDF URL: https://dl.acm.org/doi/pdf/10.1145/3639478.3640024
+
+Abstract:
+Writing software tests is laborious and time-consuming. To address this, prior studies introduced various automated test-generation techniques. A well-explored research direction in this field is unit test generation, wherein artificial intelligence (AI) techniques create tests for a method/class under test. While many of these techniques have primarily found applications in a research context, existing tools (e.g., EvoSuite, Randoop, and AthenaTest) are not user-friendly and are tailored to a single technique. This paper introduces Test-Spark, a plugin for IntelliJ IDEA that enables users to generate unit tests with only a few clicks directly within their Integrated Development Environment (IDE). Furthermore, TestSpark also allows users to easily modify and run each generated test and integrate them into the project workflow. TestSpark leverages the advances of search-based test generation tools, and it introduces a technique to generate unit tests using Large Language Models (LLMs) by creating a feedback cycle between the IDE and the LLM. Since TestSpark is an open-source (https://github.com/JetBrains-Research/TestSpark), extendable, and well-documented tool, it is possible to add new test generation methods into the plugin with the minimum effort. This paper also explains our future studies related to TestSpark and our preliminary results. Demo video: https://youtu.be/0F4PrxWfiXo
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: eefcf474270ef2fe81a346c19041568c357eefc9
+Title: Unravelling the process of idea generation and assessment during the PhD trajectory: A case study approach
+Authors: Marie Gruber, Thomas Crispeels
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/eefcf474270ef2fe81a346c19041568c357eefc9
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/hequ.12523
+
+Abstract:
+The three missions of universities are education, research, and knowledge/technology transfer. At the micro‐level of the research and knowledge/technology transfer mission, we position researchers, as individuals who decided to pursue a scientific career in academia, with the PhD as the starting point. While existing literature acknowledges the supervisor's significance during this process from dependency to autonomy, this paper advocates for a closer examination of external factors such as the network, supervisor's experience, and work environment in idea generation. Ideas in this context encompass both curiosity‐driven and entrepreneurial concepts, often evolving from one to the other. Our research builds upon the theory of opportunity identification, drawing parallels between ideas and opportunities. The research asserts that PhD students primarily rely on their networks for idea generation due to limited prior knowledge and experience. Our findings underscore the dynamic interplay between PhD students, supervisors, and networks in the process of idea generation, advancing a comprehensive framework encapsulating the multifaceted influences on the trajectory from idea generation to execution in the context of PhD education. The framework is based on empirical evidence from a qualitative case study comprising 16 PhD students in a European H2020 project in the field of Photonics, illuminating the intricate relationship between supervisors' orientations (entrepreneurial or curiosity‐driven) and the types of ideas generated by PhD students. Practical implications highlight the need for tailored support and resources to foster independent research capabilities among PhD students, considering individual variations in supervisory support and networking opportunities.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: c4193bbfac194e994f607246c8463d24248c099c
+Title: Student speed dating as a catalyst for creative idea generation in sport management programs
+Authors: Logan Schuetz, Yo Han Lee, T. Hajek, Brady Runyan
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/c4193bbfac194e994f607246c8463d24248c099c
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This article presents a novel approach to addressing the challenges of idea generation among students in higher education, particularly in the field of sport management. Based on research into student engagement and creativity, the authors suggest incorporating speed dating techniques into both in-person and online classes. Speed dating sessions, conducted in breakout rooms via platforms like Zoom and Microsoft Teams, offer students multiple opportunities to engage in brief, structured interactions, thereby enhancing their presentation skills, idea generation, and perspectives through structured, rapid interactions. Additionally, this method encourages greater collaboration and active participation, improving the overall learning environment. This strategy not only fosters theoretical education, but also promotes self-regulated learning and academic motivation. Furthermore, speed dating encourages critical thinking, team-building, and peer evaluation skills, all essential in sport management education. By seamlessly integrating speed dating with instructor-driven tools, educators can optimize the online or hybrid class model, benefiting both instructors and students in sport management programs. Overall, the incorporation of speed dating represents a promising approach to enhancing student idea generation and creativity across diverse educational contexts, providing valuable insights and implications for future practice.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 0e2c26a0fb3e813a5b584c4c824c2887c4f17235
+Title: Creative Commuter: Towards Designing Moments for Idea Generation and Incubation during the Commute
+Authors: Pablo E Paredes, Matthew K. Hong, Shabnam Hakimi, Matt Klenk
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/0e2c26a0fb3e813a5b584c4c824c2887c4f17235
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This research proposes leveraging commute time by car for idea incubation, targeting 80% of the US workforce who commute daily. Commuting, a potentially "mindless" task for seasoned drivers, offers an ideal environment for creative thinking that can be enhanced by mild immersive interactions to improve idea generation. The project integrates psychological interventions tailored for driving, drawing on automated driving advancements to ensure safety and effectiveness. Using a context-aware sensing framework, interactions are timed during appropriate driving scenarios to minimize distraction. The system obtains context data from car sensors and employs generative AI to deliver subtle interactions, enhancing user engagement and idea output without compromising safety. Evaluation includes measuring user engagement and post-drive self-reports to quantify the impact on idea generation and driving performance. This innovation integrates creativity support tools into daily commutes, potentially transforming in-car intelligence systems and enhancing productivity and innovation capabilities.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 8a3b1f408509ee9cb89e880e094fdc072e195999
+Title: Analysing Education Modes for Creative Idea Generation: Online Versus Offline Learning
+Authors: Bhumika Verma
+Year: 2024
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/8a3b1f408509ee9cb89e880e094fdc072e195999
+PDF URL: https://ijsrem.com/download/analysing-education-modes-for-creative-idea-generation-online-versus-offline-learning/?wpdmdl=33934&refresh=6659c1d5b2d9b1717158357
+
+Abstract:
+The value of education in the economy has increased significantly. One person from another is determined by such a factor. It gives people confidence, prepares them for life's obstacles, and is essential to success. It continues to be essential to our nation's development and growth. This research paper compares online and offline learning environments in order to examine the effects and efficacy of each. By examining the pros and disadvantages of each learning environment, it will be possible to determine which learning environment is best. This research paper's major goal is to help readers understand the benefits and efficiency of traditional classroom instruction as well as the advantages of online learning. As a result, it should be extremely evident which method is preferable for learning. Key words – Online, Offline learning, Creative idea, Students, Teachers
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 5889214fdd926495bd0312f11353b85409c4933a
+Title: Student Intrinsic Motivation for Online Creative Idea Generation: Mediating Effects of Student Online Learning Engagement and Moderating Effects of Teacher Emotional Support
+Authors: Li Wang
+Year: 2022
+Citation Count: 26
+URL: https://www.semanticscholar.org/paper/5889214fdd926495bd0312f11353b85409c4933a
+PDF URL: https://www.frontiersin.org/articles/10.3389/fpsyg.2022.954216/pdf
+
+Abstract:
+The online creativity generation research is a new field of creativity research. However, very little is known about the specific psychological processes of online idea generation. Against this background, this study explored the correlation between student intrinsic motivation and online creativity and possible mechanisms that may lie within this relationship. A sample of 423 Chinese students from three public universities participated in this study by completing measurements of intrinsic motivation, online learning engagement, creativity, and perceived teacher emotional support. The results indicated that student online learning engagement partially mediates the positive association between student intrinsic motivation and their online creativity. Teacher emotional support moderates the positive relationship between student intrinsic motivation and online learning engagement. Our findings suggested that student online creativity benefited from their intrinsic motivation in an online environment. The limitations of this study were also discussed.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: c97d6c8b8c0ad57da712cd4de215c64b05904cfd
+Title: IdeaBench: Benchmarking Large Language Models for Research Idea Generation
+Authors: Sikun Guo, Amir Hassan Shariatmadari, Guangzhi Xiong, Albert Huang, Eric Xie, Stefan Bekiranov, Aidong Zhang
+Year: 2025
+Citation Count: 23
+URL: https://www.semanticscholar.org/paper/c97d6c8b8c0ad57da712cd4de215c64b05904cfd
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Large Language Models (LLMs) have revolutionized interactions between human and artificial intelligence (AI) systems, demonstrating state-of-the-art performance across various domains, including scientific discovery and hypothesis generation. However, the absence of a comprehensive and systematic evaluation framework for LLM-driven research idea generation hinders a rigorous understanding of their strengths and limitations. To address this gap, we propose IdeaBench, a benchmark system that provides a structured dataset and evaluation framework for standardizing the assessment of research idea generation by LLMs. Our dataset comprises titles and abstracts from 2,374 influential papers across eight research domains, along with their 29,408 referenced works, creating a context-rich environment that mirrors human researchers' ideation processes. By profiling LLMs as domain-specific researchers and grounding them in similar contextual constraints, we directly leverage the models' knowledge learned from the pre-training stage to generate new research ideas. To systematically evaluate LLMs' research ideation capability and approximate human assessment, we propose a reference-based metric that aligns with human judgment to quantify idea quality with the assistance of LLMs. Through this evaluation, we find that while LLMs excel at generating novel ideas, they may struggle with generating feasible ideas. IdeaBench serves as a critical resource for benchmarking and comparing LLMs, ultimately advancing research on AI's role in automating scientific discovery.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

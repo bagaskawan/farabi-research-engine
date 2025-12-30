@@ -1,0 +1,122 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: mind wandering creative incubation
+Search Time: 2025-12-30 11:18:25
+Total Available in API: 248
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 8b4aab01bf877fd2433749bc42abb578a7d3de6f
+Title: Mind wandering during creative incubation predicts increases in creative performance in a writing task
+Authors: Colin McDaniel, Assal Habibi, Jonas Kaplan
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/8b4aab01bf877fd2433749bc42abb578a7d3de6f
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Previous studies suggest that taking breaks from creative problem solving (i.e., incubation periods) enhances subsequent performance, possibly due to mind wandering during these breaks. The present preregistered study investigated whether different types of incubation periods, designed to either promote or suppress mind wandering, influence creativity in a writing task. Participants wrote two fictional short stories based on a prompt, separated by a 10-min incubation task (0-back task, 2-back task, mindfulness meditation, or no-break control). To distinguish story-specific incubation effects from more general cognitive benefits, some participants received the same prompt after the break while others received a new prompt. Mind wandering during incubation was assessed with a validated retrospective questionnaire and story creativity was evaluated by both human raters and a semantic distance-based measure. Results showed no significant differences in creative improvement (pre- to post-incubation) across incubation tasks. However, regardless of task, greater mind wandering during incubation predicted greater within-subject creative improvement, as assessed by semantic distance, for participants who received the same prompt after the break but not for those who received a new prompt. Notably, this benefit was specific to mind wandering and did not extend to other types of thought during incubation, including explicit thought about the story. The relationship remained significant after controlling for dispositional mind wandering and was corroborated by creativity ratings from GPT-4. These findings suggest a potentially beneficial role of mind wandering during the incubation of a creative writing task.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 03a3696d674b68fe6e373b8e5b7954f1c1b3dcff
+Title: The shower effect: Mind wandering facilitates creative incubation during moderately engaging activities.
+Authors: Zachary C. Irving, Cathy McGrath, L. Flynn, Aaron Glasser, Caitlin Mills
+Year: 2022
+Citation Count: 18
+URL: https://www.semanticscholar.org/paper/03a3696d674b68fe6e373b8e5b7954f1c1b3dcff
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 9dec416f545efc70d012c0371f7e6fe7c66f1f70
+Title: Spontaneous or Deliberate: The Dual Influence of Mind Wandering on Creative Incubation
+Authors: Tianchen Yang, Guohong Wu
+Year: 2022
+Citation Count: 13
+URL: https://www.semanticscholar.org/paper/9dec416f545efc70d012c0371f7e6fe7c66f1f70
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: d96dcde7a4d1f7362a13cfd8172e304b598a1653
+Title: Mind wandering outside the box—About the role of off-task thoughts and their assessment during creative incubation.
+Authors: Lena Steindorf, Holly A. Hammerton, Jan Rummel
+Year: 2020
+Citation Count: 28
+URL: https://www.semanticscholar.org/paper/d96dcde7a4d1f7362a13cfd8172e304b598a1653
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: ed5eeded908e70f21561649e5b05fe9b8e6e4ebb
+Title: On How Mind Wandering Facilitates Creative Incubation While Using Information Technology: A Research Agenda for Robust Triangulation
+Authors: F. M. Oschinsky, Bjoern Niehaves, R. Riedl, Michael Klesel, S. Wriessnegger, Gernot R. Mueller-Putz
+Year: 2021
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/ed5eeded908e70f21561649e5b05fe9b8e6e4ebb
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 8d5aca3935c404226a91e17e183262af6c0cc6af
+Title: Mind wandering simultaneously prolongs reactions and promotes creative incubation
+Authors: M. Leszczyński, L. Chaieb, Thomas P. Reber, Marlene Derner, N. Axmacher, J. Fell
+Year: 2017
+Citation Count: 87
+URL: https://www.semanticscholar.org/paper/8d5aca3935c404226a91e17e183262af6c0cc6af
+PDF URL: https://www.nature.com/articles/s41598-017-10616-3.pdf
+
+Abstract:
+Mind wandering (MW) refers to the disengagement of attention from the external environment and the generation of thoughts unrelated to the task at hand. It is a ubiquitous cognitive process resulting in lapses of attention. MW imposes a negative impact on attention-based task performance, but also has been associated with enhanced creativity and future planning. In three experiments we show that MW relates simultaneously to both behavioral costs but also benefits. Behavioral costs were measured by prolonged reaction times (RT) in sustained attention to response tasks (SART), whereas the benefits were observed as improved performance in the creative problem solving and daily routine planning tasks performed after the SART. Additionally, we found an increased dispersion of RTs during MW suggesting that attention during these times underwent dynamical changes compared to states when participants were fully focused on the task. Our results support a model in which MW deteriorates performance in the task at hand and is related to dynamical changes in attention. At the same time it is also able to improve human capacity for complex operations.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 300643fe94ae6013837b072260a965ec33d2dd0c
+Title: The Role of Mind Wandering During Incubation in Divergent and Convergent Creative Thinking
+Authors: Qiuyu Du, Rebecca Gordon, Andrew K Tolmie
+Year: 2025
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/300643fe94ae6013837b072260a965ec33d2dd0c
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Background/Objectives. While mind wandering has often been linked to negative outcomes, some research suggests it has potential benefits for creativity, particularly through incubation. However, two critical gaps remain: limited understanding of mind wandering’s effects on creative performance and lack of comparative research examining its impact on both divergent and convergent thinking. The study addressed these gaps by comparing the effects of two types of mind wandering (i.e., with and without awareness) on both types of creative thinking, using repeated and novel problems post-incubation to isolate effects. Methods. Eighty-five participants completed divergent (Unusual Uses Task, UUT) and convergent (Compound Remote Associate Task, CRA) thinking tasks, interspersed with a 0-back incubation task. Thought probes measured mind wandering frequency and awareness. Performance was assessed for fluency and originality (UUT) and accuracy (CRA), with problems categorised by difficulty. Results. Results revealed no significant effects of mind wandering on divergent thinking, though incubation improved fluency, particularly for repeated items. For convergent thinking, mind wandering with awareness enhanced performance on low-difficulty repeated items, while mind wandering without awareness hindered novel moderate-difficulty items. Divergent and convergent performance showed no correlation, suggesting distinct cognitive demands. Conclusions. The findings provide evidence that mind wandering’s impact on creativity is limited and context-dependent, with conscious reflection during incubation more beneficial than uncontrolled drifting. Differences in task demands and difficulty levels further modulate these effects. Future research should explore naturalistic settings and use of incubation tasks that do not compete for cognitive resources with the core task to better understand incubation and mind wandering’s roles in creativity.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 21879b055e80b2a37f0087ac71c05a649822618e
+Title: The Elusive Benefits of Mind Wandering: How Incentive Scheme and Task Structure Facilitate Creative Incubation in a Multitask Environment
+Authors: Jeffrey Hales, Wenqian Hu, Ivo D. Tafkov
+Year: 2019
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/21879b055e80b2a37f0087ac71c05a649822618e
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+We use two experiments to investigate how incentive scheme and task structure influence creative incubation in a multitask environment where participants perform both creative and simple routine tasks. In our first experiment, where participants are given the discretion to switch between a creative and a routine task, we find that creativity-based incentives generate the most incubation benefits in terms of the greatest number of high-creativity ideas compared to quantity-based incentives and fixed wage. However, we find little evidence that incentive scheme itself can effectively “nudge” individuals to self-select into an incubation period. In our second experiment, we examine whether randomly assigning participants to switch between tasks can achieve the incubation benefits we observed in our first experiment. Results suggest that the performance advantage under creativity-based incentives disappears when the task environment is structured in a way that forces an incubation period. Taken together, our results suggest that employees need both the right incentives and self-insight with regard to the right switching time to gain incubation benefits in a multitask environment. Further, the simple way to impose an incubation period can backfire, as the interruption costs may outweigh the incubation benefits once the switching is forced during creative production.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================
