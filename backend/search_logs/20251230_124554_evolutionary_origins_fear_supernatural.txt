@@ -1,0 +1,121 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: evolutionary origins fear supernatural
+Search Time: 2025-12-30 12:45:54
+Total Available in API: 505
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 1d287f02e80cd0485d24331f5515cebd21012a2d
+Title: Conceptualizing the Past in the Medieval Imagination: An Analytical Study
+Authors: Jayarathne Sdy, Fernando Mjrs, Dassanayaka Dmpp
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/1d287f02e80cd0485d24331f5515cebd21012a2d
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Following the collapse of the Roman Empire in the 5th century AD, the medieval period emerged and continued until the 15th century AD. As noted by Trigger (2006), medieval perceptions of the past can be categorized under several dominant conceptual themes. One major notion was the belief surrounding the origins of the world and early humanity. Medieval observers encountering monumental architectural remains frequently interpreted them as creations beyond ordinary human ability, often attributing them to giants or supernatural beings (Duby, 1980). The exceptional strength and craftsmanship of these structures led to widespread assumptions that they contained hidden valuables, especially gold. Consequently, early grave excavations were driven not only by the prospect of material gain but also by fascination with the marvels of antiquity (Le Goff, 1988). By the height of the medieval period, fear of curses or magical forces associated with ancient sites had diminished, replaced by intellectual curiosity regarding their uniqueness and origins. The medieval worldview was further shaped by the Church, which asserted theological authority over interpretations of creation and history. When scientific explanations arose concerning the formation of the world, ecclesiastical doctrine reaffirmed divine creation as the ultimate truth (Southern, 1990). Although scientific thinking developed during this period, it remained closely linked to, and constrained by, theological frameworks (Grant, 1996). The Church taught that the world had become corrupted following the sin of Adam and Eve, resulting in the dispersion and moral decline of humanity. Natural decay and transformation were thus interpreted as evidence of the world’s progressive degradation. Another prevailing medieval idea was that global history unfolded as a sequence of divinely preordained events, a view reinforced by biblical narratives (Collingwood, 1993). History was understood as fragmented and imperfect, while the past was interpreted as both transitional and miraculous, inviting theological as well as emerging scientific explanations. Although the dominance of the Church restricted systematic empirical study, medieval writings on antiquity nevertheless laid an important conceptual foundation for later archaeological thought (Trigger, 2006). Overall, the Middle Ages can be characterized as a period in which understandings of the human past were framed within divine authority and idealized temporal structures. These medieval conceptions ultimately influenced the intellectual shifts of the Renaissance, which was supported by scientific advancements that spread widely by the 16th century AD (Burke, 1999).
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 7b686854a6632efb3b2a49b77c4c7af922cbd03a
+Title: Fear of supernatural punishment can harmonize human societies with nature: an evolutionary game-theoretic approach
+Authors: Shota Shibasaki, Yo Nakawake, Wakaba Tateishi, Shuhei Fujii, Ryosuke Nakadai
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/7b686854a6632efb3b2a49b77c4c7af922cbd03a
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: ad13c06c7b21583f424e41ce6c6777fa18e7e4bf
+Title: The evolutionary origins of the supernatural in ritual behaviours
+Authors: M. Winkelman
+Year: 2019
+Citation Count: 8
+URL: https://www.semanticscholar.org/paper/ad13c06c7b21583f424e41ce6c6777fa18e7e4bf
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 11ddeb265f50c04e528fda66b6d5c07df052e57c
+Title: Japanese monkeys (Macaca fuscata) quickly detect snakes but not spiders: Evolutionary origins of fear-relevant animals.
+Authors: N. Kawai, H. Koda
+Year: 2016
+Citation Count: 62
+URL: https://www.semanticscholar.org/paper/11ddeb265f50c04e528fda66b6d5c07df052e57c
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: ce30cad2ae340e93a5238b0637263440e7ea1d7b
+Title: Tribalism: The Evolutionary Origins of Fear Politics
+Authors: S. Hobfoll
+Year: 2018
+Citation Count: 16
+URL: https://www.semanticscholar.org/paper/ce30cad2ae340e93a5238b0637263440e7ea1d7b
+PDF URL: https://link.springer.com/content/pdf/bfm:978-3-319-78405-2/1?pdf=chapter%20toc
+
+Abstract: Not available
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 5679c65144757fc938122cf966ea9649c1b94421
+Title: Is Fear of Supernatural Punishment the Foundation of Religion? An Examination of Bering’s Theory of Dead Agents
+Authors: Chong Ho Alex Yu, Juanita M. Cole, W. Whitney
+Year: 2023
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/5679c65144757fc938122cf966ea9649c1b94421
+PDF URL: http://childhoodandreligion.com/wp-content/uploads/2015/03/Wigger-May-2011.pdf
+
+Abstract:
+Cognitive psychologist Bering attempted to explain away religion by suggesting that the evolutionary process pre-disposed the human mind to assume a spiritual realm in which dead people continue to keep their consciousness. In Bering’s study participants were asked to rate the characteristics of persons in given photos in two sittings. When the experimenter told the participants that one of the persons in the photo passed away in the second round, the average ratings for that person significantly went up. Bering concluded that higher ratings were a result of participants’ fear of being punished by the dead agent. By replicating this experiment, the authors found that initially the non-religious group gave higher ratings to the dead person than the religious group in the pretest, but the order switched in the posttest. Our study suggests that there might be alternate sources of our belief system, and also there might be alternate explanations for the same phenomenon revealed by the data.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 6b80d997cc01e514e29afc5055b39ec9d3a94fb0
+Title: The human fear paradox: Affective origins of cooperative care
+Authors: T. Grossmann
+Year: 2022
+Citation Count: 14
+URL: https://www.semanticscholar.org/paper/6b80d997cc01e514e29afc5055b39ec9d3a94fb0
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Abstract Already as infants humans are more fearful than our closest living primate relatives, the chimpanzees. Yet heightened fearfulness is mostly considered maladaptive, as it is thought to increase the risk of developing anxiety and depression. How can this human fear paradox be explained? The fearful ape hypothesis presented herein stipulates that, in the context of cooperative caregiving and provisioning unique to human great ape group life, heightened fearfulness was adaptive. This is because from early in ontogeny fearfulness expressed and perceived enhanced care-based responding and provisioning from, while concurrently increasing cooperation with, mothers and others. This explanation is based on a synthesis of existing research with human infants and children, demonstrating a link between fearfulness, greater sensitivity to and accuracy in detecting fear in others, and enhanced levels of cooperative behaviors. These insights critically advance current evolutionary theories of human cooperation by adding an early-developing affective component to the human cooperative makeup. Moreover, the current proposal has important cultural, societal, and health implications, as it challenges the predominant view in Western, educated, industrialized, rich, and democratic (WEIRD) societies that commonly construe fearfulness as a maladaptive trait, potentially ignoring its evolutionary adaptive functions.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: abc8b68370e17e8cea6ea414252ea86cd3b42bb2
+Title: Competence and the Evolutionary Origins of Status and Power in Humans
+Authors: B. Chapais
+Year: 2015
+Citation Count: 84
+URL: https://www.semanticscholar.org/paper/abc8b68370e17e8cea6ea414252ea86cd3b42bb2
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

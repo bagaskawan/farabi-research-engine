@@ -1,0 +1,150 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: clinical interventions demonic fear
+Search Time: 2025-12-31 12:38:54
+Total Available in API: 7993
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: d7b1dc1a8c2f4ccf75ad64a3109db6a11ae26ae4
+Title: Fear of Recurrence in Advanced Cancer Patients: Sociodemographic, Clinical, and Psychological Correlates
+Authors: C. Calderón, Marina Gustems, Rocío Galán-Moral, M. Muñoz-Sánchez, Lorena Ostios-Garcia, P. Jiménez-Fonseca
+Year: 2024
+Citation Count: 17
+URL: https://www.semanticscholar.org/paper/d7b1dc1a8c2f4ccf75ad64a3109db6a11ae26ae4
+PDF URL: https://www.mdpi.com/2072-6694/16/5/909/pdf?version=1708699612
+
+Abstract:
+Simple Summary This study explores the fear of cancer recurrence in patients with advanced cancer undergoing systemic treatment, examining its association with sociodemographic and psychological factors. A multicenter study was conducted across 15 oncology departments in Spain, involving 1195 participants. Two groups based on fear levels were identified: 28% with low levels and 72% with high levels. High fear was associated with being female, being younger, having lower education, and having worse survival estimates, as well as increased depression, anxiety, somatic symptoms, uncertainty, and stronger social support. The findings highlight the need for targeted interventions and specific support for advanced cancer patients. Abstract Fear of cancer recurrence significantly impacts advanced cancer patients, prompting emotional distress and increased healthcare utilization. This present study aims to analyze the fear of recurrence among patients with advanced cancer undergoing systemic treatment and its relationship with sociodemographic, clinical, and psychological factors. A multicenter cross-sectional study was conducted in 15 oncology departments across Spain, involving patients with locally advanced, unresectable, or metastatic cancer eligible for systemic treatment. Participants provided demographic information and completed instruments such as the Cancer Worry Scale, Brief Symptom Inventory, Mishel Uncertainty in Illness Scale, and the Duke–UNC-11 Functional Social Support Questionnaire (DUFSSQ). A total of 1195 participants participated: median age 66, 56% male, mostly metastatic cancers (80%), and common tumor sites. Two fear groups emerged: 28% low and 72% high levels of fear. High fear was associated with being female, being younger, lower levels of education, and worse survival estimates. High fear correlated with more depression, anxiety, somatic symptoms, uncertainty, and stronger social support. Multivariate analyses indicated that younger patients, those with shorter survival estimates, higher depression and anxiety scores, more uncertainty, and stronger social support had a greater likelihood of experiencing fear of recurrence, while the opposite was true for older patients. This study underscores distinct fear of recurrence profiles in advanced cancer patients, emphasizing the need for targeted interventions and support. Future research should delve deeper into understanding their repercussions for improving patient care and well-being.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: deda48792abbca4dcbdc3a43dcbd9472cfd01fba
+Title: Prescription drug, healthcare utilization, and lost earnings cost of behavioral interventions for fear of cancer recurrence in breast cancer survivors.
+Authors: P. Yeh, Jae Man Park, Kathy D. Miller, D. Lairson, Shelley A. Johns
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/deda48792abbca4dcbdc3a43dcbd9472cfd01fba
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+e24095 Background: Breast cancer survivors experience distress due to the fear of cancer recurrence. Acceptance and commitment therapy (ACT) and cognitive behavioral therapy (CBT) can treat the fear of cancer recurrence. However, no study has applied economic evaluation methods to estimate ACT and CBT behavioral intervention costs for breast cancer survivors. Methods: 384 adult stage I-IIIA breast cancer survivors with fear of cancer recurrence were randomly assigned to either the ACT (n = 128), CBT (n = 128), or enhanced usual care (EUC, n = 128) groups. Through micro-costing, we assessed the societal perspective cost of behavioral interventions using 2022 dollars. Per-capita drug costs, healthcare utilization, and lost productivity were calculated using participant survey data. Drug costs were estimated using Micromedex’s Red Book wholesale unit price. The 2022 Medicare Physician Fee Schedule for Indiana estimated healthcare utilization costs from outpatient, inpatient, and emergency visits. Lost productivity costs included work loss, productivity loss, and unpaid work loss, valued by Indiana's mean hourly wage. We assessed the cost differences between baseline (T1) and after the 6-week intervention period (T2). We evaluated between-group differences with Bonferroni's tests for each pairwise group comparison and within-group differences with a paired t-test at a p-value of < 0.05. Results: The mean total per-capita cost change from T1 to T2 in the ACT, CBT, and EUC groups was -$563, -$1622, and -$981, respectively (Table 1). This cost reduction stemmed from drug and healthcare utilization. There was no significant between-group difference in total cost at T1 or T2 and no significant between-group or within-group cost change from T1 to T2. Conclusions: Our cost estimates will be updated at 6 and 12 months of intervention and combined with changes in quality of life and mental health metrics to assess the cost-effectiveness of ACT and CBT for fear of breast cancer recurrence. Clinical trial information: NCT05364450 . [Table: see text]
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 5e57ddb6329eb15653c112e8ead3140dce17ee6d
+Title: The clinical effect of gratitude extension-construction theory nursing program on bladder cancer patients with fear of cancer recurrence
+Authors: Liping Qian, Yin Zhang, Hui Chen, Yuan Pang, Chenchen Wang, Liangmei Wang, Xiaoqing Zhang
+Year: 2024
+Citation Count: 6
+URL: https://www.semanticscholar.org/paper/5e57ddb6329eb15653c112e8ead3140dce17ee6d
+PDF URL: https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1364702/pdf
+
+Abstract:
+Objective To explore the clinical effect of bladder cancer patients with Fear of Cancer Recurrence (FCR) after applying the gratitude extension construction theory nursing program. Methods 168 patients with bladder cancer hospitalized in the Department of Urology from December 2021 to June 2023 in a hospital are study subjects. The experimental subjects are uniformly designed as an experimental group and a control group, with 52 participants in each group. The former receives routine nursing care, while the later receives nursing interventions based on gratitude extension construction theory. The baseline data, Quality of life Questionnaire-core 30, Quality of Life Questionnaire-non Invasive Bladder Cancer 24, Fear of Progression Questionnaire-Short Form, gratitude level questionnaire, Self-Rating Depression Scale, Self-rating Anxiety Scale, patient compliance behavior score, Overall Survival, and Progression-free Survival are evaluated. Results The basic data revealed no statistical significance. The quality of life questionnaire-core 30 and quality of life questionnaire-noninvasive bladder cancer 24 was no significant difference before treatment and after treatment for 1 month. After 9 months, There was a significant difference in pre-treatment scores. The experimental group had no significant difference before and after treatment. For the overall survival rates, the two groups were 67.25% and 79.56%. The progression-free survival rates were 56.35% and 72.35%, respectively, with statistical difference. The compliance rates were 86.54% and 98.08%. The compliance rate of the experimental group exceeded the control group. After 3, 6, and 12 months, the gratitude level questionnaire score and the fear of progression questionnaire-short form in the experimental group were improved. After 3, 6, and 12 months, the control group had no statistically significant difference in the gratitude level questionnaire and the fear of progression questionnaire-short form scores. Compared with the control group, the scores on the gratitude level questionnaire and the fear of progression questionnaire-short form were significantly higher after 3, 6, and 12 months of intervention. Conclusion After applying the gratitude extension construction theory nursing program, the FCR of bladder cancer patients is significantly reduced. The quality of life and compliance rate are significantly improved, and anxiety and depression are relieved.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: d337ed42d517c89ea72c68f8ddd18d68879d0968
+Title: Impact of Therapeutic Interventions on Fear of Progression in Patients with Endometriosis
+Authors: M. Focsa
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/d337ed42d517c89ea72c68f8ddd18d68879d0968
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Background/Objectives: Endometriosis is a chronic disease associated with pain, infertility, and increased risk of mental disorders (anxiety, depression). One of these manifestations is the fear of progression, recently documented in patients with endometriosis, which can affect their quality of life. Our study aims to evaluate the relationship between the fear of progression and the type of treatment in endometriosis. Methods: We conducted a prospective survey of 298 patients with endometriosis, divided into four treatment groups (hormonal therapy without or with surgical indication, surgical intervention, phytotherapy). Fear of progression (FoP) was evaluated through the Fear of Progression Questionnaire—Short Form (FoP-Q-SF). Scores were compared between groups using the Kruskal–Wallis test with Dunn’s post hoc analysis and adjusted for age (ANCOVA). Results: FoP was generally high. Significant differences between groups were observed (p = 0.021), with the highest FoP-Q-SF scores being in patients undergoing exclusive hormonal treatment, higher than in the surgical groups (p < 0.01). Younger age correlated with increased fear (p < 0.01). Conclusions: Treatment type influences anxiety regarding disease progression. Exclusive hormonal therapy was associated with the greatest fear of progression, while the differences observed between hormonal therapy with surgical indication and primary surgical treatment may partly be due to methodological or informational factors rather than purely clinical differences. A multidisciplinary approach, including psychological support, is essential to alleviate patient fears and improve their quality of life.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: e0a5429322aaac6de6c5a50339e6b4b69aca8bc2
+Title: Interventions addressing fear of cancer recurrence: challenges and future perspectives
+Authors: J. Prins, Esther Deuning-Smit, J. Custers
+Year: 2022
+Citation Count: 21
+URL: https://www.semanticscholar.org/paper/e0a5429322aaac6de6c5a50339e6b4b69aca8bc2
+PDF URL: https://journals.lww.com/co-oncology/Fulltext/2022/07000/Interventions_addressing_fear_of_cancer.6.aspx
+
+Abstract:
+Purpose of review Fear of cancer recurrence (FCR) is a common concern among cancer survivors and support for FCR is one of the most cited unmet needs. High FCR was found to be related to increased use of healthcare services, specifically primary healthcare and medical consultations, and lower quality of life. In the past decade screening instruments for FCR and interventions have been developed and proven effective. Recent findings Systematic reviews and meta-analyses have shown that psychological treatments are effective for reducing FCR. The cost-effectiveness of FCR interventions could be increased by considering stepped or matched models for supportive care. Despite availability of evidence-based interventions, the proposed care models are not implemented and most cancer survivors still do not benefit from supportive care. Summary The time is right to focus on implementation of FCR interventions into clinical practice. The complexity of optimizing FCR care is characterized by barriers and facilitators in the domains of patients, healthcare professionals, healthcare organizations and the broader economic, and political context. The main challenge for future research is to address these issues so that former investments in high-quality FCR intervention research will pay out in actual practice changes in the benefit of cancer survivors.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: a5b08fbef4bb552884b52c24c721283630077d89
+Title: Interventions for reducing fear of childbirth: A systematic review and meta-analysis of clinical trials
+Authors: Vahideh Moghaddam Hosseini, M. Nazarzadeh, S. Jahanfar
+Year: 2017
+Citation Count: 107
+URL: https://www.semanticscholar.org/paper/a5b08fbef4bb552884b52c24c721283630077d89
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 83423d4ae37e1efd98111caa95a489d2ecd45c95
+Title: Exposure-based Interventions for the management of individuals with high levels of needle fear across the lifespan: a clinical practice guideline and call for further research
+Authors: C. M. McMurtrya, Anna Taddioe, Melanie Noelg, Martin M. Antonyi, Christine T. Chambersj, Gordon J. G. Asmundsonl, Rebecca Pillai Riddellm, Vibhuti, Shaho, Noni E. MacDonaldq, Jess Rogersu, Lucie M. Bucciw, Patricia Mousmanisy, Eddy Langz, Scott Halperinq, Susan Bowlesaa, Christine Halpertab, Moshe Ippac, Michael J. Riederad, Kate Robsonae, Elizabeth Ulerykaf, Elizabeth Votta Bleekerag, Vinita, Dubeyah, Anita Hanrahanai, Donna Lockettaj, Jeffrey Scottak
+Year: 2016
+Citation Count: 85
+URL: https://www.semanticscholar.org/paper/83423d4ae37e1efd98111caa95a489d2ecd45c95
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/16506073.2016.1157204?needAccess=true
+
+Abstract:
+Abstract Needle fear typically begins in childhood and represents an important health-related issue across the lifespan. Individuals who are highly fearful of needles frequently avoid health care. Although guidance exists for managing needle pain and fear during procedures, the most highly fearful may refuse or abstain from such procedures. The purpose of a clinical practice guideline (CPG) is to provide actionable instruction on the management of a particular health concern; this guidance emerges from a systematic process. Using evidence from a rigorous systematic review interpreted by an expert panel, this CPG provides recommendations on exposure-based interventions for high levels of needle fear in children and adults. The AGREE-II, GRADE, and Cochrane methodologies were used. Exposure-based interventions were included. The included evidence was very low quality on average. Strong recommendations include the following. In vivo (live/in person) exposure-based therapy is recommended (vs. no treatment) for children seven years and older and adults with high levels of needle fear. Non-in vivo (imaginal, computer-based) exposure (vs. no treatment) is recommended for individuals (over seven years of age) who are unwilling to undergo in vivo exposure. Although there were no included trials which examined children < 7 years, exposure-based interventions are discussed as good clinical practice. Implementation considerations are discussed and clinical tools are provided. Utilization of these recommended practices may lead to improved health outcomes due to better health care compliance. Research on the understanding and treatment of high levels of needle fear is urgently needed; specific recommendations are provided.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 5cbad6c8324999be37a4412acb4e87db8c29dac2
+Title: Interventions for fear of childbirth including tocophobia.
+Authors: M. O'Connell, A. Khashan, P. Leahy-Warren, Fiona Stewart, S. O'Neill
+Year: 2021
+Citation Count: 45
+URL: https://www.semanticscholar.org/paper/5cbad6c8324999be37a4412acb4e87db8c29dac2
+PDF URL: https://cora.ucc.ie/bitstreams/b00f94df-b88a-4fa9-8acb-a0d9439d6073/download
+
+Abstract:
+BACKGROUND
+Many women experience fear of childbirth (FOC). While fears about childbirth may be normal during pregnancy, some women experience high to severe FOC. At the extreme end of the fear spectrum is tocophobia, which is considered a specific condition that may cause distress, affect well-being during pregnancy and impede the transition to parenthood. Various interventions have been trialled, which support women to reduce and manage high to severe FOC, including tocophobia.
+
+
+OBJECTIVES
+To investigate the effectiveness of non-pharmacological interventions for reducing fear of childbirth (FOC) compared with standard maternity care in pregnant women with high to severe FOC, including tocophobia.
+
+
+SEARCH METHODS
+In July 2020, we searched Cochrane Pregnancy and Childbirth's Trials Register, ClinicalTrials.gov, the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP), and reference lists of retrieved studies. We contacted researchers of trials which were registered and appeared to be ongoing.
+
+
+SELECTION CRITERIA
+We included randomised clinical trials which recruited pregnant women with high or severe FOC (as defined by the individual trial), for treatment intended to reduce FOC. Two review authors independently screened and selected titles and abstracts for inclusion. We excluded quasi-randomised and cross-over trials.
+
+
+DATA COLLECTION AND ANALYSIS
+We used standard methodological approaches as recommended by Cochrane. Two review authors independently extracted data and assessed the studies for risk of bias. A third review author checked the data analysis for accuracy. We used GRADE to assess the certainty of the evidence. The primary outcome was a reduction in FOC. Secondary outcomes were caesarean section, depression, birth preference for caesarean section or spontaneous vaginal delivery, and epidural use.
+
+
+MAIN RESULTS
+We included seven trials with a total of 1357 participants. The interventions included psychoeducation, cognitive behavioural therapy, group discussion, peer education and art therapy. We judged four studies as high or unclear risk of bias in terms of allocation concealment; we judged three studies as high risk in terms of incomplete outcome data; and in all studies, there was a high risk of bias due to lack of blinding. We downgraded the certainty of the evidence due to concerns about risk of bias, imprecision and inconsistency. None of the studies reported data about women's anxiety. Participating in non-pharmacological interventions may reduce levels of fear of childbirth, as measured by the Wijma Delivery Expectancy Questionnaire (W-DEQ), but the reduction may not be clinically meaningful (mean difference (MD) -7.08, 95% confidence interval (CI) -12.19 to -1.97; 7 studies, 828 women; low-certainty evidence). The W-DEQ tool is scored from 0 to 165 (higher score = greater fear). Non-pharmacological interventions probably reduce the number of women having a caesarean section (RR 0.70, 95% CI 0.55 to 0.89; 5 studies, 557 women; moderate-certainty evidence). There may be little to no difference between non-pharmacological interventions and usual care in depression scores measured with the Edinburgh Postnatal Depression Scale (EPDS) (MD 0.09, 95% CI -1.23 to 1.40; 2 studies, 399 women; low-certainty evidence). The EPDS tool is scored from 0 to 30 (higher score = greater depression). Non-pharmacological interventions probably lead to fewer women preferring a caesarean section (RR 0.37, 95% CI 0.15 to 0.89; 3 studies, 276 women; moderate-certainty evidence).  Non-pharmacological interventions may increase epidural use compared with usual care, but the 95% CI includes the possibility of a slight reduction in epidural use (RR 1.21, 95% CI 0.98 to 1.48; 2 studies, 380 women; low-certainty evidence).
+
+
+AUTHORS' CONCLUSIONS
+The effect of non-pharmacological interventions for women with high to severe fear of childbirth in terms of reducing fear is uncertain. Fear of childbirth, as measured by W-DEQ, may be reduced but it is not certain if this represents a meaningful clinical reduction of fear. There may be little or no difference in depression, but there may be a reduction in caesarean section delivery. Future trials should recruit adequate numbers of women and measure birth satisfaction and anxiety.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

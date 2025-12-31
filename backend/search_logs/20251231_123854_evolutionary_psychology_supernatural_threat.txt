@@ -1,0 +1,123 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: evolutionary psychology supernatural threat
+Search Time: 2025-12-31 12:38:54
+Total Available in API: 429
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: dbfdd80b381372cf380d6c941a7af489508818d4
+Title: Conspiracy Narratives on Voat: A Longitudinal Analysis of Cognitive Activation and Evolutionary Psychology Features
+Authors: Veronika Batzdorfer
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/dbfdd80b381372cf380d6c941a7af489508818d4
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Understanding defining features of conspiracy narratives presents a significant challenge. Existing research predominantly focuses on online platforms as alternative information sources, overlooking the self-reinforcing dynamics influencing content creators. This study addresses this gap by investigating the role of prior cognitive activation, specifically users’ engagement with conspiracy cues, in facilitating cognitive accessibility to such content. Central to our inquiry is the concept of activation burden, which refers to the cognitive effort required for individuals to engage with conspiracy narratives. We explore how features derived from evolutionary psychology, such as pattern recognition, detecting groups, or threat management, may contribute to the lowering of this activation burden, thereby fostering continued engagement with conspiratorial content. To empirically examine these dynamics, we use data from Voat.co [26], a platform known for hosting de-platformed conspiracy-related discussions, sharing similarities in structure with Reddit. To characterize conspiracy content as multifaceted narratives, we investigate the utility of instruction-tuned Large Language Models (LLMs) for annotating text spans that represent various evolutionary facets of conspiracy features (N = 3, 384, between 2014-06-20 and 2020-12-23). Our findings highlight the self-reinforcing effects of cognitive activation, indicating that users responding to pattern, secrecy and threat show carry-over effects and persistence of these features. The results could contribute to the understanding of antecedents of conspiracy beliefs and platform moderation practices, enhanced by LLM-annotation.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 16ba16f8447cf3777808f18839465e042357342b
+Title: See No Evil, Speak No Evil? Morality, Evolutionary Psychology, and the Nature of International Relations
+Authors: Brian C. Rathbun, Caleb Pomeroy
+Year: 2021
+Citation Count: 10
+URL: https://www.semanticscholar.org/paper/16ba16f8447cf3777808f18839465e042357342b
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Abstract A central theme in the study of international relations is that anarchy requires states to set aside moral concerns to attain security, rendering IR an autonomous sphere devoid of ethical considerations. Evolutionary and moral psychology, however, suggest that morality emerged to promote human success under such conditions. It is not despite anarchy but because of anarchy that humans have an ethical sense. Our argument has three empirical implications. First, it is almost impossible to talk about threat and harm without invoking morality. Second, state leaders and the public will use moral judgments as a basis, indeed the most important factor, for assessing international threat, just as research shows they do at the interpersonal level. Third, foreign policy driven by a conception of international relations as an amoral sphere will be quite rare. Word embeddings applied to large political and nonpolitical corpora, a survey experiment in Russia, and an in-depth analysis of Hitler's foreign policy thought suggest that individuals both condemn aggressive behavior by others and screen for threats on the basis of morality. The findings erode notions of IR as an autonomous sphere and upset traditional materialist–ideational dichotomies.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 1159fe16e013bdabf2840a163dc65a3fc7c8167d
+Title: The Ecology of Threat Detection and Precautionary Response from the Perspectives of Evolutionary Psychology, Cognitive Science and Historiography: The Case of the Roman Cults of Mithras*
+Authors: L. Martin
+Year: 2013
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/1159fe16e013bdabf2840a163dc65a3fc7c8167d
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: d7196462ab50ff66bca7c5e785c0cc47548dee0a
+Title: Horror, personality, and threat simulation: A survey on the psychology of scary media.
+Authors: Mathias Clasen, Jens Kjeldgaard‐Christiansen, John A. Johnson
+Year: 2020
+Citation Count: 57
+URL: https://www.semanticscholar.org/paper/d7196462ab50ff66bca7c5e785c0cc47548dee0a
+PDF URL: https://pure.au.dk/portal/files/137585045/HorrorAndPersonality.pdf
+
+Abstract:
+Horror entertainment is a thriving and paradoxical industry. Who are the consumers of horror, and why do they seek out frightening media? We provide support for the threat simulation theory of horror, according to which horror media provides a form of benign masochism that offers negative emotional stimulation through simulation of threat scenarios. Through an online survey of genre use and preference as well as personality traits and paranormal beliefs (n=1070), we find that sensation seeking and the fifth of the Big-Five factors, intellect/imagination, predict liking of horror and frequency of use. Gender, educational level, and age are also correlated with horror liking and frequency of use (males show higher liking and more frequent use, whereas liking and use frequency are negatively correlated with educational level and age). People with stronger beliefs in the paranormal tend to seek out horror media with supernatural content, whereas those with weaker beliefs in the paranormal gravitate toward horror media with natural content, suggesting that people seek out horror media with threatening stimuli that they perceive to be plausible. While frightening media may be initially aversive, people high in sensation seeking and intellect/imagination, in particular, like intellectual stimulation and challenge and expect not just negative but also positive emotions from horror consumption. They brave the initially aversive response to simulate threats and so enter a positive feedback loop by which they attain adaptive mastery through coping with virtual simulated danger.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: e5d47aaadb474597de42d50d88225adbd5e407c8
+Title: Evolutionary Psychology and LGBTQ+ Issues: A Qualitative Study of Queer Women’s Perspectives on Research Results
+Authors: D. Burchell, S. Firth, M. Robinson, S. Mullin, Mackinnon Sp
+Year: 2020
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/e5d47aaadb474597de42d50d88225adbd5e407c8
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This study examines reactions to a recent evolutionary psychology article that uses self-report data to claim that same-sex attraction in women evolved because men find it a desirable quality in a mate. Our study explores a novel perspective on the article by interviewing 29 women with attraction to women in Halifax, Nova Scotia. Participants read a news article about the original study, then the original article, and were then asked about their thoughts and feelings. Our research questions were as follows: 1) What cognitive and emotional reactions to the article do women with attraction to women experience? 2) Why did this article generate a lot of online criticism, from the perspective of women who are attracted to women? 3) Do papers like this cause women with attraction to women to change their opinions about psychological journals and/or psychological research? Using thematic analysis, we found seven themes: Negative emotion, identity threat, failure to address sociocultural explanations, male/hetero-centric, differences in paradigms, sensationalized news article, and contextualizing. The proliferation of articles like these represents one of many small stressors women attracted to women deal with as a minority population, and this stress can have important implications for health.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 5453c1a5af5b5fe386e26d0e4b8ba75d2d3ab26e
+Title: How Do Concepts of Evolutionary Psychology and Evolutionary Psychiatry Explain Anxiety Disorders?
+Authors: S. Brand
+Year: 2019
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/5453c1a5af5b5fe386e26d0e4b8ba75d2d3ab26e
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 1def6c15786283ae2619a9f386e7e78d845208ca
+Title: Sacredness as an implied threat of supernatural punishment: the case of need-based transfers
+Authors: Lee Cronk, A. Aktipis
+Year: 2017
+Citation Count: 6
+URL: https://www.semanticscholar.org/paper/1def6c15786283ae2619a9f386e7e78d845208ca
+PDF URL: https://doi.org/10.1080/2153599x.2017.1302978
+
+Abstract:
+143. Dickson, D. B., Olsen, J., Dahm, F., & Wachtel, M. (2005). Where do you go when you die? A cross-cultural test of the hypothesis that infrastructure predicts individual eschatology. Journal of Anthropological Research, 61(1), 53–79. Dreber, A., Rand, D. G., Fudenburg, D., & Nowak, M. A. (2008). Winners don’t punish. Nature, 452, 348–351. Fehr, E., & Gächter, S. (2000). Cooperation and punishment in public goods experiments. The American Economic Review, 25, 63–87. Henrich, J. (2004). Cultural group selection, coevolutionary processes and large-scale cooperation. Journal of Economic Behavior & Organization, 53, 3–35. Hodge, K. M. (2011a). On imagining the afterlife. Journal of Cognition and Culture, 11, 367–389. Hodge, K. M. (2011b). Why immortality alone will not get me to the afterlife. Philosophical Psychology, 24(3), 395–410. Johnson, D. (2005). God’s punishment and public goods. Human Nature, 16(4), 410–446. Johnson, D. (2016). God is watching you: How the fear of God makes us human. New York: Oxford University Press. Johnson, D., & Krüger, O. (2004). The good of wrath: Supernatural punishment and the evolution of cooperation. Political Theology, 5(2), 159–176. McKay, R., Efferson, C., Whitehouse, H., & Fehr, E. (2011). Wrath of God: Religious primes and punishment. Proceedings of the Royal Society: Biological Sciences, 278, 1858–1863. Norenzayan, A. (2013). Big Gods: How religion transformed cooperation and conflict. Princeton: Princeton University Press. Peregrine, P. (1996). The birth of the gods revisited: A partial replication of Guy Swanson’s (1960) cross-cultural study of religion. Cross-Cultural Research, 30(1), 84–112. Purzycki, B. G. (2013). The minds of gods: A comparative study of supernatural agency. Cognition, 129, 163–179. Schloss, J., & Murray, M. (2011). Big gods were made for big groups. Religion, Brain, & Behavior, 1, 89–93. Shariff, A., & Norenzayan, A. (2011). Mean Gods make good people: Different views of God predict cheating behavior. International Journal for the Psychology of Religion, 21, 85–96. Soltis, J., Boyd, R., & Richerson, P. (1995). Can group-functional behaviors evolve by cultural group selection?: An empirical test. Current Anthropology, 36(3), 473–494. Swanson, G. (1960). The birth of the Gods: The origin of primitive beliefs. Ann Arbor: University of Michigan Press. Wakano, J. Y., & Aoki, K. (2006). A mixed strategy model for the emergence and intensification of social learning in a periodically changing natural environment. Theoretical Population Biology, 70, 486–497. Watts, J., Sheehan, O., Greenhill, S. J., Gomes-Ng, S., Atkinson, Q. D., Bulbulia, J., & Gray, R. D. (2015). Pulotu: Database of austronesian supernatural beliefs and practices. PLoS ONE, 10(9), e0136783. Whitehouse, H. (2008). Cognitive evolution and religion; cognition and religious evolution. In J. Bulbulia, R. Sosis, E. Harris, R. Genet, C. Genet, & K. Wyman (Eds.), The evolution of religion: Studies, theories, & critiques (pp. 31–41). Santa Margarita, CA: Collins Foundation Press. Williams, G. C. (1966). Adaptation and natural selection: A critique of some current evolutionary thought. Princeton: Princeton University Press.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 1f171eebd4740d3b3d723257e587c52d61397a35
+Title: The psychology of zero-sum beliefs
+Authors: Shai Davidai, S. Tepper
+Year: 2023
+Citation Count: 43
+URL: https://www.semanticscholar.org/paper/1f171eebd4740d3b3d723257e587c52d61397a35
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

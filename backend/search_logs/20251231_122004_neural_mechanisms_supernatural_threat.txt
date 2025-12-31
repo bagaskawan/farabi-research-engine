@@ -1,0 +1,136 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: neural mechanisms supernatural threat
+Search Time: 2025-12-31 12:20:04
+Total Available in API: 3198
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: d210f555e3db4076e6826ba643c08ae8b0acf9fd
+Title: Integrating Novel Mechanisms for Threat Detection in Enhanced Data Classification using Ant Colony Optimization with Recurrent Neural Network
+Authors: Vivek Vivek, Karthik Painganadu Chandrasekaran
+Year: 2024
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/d210f555e3db4076e6826ba643c08ae8b0acf9fd
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+In new technologies like fog computing, edge computing, cloud computing, and the Internet of Things (IoT), cybersecurity concerns and cyber-attacks have surged. The demand for better threat detection and prevention systems has increased due to the present global uptick in phishing and computer network attacks. In order to identify irregularities and attacks on the network, which have increased in scale and prevalence, threat identification is essential. However, the community is forced to investigate and create novel threat detection approaches that are capable of detecting threats using anomalies due to the increase in network threats, the growth of new methods of attack and computations, and the requirement to ensure security measures. A novel mechanism is employed to identify threats in a data based on optimized deep learning. The main aim of this paper is the usage of data classification system based on Deep Learning (DL). The proposed mechanism employed the TCP (Transmission Control Protocol) communication protocol to extract data from loud IoT (Internet of Things) networks for the purpose of threat detection. To perform feature extraction an Ant Colony Optimization (ACO) is utilised, through Recurrent Neural Network (RNN), the attacks in data are classified and detected. Additionally, the suggested approach has been evaluated and trained using the BOUN DDoS contemporary dataset, which comprises a variety of attack types and allows for the effectiveness of the framework to be determined to compare it to previous approaches. The Findings indicate that the suggested approach achieved higher accuracy in DDoS attack identification in comparison with Traditional deep learning methods. The existing method detects the generic attack with lower efficiency however; the proposed mechanism achieves better accuracy in both the detection of the DDoS attack and the detection of regular traffic.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 97f0e229ebe43026a150721e800b99175e822ffc
+Title: Unveiling the neural mechanisms of supernatural fiction comprehension using fNIRS
+Authors: Xiaodong Xu, Cheng Jia, Kang Chen, Lijuan Chen
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/97f0e229ebe43026a150721e800b99175e822ffc
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This study used fNIRS (functional near-infrared spectroscopy) to investigate the neural mechanisms underlying the processing of supernatural fiction, featuring either fictional or realistic characters, compared to real-world stories. Participants’ brain activations were recorded while they read supernatural/realistic scenarios. Results showed that reading supernatural scenarios activated sensorimotor and the related frontal regions, compared to reading realistic scenarios. Furthermore, reading supernatural texts with unexpected realistic characters resulted in additional brain activity in the left IFG, compared to reading supernatural texts with expected fictional characters. Mediation analyses indicated that the activation of the left sensorimotor cortex during the reading of supernatural scenarios is mediated by readers’ social cognition. Moreover, there was increased functional connectivity among different brain regions within the simulation network, and between the simulation network and the social cognition network, during the understanding of supernatural narratives. These findings suggest that simulation is crucial for readers to comprehend and interpret supernatural stories.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 0a481d7c4541249ab9929b3fafec2ed1ddc1e3db
+Title: Associations of neighborhood threat and deprivation with psychopathology: Uncovering neural mechanisms.
+Authors: T. Vargas, D. Rakesh, Katie A. McLaughlin
+Year: 2025
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/0a481d7c4541249ab9929b3fafec2ed1ddc1e3db
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+BACKGROUND
+Assessing dimensions of neighborhoods could aid identification of contextual features that influence psychopathology in children and contribute to uncovering mechanisms underlying these associations.
+
+
+METHOD
+The ABCD sample included 8,339 participants aged 9-10 from 21 U.S. sites. Mixed effect and structural equation models estimated associations of self-reported neighborhood threat/safety and county-level neighborhood threat (i.e., crime) and tract-level deprivation with psychopathology symptoms and indirect effects. Hypothesized mechanisms included emotion processing (adaptation to emotional conflict, task-active ROIs for emotional n-back) and cognition (EF and task-active ROIs for the stop-signal task); exploratory analyses included neural function (of amygdala to network and within-network resting state connectivity).
+
+
+RESULTS
+Associations of neighborhood deprivation and all symptoms were mediated by EF; links with psychotic-like experiences (PLEs) were mediated by retrosplenial temporal and dorsal attention within-network connectivity. In contrast, neighborhood threat was associated with attention difficulties, internalizing problems, and PLEs uniquely via default mode within-network connectivity; with attention difficulties, externalizing symptoms, and PLEs through amygdala-dorsal attention within-network connectivity, with PLEs and externalizing symptoms through visual within-network connectivity; with PLEs and attention difficulties through amygdala-sensorimotor connectivity, and with PLEs through amygdala-salience network connectivity.
+
+
+CONCLUSION
+Neighborhood deprivation and threat predicted symptoms through distinct neural and cognitive pathways, with implications for prevention and intervention efforts at contextual levels.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 1bffd08fe36116fc00bec10ead965de592e00693
+Title: Human creativity escapes in the struggle against threat: Evidence from neural mechanisms
+Authors: Jun Yin, Yin-ying Hu, Qing-yang Li, Jun Luo
+Year: 2022
+Citation Count: 5
+URL: https://www.semanticscholar.org/paper/1bffd08fe36116fc00bec10ead965de592e00693
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: ba13fc131279884f976f69e02b1acabbe7b25bbf
+Title: The neural mechanisms of threat and reconciliation efforts between Muslims and non-Muslims
+Authors: Dorottya Lantos, Yong Hui Lau, W. Louis, P. Molenberghs
+Year: 2020
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/ba13fc131279884f976f69e02b1acabbe7b25bbf
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+ABSTRACT To reduce the escalation of intergroup conflict, it is important that we understand the processes related to the detection of group-based threat and reconciliation. In the present study, we investigated the neural mechanisms of such processes using functional Magnetic Resonance Imaging (fMRI). Functional neuroimaging techniques may shed light on quick, automatic responses to stimuli that happen outside of conscious awareness and are thus increasingly difficult to quantify relying only on participants’ self-reported experiences. They may further provide invaluable insight into physiological processes occurring in situations of sensitive nature, whereby participants–deliberately or not–may withhold their honest responses due to social desirability. Non-Muslim Western Caucasian participants watched short video clips of stereotypical Middle-Eastern Muslim males threatening their ingroup, offering reconciliation to the ingroup, or making a neutral statement. Threatening statements led to increased activation in the amygdala, insula, supramarginal gyrus, and temporal lobe. Reconciliation efforts led to increased activation in the prefrontal cortex, anterior cingulate gyrus, and caudate. The results suggest that threat detection is a relatively automatic process while evaluating and responding to reconciliation offers requires more cognitive efforts. The implications of these findings and future research directions are discussed.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 30280eacb55231152a8eb066460ad897d15a22b7
+Title: Sex differences in neural mechanisms of social and non-social threat monitoring
+Authors: T. Clarkson, Yvette G Karvay, M. Quarmley, J. Jarcho
+Year: 2021
+Citation Count: 5
+URL: https://www.semanticscholar.org/paper/30280eacb55231152a8eb066460ad897d15a22b7
+PDF URL: https://doi.org/10.1016/j.dcn.2021.101038
+
+Abstract: Not available
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: d17dee814f9ea0298f04cc3ba63e9aca89898cc7
+Title: Mechanisms supporting the social regulation of neural threat responding with marital partners: A test of the opioid hypothesis.
+Authors: L. Beckes, Sara E. Medina-DeVilliers, Erik W. Gunderson, J. Coan
+Year: 2022
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/d17dee814f9ea0298f04cc3ba63e9aca89898cc7
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Positive social contact predicts better health, but the mechanisms for this association remain debated. One way to explore this link is through the social regulation of emotion, particularly anticipatory anxiety. Previous research finds less neural threat response during partner handholding than when people are alone or stranger handholding. Various mechanistic accounts have been forwarded, including the hypothesis that this effect is mediated by endogenous opioid activity. This experiment critically tested the opioid hypothesis in 60 married participants and their partners. The study used a naltrexone opioid blockade in a double-blind placebo control with functional magnetic resonance imaging to determine whether endogenous opioids were necessary for handholding effects. Regulatory effects of supportive handholding manifested in threat network regions during opioid blockade, but not with placebo. Despite a surprising lack of effect in the placebo group, the overall study findings provide initial evidence that endogenous opioids may not be necessary for the social regulation of neural threat responding.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: dc61d753f08f6bb09527846daec0f6c6d7de2b0d
+Title: Neural mechanisms underlying heterogeneous expression of threat-related attention in social anxiety.
+Authors: T. Evans, Y. Bar-Haim, N. Fox, D. Pine, J. Britton
+Year: 2020
+Citation Count: 20
+URL: https://www.semanticscholar.org/paper/dc61d753f08f6bb09527846daec0f6c6d7de2b0d
+PDF URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719572
+
+Abstract: Not available
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

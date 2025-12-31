@@ -9,6 +9,7 @@ import type { Project } from "@/lib/types/database";
 import DashboardHeader from "./DashboardHeader";
 import ProjectsGrid from "./ProjectsGrid";
 import LoadingPage from "@/components/ui/loading-page";
+import { Skeleton } from "@/components/ui/skeleton";
 
 export default function Dashboard() {
   const { username, avatarUrl, isLoading } = useUser();
@@ -47,10 +48,6 @@ export default function Dashboard() {
     window.location.href = "/login";
   };
 
-  if (isLoading) {
-    return <LoadingPage message="Preparing your dashboard" />;
-  }
-
   return (
     <div className="flex h-screen bg-background">
       <div className="flex-1 flex flex-col h-screen bg-[#f9fafb] dark:bg-[#1a1a1a]">
@@ -58,6 +55,7 @@ export default function Dashboard() {
           username={username}
           avatarUrl={avatarUrl}
           onSignOut={handleSignOut}
+          isLoading={isLoading}
         />
 
         {/* Main Content */}
@@ -65,12 +63,21 @@ export default function Dashboard() {
           {/* Greeting */}
           <div className="w-full py-10 flex justify-between items-center mb-10">
             <div className="flex flex-col">
-              <h1 className="text-6xl font-bold tracking-tight text-[#1a1a1a] dark:text-white">
-                Hi, {isLoading ? "..." : username || "there"}!
-              </h1>
-              <p className="text-md mt-4 text-gray-500 dark:text-gray-400">
-                Let's turn your brilliant ideas into real projects today.
-              </p>
+              {isLoading ? (
+                <>
+                  <Skeleton className="h-14 w-80 mb-4" />
+                  <Skeleton className="h-5 w-96" />
+                </>
+              ) : (
+                <>
+                  <h1 className="text-6xl font-bold tracking-tight text-[#1a1a1a] dark:text-white">
+                    Hi, {username || "there"}!
+                  </h1>
+                  <p className="text-md mt-4 text-gray-500 dark:text-gray-400">
+                    Let's turn your brilliant ideas into real projects today.
+                  </p>
+                </>
+              )}
             </div>
           </div>
 

@@ -207,6 +207,7 @@ Your task is to synthesize academic abstracts into a **FULL-LENGTH, ENGAGING VID
 - **Evidence-Based:** Every claim must be backed by specific data/findings.
 - **Narrative Flow:** Connect ideas logically. Tell a story about the research.
 - **Language:** Write in Indonesian (Bahasa Indonesia) that sounds natural and engaging.
+- **Formatting:** Use **bold** for emphasis, ### for sub-headers, and clean lists. Always ensure space after headers (e.g. "### Title").
 
 ==============================================================================
 **REQUIRED OUTPUT STRUCTURE:**

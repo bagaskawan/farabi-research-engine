@@ -1,0 +1,122 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: cultural beliefs demon anxiety
+Search Time: 2025-12-30 12:45:54
+Total Available in API: 2627
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 83c4c3817371f615f14dfc8b198e92ac371859c4
+Title: Abstracts and Reviews : FALLING-OUT: A DIAGNOSTIC AND TREATMENT PROBLEM VIEWED FROM A TRANSCULTURAL PERSPECTIVE by HAZEL HITSON WEIDMAN. Social Science and Medicine 13B (1979): 95-112
+Authors: L. L. Langness
+Year: 1981
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/83c4c3817371f615f14dfc8b198e92ac371859c4
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: bae6fb9a026b7a9002e2d5fbf370464d78b68623
+Title: Cultural normative beliefs in the U.S. as a determinant of negative dental experiences and dental anxiety: a preliminary investigation
+Authors: Andrew L. Geers, Laura D. Seligman, K. Pituch, Kelly S. Clemens, Sarah Francis, Lauren Kramer, Emily K. Spotts, Michael Vang
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/bae6fb9a026b7a9002e2d5fbf370464d78b68623
+PDF URL: https://doi.org/10.1007/s12144-024-06879-5
+
+Abstract:
+Dental anxiety, a predictor of both dental treatment avoidance and health outcomes, has been linked with early negative dental experiences. The causes of this relationship remain largely unexplored. This study provides a preliminary exploration of within-cultural variations of dental normative beliefs on the perception of negative dental experiences and the subsequent experience of dental anxiety in the U.S. A sample of 190 U.S. adults recruited from Amazon’s MTurk completed measures of cultural normative beliefs about oral health care, age and fear at first dental visit, history of negative dental experiences, and dental anxiety. Factor analysis yielded support for a three-factor model (daily maintenance, regular check-up, and dental treatment) of the dental cultural normative beliefs scale. Correlations and structural equation modeling found support for a previously posited theoretical model in which negative dental experiences and fear at first dental visit mediate associations between the cultural normative beliefs and dental anxiety. Most notably, cultural normative beliefs favoring a prevention orientation to dental treatment and daily maintenance of oral health predicted less fear at the first dentist visit, which in turn, related to fewer negative dental experiences and less dental anxiety. This preliminary survey suggests that dental cultural normative beliefs within the U.S. shape fear during initial dental visits. Future research should build on this initial work and explore between-cultural norm variations as well as strategies for changing cultural normative beliefs to improve perceptions of dental experiences and lessen dental anxiety.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 23118f8e049ad018d341d45406e88891b01cde34
+Title: The Relationship Between Maternal Overprotectiveness in Iranian Cultural and Anxious Beliefs with Child Anxiety: Mediating Role of Positive and Negative Affect
+Authors: Hossein Rostami, S. Zeinali, Maedeh Sattarinia
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/23118f8e049ad018d341d45406e88891b01cde34
+PDF URL: https://sanad.iau.ir/en/Journal/jwc/DownloadFile/920649
+
+Abstract: Not available
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 22906679bc2132340a10d16b0d229ee3a5bbfb26
+Title: The Effectiveness of Emotional Oriented Training on the Death Anxiety, Metacognitive Beliefs, Self-harm Behaviors of Girls with Early Maladaptive Schemas from Cultural Perspective
+Authors: Asie Peiravi, Zahra Naderi Malek, Marieh Dehghanmanshadi
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/22906679bc2132340a10d16b0d229ee3a5bbfb26
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: ea67c75c9bafb5a4bd5db5a9b5a39cf78ab3e4e7
+Title: The Predictive Role of Religious Beliefs, Psychosocial Illness, and Aging on Death Anxiety Among Christians and Muslims
+Authors: Waqar Husain, Bushra Parveen, Haitham A. Jahrami, A. Ammar, Khaled Trabelsi
+Year: 2024
+Citation Count: 4
+URL: https://www.semanticscholar.org/paper/ea67c75c9bafb5a4bd5db5a9b5a39cf78ab3e4e7
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 03f0155e48267419b86e90e47a58daf11a277a37
+Title: Understanding cultural values, norms and beliefs that may impact participation in genome-editing related research: Perspectives of local communities in Botswana.
+Authors: Setlhomo Koloi-Keaikitse, M. Kasule, Irene Kwape, D. Jankie, Dimpho Ralefala, D. Ntseane, G. G. Mokone
+Year: 2024
+Citation Count: 4
+URL: https://www.semanticscholar.org/paper/03f0155e48267419b86e90e47a58daf11a277a37
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/dewb.12440
+
+Abstract:
+Gene-editing research is a complex science and foreign in most communities including Botswana. Adopting a qualitative deliberative framework with 109 participants from 7 selected ethnic communities in Botswana, we explored the perceptions of local communities on cultural values, norms, and beliefs that may motivate or deter likely participation in the use of gene-editing related research. What emerged as the ethnic community's motivators for research participation include the potential for gene-editing technologies to promote access to individualized medications, and the possibility of protecting family members from genetic related diseases. Deterrents for research participation include cultural values such as implications of lineage for chieftainship, trust, fear or anxiety, uncertainty, and sensitivity on the use of gene-editing. Findings of our study have implications for continuous engagement with local communities to explore potential ways of addressing cultural sensitivities that can further deter their participation in future gene-editing related research.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: e5388ea453a3b42fcc00d8093a8ee95a60584592
+Title: All you'll feel is doom and gloom: Multiple perspectives on the associations between economic anxiety and conspiracy beliefs
+Authors: Magdalena Adamus, M. Chayinska, Jakub Šrol, J. Adam‐Troian, Eva Ballová Mikušková, Peter Teličák
+Year: 2025
+Citation Count: 5
+URL: https://www.semanticscholar.org/paper/e5388ea453a3b42fcc00d8093a8ee95a60584592
+PDF URL: https://doi.org/10.1111/pops.70003
+
+Abstract:
+The article investigates whether and how adherence to conspiracy beliefs (CBs) about COVID‐19 pandemic might be associated with (and cause) economic anxiety over various cultural settings and time. First, we examined the extent to which CBs predicted economic anxiety using the European Social Survey data, round 10, from 17 countries (Study 1). Second, using data from a balanced (in terms of age, gender, education, and region) Slovak sample, we employed a cross‐lagged panel analysis to determine the direction of the association between adherence to CBs and economic anxiety (Study 2). Study 1 revealed that adherence to CBs was significantly associated with higher levels of economic anxiety across cultural contexts. Study 2 compellingly showed that adherence to CBs increased the sense of economic anxiety over time, whereas the reverse causal path from economic anxiety to CBs was consistently nonsignificant. This work provides evidence that adherence to CBs may be increasingly associated with adverse subjective appraisals of economic realities. We discuss how our results can contribute to the understanding that curbing adherence to CBs could also alleviate the sense of economic anxiety. Finally, we recommend a research agenda to better understand the psychological boundary mechanisms accounting for these effects.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: aa5d8269526b61fc903ae6c187c8941fc3afcffd
+Title: Superstitious Beliefs and Health Anxiety in Community Members: A Correlational Study
+Authors: Ibrahim Abdul Jalil Yaman, Katatbeh Yahya, ELwaleed Abdalla Farih Meiri, Al Anoud Al Mutref
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/aa5d8269526b61fc903ae6c187c8941fc3afcffd
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Background Superstitions affect people's health, luck, and daily decisions.  Due to cultural and psychological factors, these beliefs affect people differently based on their experiences and societal norms. Methods: This quantitative study used the correlational method on 312 respondents of both genders.  The study used the Superstitious Beliefs Scale, Health Anxiety Scale, and demographic variables. Results: The study findings showed a rather high level (44.51) with a mean score of superstitious beliefs of 1.91 (±0.814).  Though popular beliefs had the lowest mean (1.56 ± 0.791), personal superstitious beliefs had the highest mean (2.29 ± 1.109).  Belief in good fortune ran from 1.52 to 2.38; "I seek good luck" scored highest (2.38).  Belief in bad luck ranged from 1.73–1.93; belief in changing luck ranged from 1.94–2.46; with "I can change events through different actions," scoring the highest (2.37).  For health anxiety, the mean was 2.09, with major correlations between superstitious beliefs and health anxiety across all dimensions (0.272–0.401, p < 0.001). Sociocultural superstitious behaviors peaked at (1.80).  This implies that levels of anxiety in society are much influenced by superstitious ideas.  In essence, superstitious beliefs shape attitudes and actions; they also frequently influence emotional well-being and decision-making.  Encouragement of critical thinking and awareness-raising will enable people to make more logical decisions and lower unwarranted fear.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

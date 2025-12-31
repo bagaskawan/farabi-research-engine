@@ -1,0 +1,131 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: religious rituals coping demon anxiety
+Search Time: 2025-12-31 12:20:04
+Total Available in API: 52
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 3fef63347b16a3e247b242a8ba632b1507aac90c
+Title: Media-induced anxiety and cultural coping mechanisms during COVID-19 in Surabaya
+Authors: Rachmah Ida, Sri Endah Kinasih, Ratih Puspa, Mochamad Kevin Romadhona
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/3fef63347b16a3e247b242a8ba632b1507aac90c
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This study investigates the socio-psychological reactions and coping strategies of urban outskirts residents in Surabaya, Indonesia, amidst the COVID-19 pandemic. Through a combination of quantitative surveys and qualitative interviews with 100 respondents, the research explores how individuals perceive and respond to the abundance of information about COVID-19, including its origins, death tolls, and misinformation on mainstream and social media platforms. While some respondents feel devastated by the information overload, others surrender to the belief that the pandemic is destined by a higher power. Coping mechanisms vary, with some focusing on boosting immunity through vitamins and herbal drinks, engaging in cultural rituals, or turning to religious spirituality. The study draws on perspectives from Communication and Health Anthropology to offer a comprehensive understanding of local practices in response to the pandemic, contributing to broader global Sustainable Development Goals.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 1b6d6ac923fac4c287549f1439f6a4f631d140a1
+Title: Religion and rituals as coping strategies during war
+Authors: Anna Veberova
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/1b6d6ac923fac4c287549f1439f6a4f631d140a1
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Background. This article explores religion and rituals as coping strategies during wartime. By analyzing contemporary studies and theoretical models in neuropsychology, it investigates mechanisms for overcoming stress through faith and rituals. The study aims to integrate existing knowledge to form a comprehensive understanding of the role of religion and rituals in alleviating chronic stress.
+
+Methods. This is a classical theoretical study based on an analysis of contemporary literature in neuropsychology, the psychology of coping strategies, and studies on social and religious phenomena under crisis conditions. The primary sources include peer-reviewed scientific publications, monographs, findings from previous empirical research, as well as international and Ukrainian reports on the psychological state of the population during wartime.
+
+Results. The article demonstrates that religion and rituals serve as powerful coping strategies during war. Religion provides a sense of meaning, rituals establish structure and an illusion of control over the situation, and social support (whether from family, friends, volunteer communities, or religious organizations) fosters emotional stability. These adaptive mechanisms help manage chronic stress, reduce anxiety levels, and strengthen mental health overall. However, the lack of comprehensive studies limits a full understanding of the scope and specifics of these strategies within Ukrainian society during the war.
+
+Conclusions. Wartime conditions compel individuals to seek adaptive mechanisms for preserving mental health. Religion, rituals, and social support play a crucial role in combating chronic stress. Nonetheless, there is a need for more extensive studies (potentially experimental ones) on coping strategies to develop effective approaches for supporting Ukrainian citizens under crisis conditions.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 4ec353400033bb4bc11d954dc8271645d0df5fc8
+Title: Coping with Climate Anxiety: Animism, Materiality, and Community in Heterotopic Time
+Authors: F. Howell
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/4ec353400033bb4bc11d954dc8271645d0df5fc8
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This study proposes methods and praxes to aid in coping with the increasing climate anxiety and the notable “loneliness epidemic” of our era. It examines questions of how these conditions could be mitigated, or even begin to heal, should we accept that nature and place are part of our “other-than-human” community. The article interrogates questions of how postmodern society could adapt its gaze and worldview through an enhanced relationality, with an animistic ethos and lifestyle, recognizing spirit and intelligence in the world around us. Creating an embodied, somatic awareness of the relational world extends our community, potentially including nature, aiding us to experience bonds often lost in this era of solastalgia. The study explores whether we may find coping methods and renewed resilience through transporting experiences of Foucauldian “heterotopias”, liminal spaces outside of mundane time and place such as festivals, rituals, feasting, and traditional lifeways. The paper offers ethnographic examples and case studies, as well as an interdisciplinary ecopsychological lens, whose sources include environmental studies, anthropology, ritual studies, and religious studies, among other fields.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: c8505c4c3ad34012792bb364ca4c9ea444572c85
+Title: The Melukat Culture in Bali as an Effective Coping Strategy for Dealing with Anxiety
+Authors: Aliffa Milanisty
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/c8505c4c3ad34012792bb364ca4c9ea444572c85
+PDF URL: https://doi.org/10.1051/shsconf/202521003002
+
+Abstract:
+This research aims to explore the role of the Melukat culture in Bali as an effective coping strategy for dealing with anxiety. Anxiety is a common emotional experience faced by many individuals in their daily lives. The Melukat culture in Bali holds deep spiritual value and has been an integral part of Balinese society for centuries. This study applies a narrative literature review type literature study method to five reference sources indexed in Google Scholar with a span of the last ten years. Melukat is a spiritual cleansing ritual deeply rooted in Balinese culture. It involves prayer, meditation, and sacred practices believed to offer psychological benefits. This practice not only serves as a religious act but is hypothesized to alleviate anxiety and foster emotional well-being.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 773ada8af1922cff0a4f3f66829e286cfb58eacf
+Title: A functional theory perspective: Offerings for the soul in the Mong Son Thi Thuc rituals of Northern Buddhism
+Authors: Nguyen Tan Khang
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/773ada8af1922cff0a4f3f66829e286cfb58eacf
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This study explores the Mong Son Thi Thuc ritual—a Buddhist alms-giving ceremony performed for wandering souls in Northern Buddhism—through the lens of Bronislaw Malinowski’s functional theory. Emphasizing the psychological and social roles of religious behavior, the research investigates how this ritual fulfills practitioners' emotional needs, particularly in coping with fear of supernatural forces. A quantitative methodology was employed, surveying 800 respondents across monastic and lay communities in Ho Chi Minh City. Data collection via structured questionnaires and analysis through descriptive statistics reveal that the ritual not only alleviates psychological anxiety but also reinforces spiritual teachings and community cohesion. Findings show that 91.3% of participants believe in the existence of ghosts and spirits, while 83% fear potential harm from such entities. The ritual functions as a coping mechanism, enabling believers to attain peace of mind, reduce fear, and express compassion through symbolic offerings. Furthermore, the practice strengthens doctrinal engagement, with 42% of respondents identifying it as a form of almsgiving prescribed by the Buddha. In this way, the Mong Son ritual fulfills dual roles: offering emotional relief and serving as a means of moral and spiritual cultivation. By applying functionalist theory, the study affirms that religious rituals are not merely symbolic acts but practical tools addressing existential uncertainty and reinforcing social and spiritual values. The Mong Son Thi Thuc ritual, therefore, remains a vital element of Northern Vietnamese Buddhist practice, reflecting a dynamic interplay between tradition, belief, and psychological resilience. These insights offer a deeper understanding of how ritual behavior continues to shape spiritual life in contemporary Buddhist communities.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 22923234e9fa91579279b0becae2f562b7bc84fd
+Title: Religious coping and religiosity in patients with COPD following pulmonary rehabilitation
+Authors: G. Da Silva, Francisco AB Nascimento, Tereza PM Macêdo, Maria Morano, R. Mesquita, Eanes D B Pereira
+Year: 2018
+Citation Count: 20
+URL: https://www.semanticscholar.org/paper/22923234e9fa91579279b0becae2f562b7bc84fd
+PDF URL: https://www.dovepress.com/getfile.php?fileID=39958
+
+Abstract:
+Background Religious coping (RC) is defined as the use of behavioral and cognitive techniques in stressful life events in a multidimensional construct with positive and negative effects on outcomes, while religiosity is considered a use of individual beliefs, values, practices, and rituals related to faith. There is no evidence for the effects of pulmonary rehabilitation (PR) in RC and religiosity in patients with COPD. The aims of this study were 1) to compare RC and religiosity in patients with COPD following PR and 2) to investigate associations between changes in RC, religiosity and exercise capacity, quality of life (QoL), anxiety, depression, and dyspnea. Methods Seventy-four patients were enrolled in this study including 38 patients in the PR group and 36 patients in the control group. PR protocol was composed of a 12-week (three sessions per week, 60 min per day) outpatient comprehensive program, and the control group was composed of patients in a waiting list for admission to PR program. RC, religiosity, exercise capacity, QoL, anxiety, depression, and dyspnea were measured before and after the study protocol. Results Positive religious coping and organizational religious activities increased (p=0.01; p<0.001, respectively), while negative religious coping decreased (p=0.03) after 12 weeks in the PR group (p<0.001). Significant associations were observed between changes in RC, organizational religiosity with exercise capacity, and QoL following PR. No differences were found in the control group. Conclusion PR improves RC and organizational religiosity in patients with COPD, and these improvements are related to increases in exercise capacity and QoL.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: c26d7ad279fbe050e9f780d308f83fe8e9903914
+Title: Religion, Existential Anxiety, and the Search for Lifes Meaning: A Humanistic Psychology Approach in Religious Societies
+Authors: Muhimmatul Hasanah
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/c26d7ad279fbe050e9f780d308f83fe8e9903914
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This study advances Islamic counseling scholarship by proposing a model that respects clients religious worldviews while empowering them to find personal meaning, emotional resilience, and spiritual fulfillment. In a time when religious identity and psychological well-being are closely intertwined, particularly in Muslim-majority societies, integrating Islamic values with evidence-based humanistic techniques is not only beneficial but also essential. Existential anxiety is a profound form of psychological distress triggered by confronting fundamental questions of death, purpose, and the meaning of existence. This study explores the role of religion in helping individuals in religious societies cope with existential anxiety and pursue life meaning through a humanistic psychological lens. Using a qualitative phenomenological approach, data were collected via in-depth interviews with 12 adult Muslim participants who had experienced existential crises. Thematic analysis yielded three core themes: (1) religious narratives as existential anchors; (2) rituals as buffers against death anxiety and meaninglessness; and (3) spiritual reflection as a path to inner reconciliation. Findings suggest that religion serves not only as a spiritual coping mechanism, but also as a comprehensive framework for meaning-making that integrates humanistic values such as self-actualization and transcendence within a divine context. These insights contribute to the development of meaning-centered Islamic counseling models that blend logotherapeutic techniques with Islamic spiritual principles.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 1f2fff6ddb6ec4fb112f2087760073ce757e85ae
+Title: Psalms and Coping with Uncertainty: Religious Israeli Women's Responses to the 2006 Lebanon War
+Authors: R. Sosis, W. Handwerker
+Year: 2011
+Citation Count: 82
+URL: https://www.semanticscholar.org/paper/1f2fff6ddb6ec4fb112f2087760073ce757e85ae
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

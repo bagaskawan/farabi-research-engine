@@ -13,18 +13,21 @@ export default function ProjectCard({ project }: ProjectCardProps) {
 
   return (
     <Link href={`/workspace/${project.id}`}>
-      <div className="rounded-xl p-6 cursor-pointer min-h-[200px] flex flex-col transition-all duration-500 bg-white border border-gray-100 hover:border-gray-200 hover:shadow-md dark:bg-[#1a1a1a] dark:border-gray-800 dark:hover:border-gray-600 dark:hover:shadow-lg dark:hover:shadow-gray-900/20">
-        <h3 className="text-lg font-bold mb-2 transition-colors duration-500 text-[#1a1a1a] dark:text-white line-clamp-2">
+      <div className="rounded-xl p-6 cursor-pointer h-[200px] flex flex-col transition-all duration-300 bg-white border border-gray-200 hover:border-gray-300 hover:shadow-lg dark:bg-[#1a1a1a] dark:border-gray-800 dark:hover:border-gray-600 dark:hover:shadow-lg dark:hover:shadow-gray-900/20">
+        {/* Title - Fixed 2 lines max */}
+        <h3 className="text-lg font-bold mb-3 text-[#1a1a1a] dark:text-white line-clamp-2 leading-tight min-h-[3.5rem]">
           {project.title}
         </h3>
-        <p className="text-sm leading-relaxed flex-1 mb-4 transition-colors duration-500 text-gray-500 dark:text-gray-400 line-clamp-3">
-          {description}
+
+        {/* Description - Fixed 3 lines, takes remaining space */}
+        <p className="text-sm leading-relaxed flex-1 text-gray-500 dark:text-gray-400 line-clamp-3 overflow-hidden">
+          {description || "No description available"}
         </p>
-        <p className="text-sm">
-          <span className="transition-colors duration-500 text-gray-400 dark:text-gray-500">
-            Created{" "}
-          </span>
-          <span className="text-amber-500">
+
+        {/* Footer - Always at bottom */}
+        <p className="text-sm mt-auto pt-3 border-t border-gray-100 dark:border-gray-800">
+          <span className="text-gray-400 dark:text-gray-500">Created </span>
+          <span className="text-amber-500 font-medium">
             {getRelativeTime(project.created_at)}
           </span>
         </p>

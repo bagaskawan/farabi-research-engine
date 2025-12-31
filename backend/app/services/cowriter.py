@@ -193,6 +193,11 @@ DO NOT remove citations for "flow" - they are essential for credibility.
 - Use "kamu" instead of "Anda" for intimacy
 - Short paragraphs, punchy sentences
 - Natural Indonesian - not formal/stiff
+- **FORMATTING RULES**:
+    - Use Markdown for emphasis (e.g., **bold** for key terms)
+    - Use ### for sub-headers within the Deep Dive section
+    - Use lists (- or 1.) for readability
+    - Ensure there is always a space after the # in headers (e.g. "### Title", NOT "###Title")
 
 **OUTPUT FORMAT (JSON ONLY):**
 {

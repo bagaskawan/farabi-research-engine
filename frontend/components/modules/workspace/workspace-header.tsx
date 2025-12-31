@@ -4,13 +4,14 @@ import { useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import ThemeToggle from "@/components/ThemeToggle";
-import { ArrowLeft, Ellipsis, Trash2 } from "lucide-react";
+import { ArrowLeft, Ellipsis, Trash2, FileDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
+  DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import {
@@ -24,20 +25,37 @@ import {
   AlertDialogTitle,
 } from "@/components/ui/alert-dialog";
 import { createClient } from "@/lib/supabase/client";
+import PdfPreviewDialog from "@/components/modules/workspace/exportPDF/PdfPreviewDialog";
+
+interface Block {
+  type: string;
+  props?: { level?: number };
+  content?: Array<{
+    type: string;
+    text?: string;
+    styles?: Record<string, boolean>;
+  }>;
+  children?: Block[];
+}
 
 interface WorkspaceHeaderProps {
   isSaving?: boolean;
   projectId: string;
   projectTitle: string;
+  canvasBlocks?: Block[];
 }
 
 export default function WorkspaceHeader({
   isSaving,
   projectId,
   projectTitle,
+  canvasBlocks = [],
 }: WorkspaceHeaderProps) {
   const router = useRouter();
   const supabase = createClient();
+
+  // PDF Preview dialog state
+  const [isPdfPreviewOpen, setIsPdfPreviewOpen] = useState(false);
 
   // Delete dialog state
   const [isDeleteDialogOpen, setIsDeleteDialogOpen] = useState(false);
@@ -101,50 +119,35 @@ export default function WorkspaceHeader({
   return (
     <>
       <ThemeToggle />
-      <header className="sticky top-0 z-50 bg-background">
-        <div className="max-w-7xl mx-auto px-6 lg:px-8">
-          <div className="flex items-center justify-between h-12">
-            {/* Left: Back Button */}
-            <Link href="/dashboard">
-              <Button variant="ghost" className="flex items-center gap-2">
-                <ArrowLeft className="w-4 h-4" />
-                <span>Kembali ke List Proyek</span>
-              </Button>
-            </Link>
 
-            {/* Right: Save Status + More Menu */}
-            <div className="flex items-center gap-3">
-              {/* Save Status */}
-              <span className="text-xs text-muted-foreground">
-                {isSaving ? "Saving..." : ""}
-              </span>
+      {/* Save Status - shown inline */}
+      {isSaving && (
+        <span className="text-xs text-muted-foreground">Saving...</span>
+      )}
 
-              {/* More Menu */}
-              <DropdownMenu>
-                <DropdownMenuTrigger asChild>
-                  <Button
-                    variant="ghost"
-                    size="sm"
-                    className="flex items-center"
-                  >
-                    <Ellipsis className="w-4 h-4" />
-                    <span className="sr-only">Settings</span>
-                  </Button>
-                </DropdownMenuTrigger>
-                <DropdownMenuContent align="end">
-                  <DropdownMenuItem
-                    onSelect={() => setIsDeleteDialogOpen(true)}
-                    className="text-destructive focus:text-destructive focus:bg-destructive/10"
-                  >
-                    <Trash2 className="w-4 h-4 mr-2" />
-                    <span>Delete Project</span>
-                  </DropdownMenuItem>
-                </DropdownMenuContent>
-              </DropdownMenu>
-            </div>
-          </div>
-        </div>
-      </header>
+      {/* More Menu */}
+      <DropdownMenu>
+        <DropdownMenuTrigger asChild>
+          <Button variant="ghost" size="sm" className="flex items-center">
+            <Ellipsis className="w-4 h-4" />
+            <span className="sr-only">Settings</span>
+          </Button>
+        </DropdownMenuTrigger>
+        <DropdownMenuContent align="end">
+          <DropdownMenuItem onSelect={() => setIsPdfPreviewOpen(true)}>
+            <FileDown className="w-4 h-4 mr-2" />
+            <span>Export to PDF</span>
+          </DropdownMenuItem>
+          <DropdownMenuSeparator />
+          <DropdownMenuItem
+            onSelect={() => setIsDeleteDialogOpen(true)}
+            className="text-destructive focus:text-destructive focus:bg-destructive/10"
+          >
+            <Trash2 className="w-4 h-4 mr-2" />
+            <span>Delete Project</span>
+          </DropdownMenuItem>
+        </DropdownMenuContent>
+      </DropdownMenu>
 
       {/* Delete Confirmation Dialog */}
       <AlertDialog open={isDeleteDialogOpen} onOpenChange={handleDialogChange}>
@@ -190,6 +193,14 @@ export default function WorkspaceHeader({
           </AlertDialogFooter>
         </AlertDialogContent>
       </AlertDialog>
+
+      {/* PDF Preview Dialog */}
+      <PdfPreviewDialog
+        isOpen={isPdfPreviewOpen}
+        onClose={() => setIsPdfPreviewOpen(false)}
+        title={projectTitle}
+        blocks={canvasBlocks}
+      />
     </>
   );
 }

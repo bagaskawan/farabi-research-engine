@@ -1,0 +1,125 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: cross cultural comparison demon beliefs
+Search Time: 2025-12-31 12:20:05
+Total Available in API: 1037
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 7913f0cb3a86f9db2a69db95741d5984cf041ea3
+Title: Effects of pre-service teachers’ cultural competence on their social justice and self-efficacy beliefs: a cross-cultural comparison between Turkey, South Korea and the United States
+Authors: Gökhan Kılıçoğlu, Derya Kilicoglu, Y. Cho
+Year: 2023
+Citation Count: 9
+URL: https://www.semanticscholar.org/paper/7913f0cb3a86f9db2a69db95741d5984cf041ea3
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+ABSTRACT This study is a comparative research investigating whether cultural competence of preservice teachers is causally related to their social justice and self-efficacy beliefs in Turkey, South Korea and the United States. The study group involved pre-service teachers from Turkey (n = 560), South Korea (n = 790) and the United States (n = 352). The model was developed in the study to discern pattern of relationships among cultural competence acting on social justice and self-efficacy beliefs via multiple causal pathways. Multisample structural equation model was performed to test the equivalence of relationships among variables in the three samples by estimating the model separately for Turkish, S. Korean, and US groups. The study results revealed that cultural competence of pre-service teachers has positive effect on their social justice and self-efficacy beliefs in all three samples. The results indicated that there is a strongest effect of pre-service teachers’ cultural competence on their social justice beliefs in S. Korea. There was a strongest effect of pre-service teachers’ cultural competence on their self-efficacy beliefs in Turkey. The implications for academic research and teacher training are discussed.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 5fe0976b1e4b5fd57ba8e07c99014fc29a331a74
+Title: Distinguishing facts from beliefs: a cross-cultural comparison between Chinese and Americans
+Authors: Jun Li, Mitchell Rabinowitz
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/5fe0976b1e4b5fd57ba8e07c99014fc29a331a74
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 76e6b566178945f54a7975d65a2014b7d83118b0
+Title: Basic beliefs of hope: a cross-cultural comparison
+Authors: Andreas M. Krafft
+Year: 2025
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/76e6b566178945f54a7975d65a2014b7d83118b0
+PDF URL: https://doi.org/10.3389/fpsyg.2025.1520887
+
+Abstract:
+Based on a transdisciplinary concept of hope defined as the belief in the possibility of a wished-for good and the trust in (external) resources that could make this possibility happen, the current paper attempts to evaluate the nature and role of basic beliefs related to a broader perception of hope from people with diverse cultural backgrounds. Two empirical studies from the Hope Barometer research program performed in November 2021 (N = 1.721) and November 2023 (N = 2.064) aim to compare the levels of generally perceived hope and basic beliefs of the French and Italian populations in Switzerland. Via multivariate hierarchical regression analyses we evaluate the extent to which culturally shaped basic beliefs are distinctively connected to this perception of hope. The results back up the idea that believing in the world’s goodness, fairness, abundance, controllability, and beauty, along with a sense of luck and self-worth, can give people hope that goes beyond just focusing on their own agency and ability to reach their individual goals. Despite similar socio-economic conditions, participants representing the Italian-speaking population display higher levels of perceived hope, dispositional hope, and several basic beliefs about the world and oneself. Furthermore, in the Italian group, primal world beliefs have a stronger connection to perceived hope than in the French speaking group. With regard to psychological theories of hope, these findings imply that it would be misleading to reduce the experience of hope only to individualistic goal-oriented dimensions and to ignore other elements and sources of hope, particularly when hope is related to some broader social domains.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 25fbaca93c48044c2458ebee4499beb47b9367b7
+Title: A Cross-Cultural Comparison of Safety Beliefs about Products and Warnings: Brazil vs. United States
+Authors: Claudia Mont’Alvãoa, S. Kimb
+Year: 2022
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/25fbaca93c48044c2458ebee4499beb47b9367b7
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Concerns about safety have generated considerable research on warnings in recent years. A number of factors that influence warning effectiveness have been investigated. One factor is perceived hazard, which is a belief about how dangerous a product, environment or activity may be. The purpose of the present study was to conduct a cross-cultural investigation between the beliefs and attitudes about the safety of consumer products, the roles of product manufacturers and government in product safety, and aspects regarding warnings by participants in Brazil and in the United States (U.S.). A total of 282 individuals (including college students and adult volunteers) were recruited from these two countries. Participants in both countries believed that government would act to protect them by recalling or banning unsafe products and that manufacturers are more concerned with profits than safety. U.S. participants believed that the products in the U.S. were safer at a level that was significantly higher than what Brazilians believed about their products. Interestingly Brazilians reported that they read warnings more than the U.S. participants reported but Brazilian participants believed their warning labels were of poorer quality than what the U.S. participants reported. Other results show additional differences between the two populations. The results are discussed in terms of acknowledging that cultural background can affect safety-related beliefs.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: b693162d0b8c9518ad4b26e4dd8e95dbcdf54ff9
+Title: Understanding cross-cultural differences in pedagogical beliefs: A comparison among South Korean, Spanish, and German early childhood teachers
+Authors: Ji Young Lee, Jone Sagastui, Christoph Mischo, Allyson S. Masters, Svenja Peters, Katrin Wolstein, Roberta Michnick Golinkoff, K. Hirsh-Pasek
+Year: 2024
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/b693162d0b8c9518ad4b26e4dd8e95dbcdf54ff9
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: c1245b27091aa1bcaece0a27b3d90e59eafefcab
+Title: Identity work in conservative political discourse: a cross-cultural comparison
+Authors: Neil McLean, Gerry Capstick, Benedetta Passarini
+Year: 2023
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/c1245b27091aa1bcaece0a27b3d90e59eafefcab
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/14708477.2023.2269399?needAccess=true
+
+Abstract:
+ABSTRACT This article presents the findings of a cross-cultural study of identity positioning in the political discourse of religious, conservative politicians in Italy and Northern Ireland. Findings point to the use of frames of reference around family, faith, freedom and societal catastrophe. These frames were though amplified through use of self-narratives of suffering in defence of beliefs and traditions. A key driver of the identity positioning work was therefore ‘stake inoculation’. That is the use of cues to defend against accusations of bigotry. This move in English is largely ‘defensive', whereas in Italian it involves a more combative strategy of ‘othering’.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 6ae215e65b48b6e464cf1708e7c5a5ef6ec1ec84
+Title: Folk Beliefs about Soul and Mind: Cross-Cultural Comparison of Folk Intuitions about the Ontology of the Person
+Authors: A. Gut, A. Lambert, Oleg Gorbaniuk, Robert Mirski
+Year: 2021
+Citation Count: 6
+URL: https://www.semanticscholar.org/paper/6ae215e65b48b6e464cf1708e7c5a5ef6ec1ec84
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+
+The present study addressed two related problems: The status of the concept of the soul in folk psychological conceptualizations across cultures, and the nature of mind-body dualism within Chinese folk psychology. We compared folk intuitions about three concepts – mind, body, and soul – among adults from China (N=257) and Poland (N=225). The questionnaire study comprised of questions about the functional and ontological nature of the three entities. The results show that the mind and soul are conceptualized differently in the two countries: The Chinese appear to think of the soul similarly to how they view the mind (importantly, they still seem to see it as separate from the body), while Poles differentiate it both in ontological and functional respects. The study provides important insights into cross-cultural differences in conceptualizing the soul as well as into the nature of Chinese mind-body dualism.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 3aecf7b95ff2b6074447fd8f53aa43e1db2f600b
+Title: A cross-cultural comparison in pedagogical beliefs about oral corrective feedback: the case of English language teachers in China versus the U.S.
+Authors: Laura J. Mahalingappa, Nihat Polat, Rui Wang
+Year: 2021
+Citation Count: 10
+URL: https://www.semanticscholar.org/paper/3aecf7b95ff2b6074447fd8f53aa43e1db2f600b
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Abstract Oral corrective feedback (OCF) has been a trending topic in additional language education research in the last three decades. In light of current foci on socio-cultural particularities and calls for comparative work on international teacher education, there is increasing need for explorations of teachers’ beliefs about OCF in different settings. To explore possible effects of socio-cultural differences on teachers’ beliefs about OCF, this study asks: How do in-service teachers in China (EFL) and the U.S. (ESL) perceive the need for OCF in second language (L2) learning and teaching? How do they perceive the effectiveness of different types–recast, explicit correction, prompts–of OCF in L2 education? Which of the recast, explicit correction, and prompt types do they report to use more commonly to provide their students OCF? How do factors such as years of teaching experience, and personal knowledge about research on OCF mitigate differences between the two groups? MANOVA results, based on data from 331 teachers, revealed similarities and differences between groups. Although both groups shared similar views on the need for OCF and considered prompts more effective than other types, they differed in their reported use of different types, partially moderated by socio-cultural factors, dominant educational philosophies, and background factors.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

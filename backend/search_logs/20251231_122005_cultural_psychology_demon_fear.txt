@@ -1,0 +1,134 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: cultural psychology demon fear
+Search Time: 2025-12-31 12:20:05
+Total Available in API: 1276
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 04cc82afeb9c2cc5c904f0176fd3ed668b740ec7
+Title: The Application of Chinese Cultural Psychology in Psychological Crisis Intervention for College Students with Depression and Suicide
+Authors: Sijun Chen, Kun Chen
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/04cc82afeb9c2cc5c904f0176fd3ed668b740ec7
+PDF URL: https://doi.org/10.22158/sssr.v5n1p164
+
+Abstract:
+At present, multiple pressures and bad guidance cause college students to fall into confusion and contradiction, which leads to such problems as selfishness, indifference, anxiety, fear, coercion and other psychological discomfort phenomena, as well as frequent suicide incidents. Eliminating the psychological crisis of college students has become an important task faced by colleges and universities. Applying Chinese cultural psychology to the psychological crisis intervention may have great guiding significance for the current psychological crisis intervention of college students. Psychological crisis intervention for suicidal ideation in patients with depression can improve their mental health level and reduce the risk of suicide.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: adc99d8f55a8cda44a7f527a82c70a29ab3ff650
+Title: Contagion of fear: Investigating the psychology and effects of mass hysteria
+Authors: Lopamudra Pradhan, Ashrumochan Sahoo, Pallabi Sahu, S. Swain, Mrunmayee Pradhan
+Year: 2024
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/adc99d8f55a8cda44a7f527a82c70a29ab3ff650
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+
+ Mass hysteria, or mass psychogenic illness (MPI), refers to the rapid spread of symptoms or behaviors within a group without an identifiable physical cause, often triggered by psychological and social factors. This case report details an outbreak of MPI, commonly known as mass hysteria, at a girls’ boarding school in central Odisha. The incident was triggered by a 12-year-old student, Miss A, who exhibited physical symptoms such as fainting, shaking, and abdominal pain. These symptoms quickly spread to almost 100 other students. Medical evaluations found no physical cause, confirming the psychogenic origin of the outbreak. Cultural beliefs in malevolent spirits and social contagion were key factors in the spread, especially among the young, impressionable students. This case highlights the psychological and social mechanisms behind MPI outbreaks and emphasizes the importance of addressing mental health and cultural beliefs when managing such incidents.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 6a3f68fa06d286b774f2ae0c98750e924713b297
+Title: Exploring Fear: Linguistic-Cultural and Pragmatic Insights from French Synonyms
+Authors: Kamaraddin Davletov
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/6a3f68fa06d286b774f2ae0c98750e924713b297
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This study delves into the linguistic-cultural and pragmatic dimensions of the French language, focusing on the concept of "Fear." Employing lexical-semantic analysis through distributive and component-contextual methods, the research aims to classify synonyms related to fear and analyze their semantic characteristics. Drawing from the works of renowned scholars in linguistics and emotion studies, the study addresses the unresolved issues surrounding the conceptualization and classification of emotions. The findings shed light on the linguistic nuances and cultural implications of fear expressions in French, offering valuable insights for cross-disciplinary research in linguistics, psychology, philosophy, and related fields.
+Highlights:
+
+French fear expressions analyzed: linguistic nuances and cultural connotations explored.
+Synonym classification and semantic analysis contribute to emotion and linguistic studies.
+Insights benefit linguistics, psychology, philosophy, and cross-cultural research disciplines.
+
+Keywords: fear, linguistic-cultural analysis, french language, lexical units, synonomic series
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 29242baeba62c6d25ac3a47c2ab907e0bf57e544
+Title: Phenomenon of Fear: Reflection in Fine Arts of The 20th – Early 21st Century (Cultural Aspect)
+Authors: N. Zhukova
+Year: 2024
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/29242baeba62c6d25ac3a47c2ab907e0bf57e544
+PDF URL: https://journals.uran.ua/visnyknakkkim/article/download/302016/294066
+
+Abstract:
+The purpose of the article is to analyse the phenomenon of fear from the standpoint of phenomenology and existentialism, to examine the reflection of fear in European and Ukrainian art of the 20th and early 21st centuries. The research methodology includes the general scientific principles of systematisation and generalisation of the problem under study, which made it possible to identify and scientifically substantiate existing theories, conceptual approaches to understanding the phenomenon of fear, such as "metaphysical fear", "existential fear", "ontic fear", "spiritual fear", and "moral fear". The phenomenological method allowed us to study the internal nature of fear, in particular, different states of fear: anxiety, fear, horror. The historical and cultural approach has been used to examine the evolution of fear theories from ancient times to the present. A significant role in understanding the phenomenon of fear is played by an interdisciplinary approach, which allowed us to analyse this phenomenon with the wide involvement of the scientific achievements of a number of humanities, including cultural studies, philosophy, aesthetics, art history, and psychology. The scientific novelty lies in the cultural analysis of reflections in the fine arts of the 20th and early 21st centuries on the phenomenon of fear. Conclusions. The tragedy of human destiny is expressed in such philosophical terms as fear (Kierkegaard, Jaspers, Heidegger), nausea, anxiety (Sartre), longing, boredom (Camus). The ontological significance of such mental states lies in the collision of consciousness with nothingness, with the abyss of existence. Metaphysical fear is related to time. Temporality is the main characteristic of human existence. Fear always appears to us in two guises: as a useful warning and at the same time as an obstacle. In a state of fear, a person faces the abyss of Nothingness. Those who experience existential fear feel the emptiness between themselves and the world of everyday relationships. However, it is only by experiencing fear and a sense of abandonment in the world that one finds true freedom. The theme of fear has inspired and continues to inspire many artists of the 20th and early 21st centuries. Unlike artists of previous generations, they try to show fear in their works. The fine arts of this period can be called an encyclopaedia of symptoms of fear, pain, and horror. Fear motivates us to act, to create. Therefore, the role that fear plays in our lives depends on the role we allow it to play. We can try to resist the impulses that cause fear to manifest, and we can try to replace fear with hope. Hope is stronger than fear because it is active and free from any bondage. The charge of hope expands a person's capabilities, not limits them. The more opportunities and creative potential a person has, the less fear they experience.
+ 
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 0bd4bd00f9f2ce8301dde3fd042631ba96ac7bcf
+Title: The psychology of guns: risk, fear, and motivated reasoning
+Authors: J. Pierre
+Year: 2019
+Citation Count: 37
+URL: https://www.semanticscholar.org/paper/0bd4bd00f9f2ce8301dde3fd042631ba96ac7bcf
+PDF URL: https://www.nature.com/articles/s41599-019-0373-z.pdf
+
+Abstract:
+The gun debate in America is often framed as a stand-off between two immutable positions with little potential to move ahead with meaningful legislative reform. Attempts to resolve this impasse have been thwarted by thinking about gun ownership attitudes as based on rational choice economics instead of considering the broader socio-cultural meanings of guns. In this essay, an additional psychological perspective is offered that highlights how concerns about victimization and mass shootings within a shared culture of fear can drive cognitive bias and motivated reasoning on both sides of the gun debate. Despite common fears, differences in attitudes and feelings about guns themselves manifest in variable degrees of support for or opposition to gun control legislation that are often exaggerated within caricatured depictions of polarization. A psychological perspective suggests that consensus on gun legislation reform can be achieved through understanding differences and diversity on both sides of the debate, working within a common middle ground, and more research to resolve ambiguities about how best to minimize fear while maximizing personal and public safety.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 63ca0f3a08b80650a9933eac58709e781e15b827
+Title: Taboo and Cultural Psychology in Cantonese
+Authors: Xiaoyan Cao
+Year: 2018
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/63ca0f3a08b80650a9933eac58709e781e15b827
+PDF URL: https://download.atlantis-press.com/article/25898071.pdf
+
+Abstract:
+Guangdong province has a well-developed commercial economy with a large population. In the long-term development of Cantonese, there have many taboos. Taboos are linguistic customs that have local dialects or social dialects. Many taboo words in Cantonese are often ignored by the public because of their meaning or pronunciation. Instead, they are often counter-productive euphemisms. For example, people in Guangdong say that "pig blood" is "pig red", "vacant house" is "Jiwu", "aunt" is "boyou" and so on. At the same time, these taboo words in daily life reflect the thick commercial culture of Guangdong province to a certain extent. Also, they reflect people’s fear of ominous things and their hope for a better life. Keywords—Cantonese; taboo; characteristics; cultural psychology
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 2fa3f14226d84c6463edcc245788be526d7e7422
+Title: “They Are Demon Possessed”: Educational Psychology student responses to gender and sexual diversity at a South African University
+Authors: A. Brown, S. Njoko
+Year: 2019
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/2fa3f14226d84c6463edcc245788be526d7e7422
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 14b61d13494ac96ee0adb284d6bb0f9f11a06ff9
+Title: Fear, Peer Pressure, or Encouragement: Identifying Levers for Nudging Towards Healthier Food Choices in Multi-Cultural Singapore
+Authors: Kum-Seong Wan, B. Choo, Kwok-Fong Chan, J. Yeo, Clarene Tan, B. Quek, Samuel Ken-En Gan
+Year: 2021
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/14b61d13494ac96ee0adb284d6bb0f9f11a06ff9
+PDF URL: https://doi.org/10.20944/preprints202111.0551.v1
+
+Abstract:
+With roots beyond behavioural economics to psychology, nudges can be applied for influencing healthy behaviours such as food choice and portions to decrease obesity for better public health outcomes. However, the effectiveness of the type of nudges are contentious with conflicting literature. In this pilot study, we conducted a 23-day study surveying the food choices that included portion, locus of control, demographic data, and psychological measures of personality, perceived stress, narcissism, regulatory focus, food choice motive and dietary restraint, with the participants given four intervention conditions of 12 instant messaging sent every two days through WhatsApp. The messages were either factual (control), focused on consequences, through social comparison, or persuasive. Running over the COVID19 pandemic, 17 participants completed the full surveys showing significant effects between the experimental conditions with the psychological parameters except for diet confidence and extraversion and conscientiousness, as well as cognitive restraint. We found BMI and waistline measurements to be suitable measurements, with promising results from the fear and social comparison nudges for food-related behaviours and exercise. Our pilot findings have implications to the use of nudges upon which future studies investigating psychological factors can build on.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

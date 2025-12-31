@@ -1,0 +1,138 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: clinical supernatural phobia treatment
+Search Time: 2025-12-30 12:45:54
+Total Available in API: 2808
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 44b7f9a48b7dcb7274b2fdeff673c61d36905e68
+Title: Phobia of the Supernatural: A Distinct but Poorly Recognized Specific Phobia With an Adverse Impact on Daily Living
+Authors: R. de Oliveira-Souza
+Year: 2018
+Citation Count: 13
+URL: https://www.semanticscholar.org/paper/44b7f9a48b7dcb7274b2fdeff673c61d36905e68
+PDF URL: https://www.frontiersin.org/articles/10.3389/fpsyt.2018.00590/pdf
+
+Abstract:
+The psychological and psychiatric literature has seldom appreciated the clinical fact that fears of ghosts and kindred supernatural worries may be a cause of intense discomfort, poor sleep, and socio-occupational impairment. In the present article, this claim is illustrated by the clinical features of six patients who developed intense anxiety when they had to sleep alone at night. The fears were first noticed in childhood and persisted into adolescence and adulthood. At these times, they were overwhelmed by images of ghosts and haunted houses often experiencing a vivid impression that an immaterial being not perceivable by the ordinary senses was hovering around. Comorbidity with other phobias was the rule. Owing to shame and self-consciousness, the fears were seldom if ever discussed with healthcare professionals. The overall clinical and psychopathological picture was consistent with a diagnosis of a specific phobia. In a few cases, response to pharmacological treatment and cognitive-behavioral intervention has alleviated the symptoms. “Phobia of the supernatural” may be more common than usually thought. It must actively be sought for in patients complaining of poor sleep and daytime somnolence, and in patients with other types of phobia. The differential diagnosis of phobia of the supernatural includes nocturnal panic attacks, psychosis, other types of phobia that tend to occur during the night, dissociative states of sleep, dementia, and a few rare presentations of epilepsy. Systematic studies must be carried out to settle the neurobiological correlates of phobia of the supernatural as well as the possible benefit of different modalities of pharmacological and psychological treatment.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 09b9a3a96f76bbcacb52f1cfa2a2039d833f4967
+Title: “Being Unfilial Condemns You to Hell”: Integrative Treatment for Social Anxiety Shaped by Domestic Abuse, Confucian Values, and Taoist Beliefs
+Authors: K. Lau, Oliver Sündermann
+Year: 2019
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/09b9a3a96f76bbcacb52f1cfa2a2039d833f4967
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Social anxiety is a common and treatable condition but less is known about how to adapt evidence-based approaches in a culture-sensitive way to Asian clients. We present the case of “Sally,” a 25-year-old Chinese Singaporean female who suffered from severe and long-standing social anxiety disorder (SAD), and secondary low mood. Contributing factors included a history of domestic abuse, as well as culturally influenced authoritarian parenting emphasizing the Confucian value of filial piety and reinforced by Taoist beliefs of karmic retribution and supernatural punishment. Treatment was based on Clark and Wells’s cognitive model of SAD with a focus on behavioral experiments, and was enhanced using a schema mode formulation and imagery rescripting to address relevant early memories that were at the origin of the social anxiety. Sally received a total of 42 sessions over the course of 21 weeks, during which she made steady progress toward recovery. Her self-reported depression and social phobia fell from the “severe clinical” range pretreatment to the “non-clinical” range posttreatment; these gains were maintained at 6 months follow-up. Sally’s functioning fully recovered, and she returned to work and school. While behavioral experiments for dropping safety behaviors were useful for overcoming the social anxiety, schema formulation was important for providing Sally with insight to her thought process, and imagery rescripting was crucial for weakening her self-criticism and internalized black and white thinking on filial piety. The significance of culture and religion in SAD, and the potential of adapting cognitive therapy in a culture-sensitive way is discussed.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 472e74006442d62690e09dfa5ebc4114fe0b5d1a
+Title: Clinical predictors of treatment response towards exposure therapy in virtuo in spider phobia: A machine learning and external cross-validation approach.
+Authors: E. Leehr, Kati Roesmann, J. Böhnlein, U. Dannlowski, B. Gathmann, M. Herrmann, M. Junghöfer, H. Schwarzmeier, F. Seeger, N. Siminski, T. Straube, U. Lueken, K. Hilbert
+Year: 2021
+Citation Count: 30
+URL: https://www.semanticscholar.org/paper/472e74006442d62690e09dfa5ebc4114fe0b5d1a
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 0220f0191263760efc10a6d643cca1aa84a634dd
+Title: Smartphone-based exposure treatment for dental phobia: a pilot randomized clinical trial.
+Authors: M. Arias, D. McNeil
+Year: 2019
+Citation Count: 16
+URL: https://www.semanticscholar.org/paper/0220f0191263760efc10a6d643cca1aa84a634dd
+PDF URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7885165
+
+Abstract:
+OBJECTIVES
+High levels of dental care-related fear/anxiety, as well as phobia, result in delay or avoidance of dental care, which is associated with poorer oral and overall health. Both pharmacotherapeutic and psychosocial methods are available to treat those with high levels of dental fear/anxiety or phobia, but they are infrequently used and not easily accessed. Smartphones are a potential vehicle for delivering exposure therapy (e.g., a treatment involving systematic encounter with fear-evoking stimuli), but there is a need to test the acceptability of this approach in regard to treatment of high levels of dental anxiety/fear and phobia.
+
+
+METHODS
+There were 36 patients with high dental anxiety/fear/phobia randomly assigned to either a treatment or a waitlist condition. Participants completed a pre- and two-week post-multimodal assessment, including a dental behavioral avoidance task. The treatment condition included 2 weeks of self-directed exposure delivered via a personal smartphone in the patients' natural environment.
+
+
+RESULTS
+Participants in the treatment condition utilized the smartphone exposure an average of 1.6 times daily (SD = 0.85), and found the self-directed exposure highly acceptable. Moreover, they had lower self-reported anxiety and decreased cardiac reactivity at the postassessment compared with the preassessment; no change in anxiety was found for the control condition from pre- to postassessment.
+
+
+CONCLUSIONS
+Highly anxious, fearful, and dental phobic participants utilized smartphone-delivered exposure therapy, and found it to be an acceptable treatment method. Results support the utility and promise for further testing of the personal smartphone in delivering self-directed exposure therapy for high dental fear/anxiety and phobia.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 1d74442d5e49a185a81406cb82138a4cb95d9d40
+Title: Frequency of and sex distribution in specific phobia subtypes in a treatment-seeking sample
+Authors: David Veale, Charles Beeson, Andriani Papageorgiou
+Year: 2025
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/1d74442d5e49a185a81406cb82138a4cb95d9d40
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Background Specific phobias are common in the community, and much is known from epidemiological surveys about their subtypes and sex ratio. Aims To determine the subtypes and sex ratio in a treatment-seeking sample of people with a specific phobia. Method Patients with a specific phobia were identified by a retrospective search of clinical case records from patient notes in electronic health records at the South London and Maudsley NHS Foundation Trust (the largest secondary mental healthcare provider in Europe). Results We identified 1017 patients over 5 years as having a specific phobia. The adult female to male sex frequency ratio for having any specific phobia was 3.9, with the ratio of specific phobia subtypes ranging from 2.4 (natural environment) to 8.2 (animal). The child female to male ratio of specific phobia subtypes ranged from 0.7 (natural environment) to 1.8 (other subtypes). Phobia of vomiting was the most common specific phobia presenting in both adults (n = 161, 17.8% of all specific phobias) and children (n = 26, 23.4%). In adults with a phobia of vomiting, the female to male ratio was 9.1 compared with 3.4 in all other specific phobias, and 4.2 versus 0.98 for children. Conclusions There is a stark contrast between the apparent prevalence of phobia of vomiting in epidemiological surveys and being the most common presentation clinically. A very high female to male ratio in phobia of vomiting and animals in adults seeking treatment is also in contrast to findings in the community. This has implications for clinician training and public education.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: fd3b0d4ecb0c2d0771249c55cc51a81803ac55ea
+Title: Psychological therapy using virtual reality for treatment of driving phobia: a systematic review
+Authors: Rachel A. Elphinston, A. Vaezipour, James A. Fowler, T. Russell, M. Sterling
+Year: 2022
+Citation Count: 18
+URL: https://www.semanticscholar.org/paper/fd3b0d4ecb0c2d0771249c55cc51a81803ac55ea
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Abstract Purpose Driving phobia is prevalent in injured individuals following motor vehicle crashes (MVCs). The evidence for virtual reality (VR) based psychological treatments for driving phobia is unknown. This systematic review synthesized the available evidence on the effectiveness, feasibility, and user experience of psychological treatments for driving phobia using VR. Methods Three databases (PsycINFO, SCOPUS, and PubMed) were searched. Eligibility criteria included adults with clinical or sub-clinical levels of driving phobia manifesting as part of an anxiety disorder or post-traumatic stress disorder (PTSD). Primary outcomes were driving-related anxiety/fear or avoidance, PTSD symptoms and driving frequency/intensity, as well as treatment feasibility including recruitment, treatment completion and retention rates, user experience and immersion/presence in the VR program. Secondary outcomes were other health outcomes (e.g., depression) and VR technological features. Results The 14 included studies were of low methodological quality. Clinical and methodological heterogeneity prevented quantitative pooling of data. The evidence provided in this review is limited by trials with small sample sizes, and lack of diagnostic clarity, controlled designs, and long-term assessment. The evidence did suggest that VR-based psychological interventions could be feasible and acceptable in this population. Conclusions For VR-based psychological interventions to be recommended for driving phobia, more high-quality trials are needed. Implications for rehabilitation Virtual reality (VR) based psychological treatments may be feasible and acceptable to patients with driving phobia. There is potential to increase accessibility to psychological therapies in patients with driving phobia following motor vehicle crashes through the use of digital psychiatry such as VR.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: a40217978ae7ebb529da058d401c37d3520dc0e7
+Title: An Interpersonal Approach to the Treatment of Social Anxiety Disorder (Social Phobia): A Component Analysis
+Authors: A. Stravynski, L. Lachance
+Year: 2022
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/a40217978ae7ebb529da058d401c37d3520dc0e7
+PDF URL: https://doi.org/10.5152/pcp.2022.21246
+
+Abstract:
+Background: Most treatments of social anxiety disorder aim at anxiety reduction. To what extent this leads to improved social functioning remains unclear. An effective alternative aiming primarily at social functioning- the Interpersonal Approach- is available. The present study sought to identify its active ingredients. Methods: This is a randomized controlled study; 102 social anxiety disorder individuals were randomly assigned to 3 versions of the Interpersonal Approach. A total of 76 patients completed treatment and 67, a 1-year follow-up. The patients met Diagnostic and Statistical Manual of Mental Disorders, fourth edition criteria for social anxiety disorder. The study was carried out in an experimental clinic for the treatment of social anxiety disorder at the Research Center of Louis-H. Lafontaine Hospital in Montreal, Canada. Results: No clinically meaningful change occurred during the waiting list. A significant and equivalent improvement was obtained in all treatment conditions in social functioning, anxiousness, and general psychopathology, maintaining over a 12-month follow-up. Remission rates improved progressively with 54% remission at 1-year follow-up. All variants of the Interpersonal Approach resulted in similar improvements. Conclusion: The Interpersonal Approach in all its versions has proved to be effective in reducing anxiety complaints and improving social functioning. The combined improvement in these 2 outcomes accounts for the significant remission rates seen at 1-year follow-up. Two active features were common to all: (1) targeting and ultimately dissolving long-standing habits of self-protection across various spheres of life and (2) fostering participatory interpersonal patterns of behavior, enacted by patients systematically and repeatedly between sessions.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 9c072c6c2bb9a14de02f080087a0bc806fe40420
+Title: The efficacy of augmented reality exposure therapy in the treatment of spider phobia—a randomized controlled trial
+Authors: Tomas Jurcik, Svetlana Zaremba-Pike, V. Kosonogov, Abdul-Raheem Mohammed, Yulia Krasavtseva, Tadamasa Sawada, Irina Samarina, Nilufar Buranova, Peter Adu, N. Sergeev, Andrei Skuratov, Anastasia Demchenko, Yakov Kochetkov
+Year: 2024
+Citation Count: 5
+URL: https://www.semanticscholar.org/paper/9c072c6c2bb9a14de02f080087a0bc806fe40420
+PDF URL: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1214125/pdf
+
+Abstract:
+The evidence for the use of Augmented Reality (AR) in treating specific phobias has been growing. However, issues of accessibility persist, especially in developing countries. The current study examined a novel, but relatively simple therapist guided smartphone-based AR Exposure Treatment (ARET) of spider phobia. Participants who reported symptoms of Arachnophobia were randomized into one of three comparison groups: ARET (n = 20), traditional in vivo exposure therapy (IVET; n = 18) and a waitlist control group (n = 17). Behavioral approach, subjective symptom measures, and galvanic skin response were assessed pre- and post-treatment. The study was concluded with a one-month follow up assessment. Results indicated that both treatment groups showed statistically significant and clinically meaningful improvements in behavioral approach at post-test that were maintained at 1 month follow- up, compared to the wait-listed group. Moreover, the treatment groups demonstrated significant improvements in subjective symptom report at 1-month follow up. Given its utility and potential accessibility, our findings suggest that future AR evaluation research could be conducted in therapy settings with minimal resources.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

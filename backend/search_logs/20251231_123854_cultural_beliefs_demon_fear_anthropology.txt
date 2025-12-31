@@ -1,0 +1,134 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: cultural beliefs demon fear anthropology
+Search Time: 2025-12-31 12:38:54
+Total Available in API: 177
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 1b77b8a157321d64b634c6d4a396596376eddb2d
+Title: A cultural theory of expertise: styles of thought in attitudes, beliefs, and expectations regarding the COVID-19 pandemic
+Authors: Pablo A. Pellegrini, Nicolás Vilouta Rando
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/1b77b8a157321d64b634c6d4a396596376eddb2d
+PDF URL: https://doi.org/10.1057/s41599-024-03721-y
+
+Abstract:
+This article aims to analyze attitudes towards the pandemic by finding correlations between them that can be used to identify different styles of thought. The research involved two surveys (with 5990 participants) conducted in Argentina during the period of isolation regulations. These surveys assessed people’s attitudes toward the pandemic, their beliefs, fears, and expectations. We can group the people surveyed into three styles of thought, represented by those who believe in a natural origin of the virus, those who believe it leaked by accident from a laboratory, and those who believe it was intentionally released, all three distributed equally among the Argentine population. An important finding of this work is how attitudes are articulated within each style of thought: each group has its own defined position regarding the inquired issues, that is, its own ideological matrix, a different opinion on vaccines, science, and the pandemic. We referred to these three styles of thought in relation to the pandemic as open-to-expertise, nihilist, and self-expertise-only. Articulating perspectives from anthropology and the sociology of knowledge, our analysis proposes a cultural theory of expertise as a model to analyze the different attitudes found in the public sphere regarding the pandemic and other debates. According to the cultural theory of expertise we propose, how people perceive expertise shapes their thoughts and influences their opinions about phenomena in which reliance on others’ knowledge is crucial.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: ede4459b4399ef2ceb4293245e90eb412421ba65
+Title: Exploring Perceptions and Misconceptions of Witchcraft and Wizardry: The Shifting Meanings and Beliefs in Nigeria
+Authors: Adelekun Isaac Abiodun
+Year: 2023
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/ede4459b4399ef2ceb4293245e90eb412421ba65
+PDF URL: https://www.richtmann.org/journal/index.php/mjss/article/download/13616/13179
+
+Abstract:
+Witchcraft and wizardry have long been embedded in Nigerian culture and belief systems, evoking fear, stigma, and misunderstandings. Accusations related to witchcraft have severe consequences, leading to violence, social exclusion, and human rights abuses. These consequences not only perpetuate harm against individuals but also hinder the social progress and development of Nigerian society, highlighting the urgent need for comprehensive efforts to address and rectify the misconceptions surrounding witchcraft and wizardry. This paper explores the multifaceted topic of perceptions and misconceptions of witchcraft and wizardry in Nigeria, adopting an interdisciplinary approach drawing upon anthropology, sociology, history, cultural studies, and religious studies. It delves into the historical origins, cultural significance, and shifting meanings of witchcraft, examining the diverse interpretations across different ethnic groups and regions. The paper also addresses the consequences of witchcraft accusations, including human rights issues and social exclusion. This paper aims to contribute to a greater understanding of witchcraft and wizardry in Nigeria and promote informed interventions, social change, and the protection of human rights by shedding light on these complexities. 
+  
+Received: 31 August 2023 / Accepted: 20 October 2023 / Published: 5 November 2023
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 9e6560c28574ad29a0db54e2ae923e131820cf53
+Title: Socio-Cultural and Religious Narratives and Practices Regarding Lunar Eclipse in Village Communities: A Study of Central Punjab, Pakistan
+Authors: N/A
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/9e6560c28574ad29a0db54e2ae923e131820cf53
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+In the history of humankind, lunar eclipse has always captured attention and imaginationof
+human beings. This study is an anthropological attempt to describe prevailing perceptionsand myths about lunar eclipse and resultant religious and cultural practices in some of therural areas of Central Punjab, Pakistan. For this purpose, qualitative research techniques of
+in-depth interviews and focus group discussions have been used to understand and untanglethe strings of indigenous perpetuations about a celestial phenomenon. The research findingsshowed multiple sets of socio-cultural and religious beliefs and practices which have beenfollowed through generations that demonstrate the richness of culture and mythological
+value of local verbal tales. Perceptions include fear of God, remembering the dayof
+judgment, good or bad luck, and occurrence of disease. Practices include praying, charity, taking certain precautions to avoid the disease, and doing some religious and cultural rituals. Some unique folktales are also narrated by the respondents of the locale which have specificsocio-cultural meanings for them. The paper describes all these perceptions and practices intwo main parts: socio-cultural perceptions and practices and religious perceptions andpractices.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: ac2ec81b4b4197bc8e5cc7308e38379e2de57aec
+Title: An Illustration of Anthropology’s Contribution to Refugee Law Research
+Authors: Katia Bianchini
+Year: 2022
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/ac2ec81b4b4197bc8e5cc7308e38379e2de57aec
+PDF URL: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/96FBC1A88159FB1894B7C1B57E85DD16/S2071832222000670a.pdf/div-class-title-an-illustration-of-anthropology-s-contribution-to-refugee-law-research-div.pdf
+
+Abstract:
+Abstract This article contributes to the debates on the role of anthropology in refugee law research by showing the added value of an interdisciplinary approach to the understanding of complex asylum claims related to cultural and religious beliefs that are unfamiliar to the Western perspective. Based on the analysis of asylum claims in UK courts involving witchcraftbased persecution in the country of origin—both applicants who feared becoming victims of witchcraft practices and those who could be accused of having engaged in witchcraft practices—I demonstrate how anthropology can provide the tools for bridging the gaps between the law in the books and its implementation in practice and solving issues that are beyond the scope of the law. In particular, anthropology can feed into a broader legal conceptualization that accounts for the realities of our diverse societies and helps explain how fear of persecution due to witchcraft can indeed be real and connected with serious human rights violations. Moreover, cultural expertise can assist in assessing asylum claims in their cultural, historical, and political contexts, affording the claimant a fairer and better adjudicated outcome. Nevertheless, the use of anthropology inevitably comes with some challenges related to the different fields’ epistemologies, languages, and styles, as well as a lack of appreciation for interdisciplinarity in some areas of academia.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 1fc279cd1f565d549d33b7831e72101fae8428cc
+Title: Negotiating the Unseen: Pazuzu, Jinn, and the Cultural Afterlives of Demonic Imagery
+Authors: Zuhriddin Juraev, Boburjon Rajavaliev
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/1fc279cd1f565d549d33b7831e72101fae8428cc
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This article examines how hybrid supernatural figures, most notably the Mesopotamian wind demon Pazuzu and the Islamic jinn, persist, transform, and adapt as symbolic technologies for mediating fear, moral ambiguity, and the unseen. It situates these beings within a transhistorical continuum linking ancient cosmologies, ritual practices, and contemporary digital cultures. By tracing their migration across both time and medium, from the tactile materiality of apotropaic amulets to the intangible circulation of algorithmically amplified memes, the study illuminates how their core functions endure even as their forms evolve. A focal case study analyzes the viral moral panic surrounding “Labubu,” a grotesque collectible toy whose exaggerated features and unsettling aesthetic have provoked online discourses describing it as “demonic.” This episode demonstrates how grotesque imagery is recontextualized in the digital age as a means of managing diffuse cultural anxieties, functioning much like ancient protective icons that evoke fear to ward off greater perceived threats. Drawing on religious texts, material archaeology, and media theory, the article argues that such figures are not inert relics of superstition but active cultural agents in humanity’s ongoing negotiation of disorder, belief, and imagination. By placing Pazuzu, the jinn, and Labubu within a shared analytical frame, it reveals how societies continually reinvent the visual and symbolic language of the supernatural to confront crisis, whether in the streets of ancient Nineveh or across the feeds of twenty-first-century social media.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: c419e5297e45742f96f23b916b52e0e7f2e9da6b
+Title: Expanding the Scope of “Supernatural” Dreaming in the Light of the Cognitive and Evolutionary Study of Religion and Cultural Transmission
+Authors: Andreas Nordin
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/c419e5297e45742f96f23b916b52e0e7f2e9da6b
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+A conundrum in the cognitive, evolutionary, and anthropological study of religion is how to propose descriptions and explanatory models of the structure and functions of supernatural dreaming and its relationship to action imagery, the use of experience, and, importantly, cultural transmission (factors) associated with these representations. Research has long emphasized the important function and significance of dreams and dreaming in beliefs and practices related to religious phenomena. The literature of anthropology and religious studies shows that dreams, dream experiences, and narratives are often associated with religious ideas and practices, both in traditional societies and in the world religions. Indeed, at the very beginning of the anthropological study of human beings, scholars proposed that dreaming is a primary source of religious beliefs and practices. Another facet of this is the recurrent manifestations of divinities, spirits, ancestors, and demons—in short, imagery of various supernatural agents—together with the occasional ritualization of dreams in the waking state. However, we know less about the associated phenomenon of dreams about ritual imagery. The aim of this paper is to elucidate and map dream imagery about rituals, drawing on simulation theories from dream research and prominent models of ritual behavior in the cognitive and evolutionary science of religion (CESR). This theoretical and methodological endeavor is illustrated by examples from dream narratives collected in Nepal before and after the COVID-19 pandemic.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: a99fbd4a5afc09b70a984d846ba4de9c99482bdd
+Title: Romania: The Fear of Shame as a Deterrent for Deviant Behavior in the Kalderash Community
+Authors: Ciprian Sandu
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/a99fbd4a5afc09b70a984d846ba4de9c99482bdd
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Roma people, regardless of clan or desire for acceptance, may be perceived as exotic by the majority, eliciting varied responses. This study contributes to understanding conflict management in Kalderash Roma communities. Using legal anthropology principles, the researcher gathered qualitative data to elucidate how Kalderash Roma conceptualize and implement conflict management strategies. Findings indicate they adhere to a stringent moral code centered on shame. Through interviews and observation, it was determined that Kalderash Roma use shaming as an effective conflict management measure, believing deviant behavior engenders shame and misfortune for the transgressor. This study examines the unique conflict management practices within Kalderash Roma communities, emphasizing shame’s pivotal role in their moral framework. The research investigates how shame functions as a deterrent against deviant behavior and a mechanism for maintaining social order and resolving disputes. The findings suggest that the Kalderash Roma’s approach to conflict management is intertwined with their cultural beliefs and values, particularly the notion that wrongdoing incurs shame and misfortune upon the perpetrator. This interconnection between moral transgression and negative consequences provides a strong incentive for community members to adhere to social norms and resolve conflicts amicably.
+Keywords:
+Kalderash Roma, Romanipen, Kris, shame, conflict resolution, conflict management.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 3254bd79ce8ffa826b78c80c34582986e1e6ca3b
+Title: From Fear to Framework: Tracing the Social Construction of Magic, Religion, and Science
+Authors: Ahsan Fazal, Maryam Siddiq
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/3254bd79ce8ffa826b78c80c34582986e1e6ca3b
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+The current study aimed to explore how the boundaries between magic, religion, and science have changed over time in human history. It explained that these categories are not fixed or universal, however, have been shaped by different cultures, historical events, and power dynamics. Using historical, anthropological, and sociological texts, this study attempted to identify five key themes. These include fear and control, institutional boundary-making, cultural fluidity, knowledge progression, and epistemic exclusion. Furthermore, the study determined that the differences between magic, religion, and science are not fixed or natural instead, they are created by cultures and societies over time. These findings add to the ongoing discussions about how people in different times and places have understood, accepted, or challenged different belief systems. In the end, it argued that all three, magic, religion, and science, are ways that human beings have developed to understand and deal with the mysteries of life.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

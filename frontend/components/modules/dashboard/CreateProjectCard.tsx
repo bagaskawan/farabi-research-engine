@@ -6,9 +6,9 @@ export default function CreateProjectCard() {
   return (
     <Link href="/research" className="h-full">
       <Card
-        className="bg-card rounded-lg border-2 border-dashed border-border hover:border-solid hover:border-primary 
+        className="bg-card rounded-xl border-2 border-dashed border-border hover:border-solid hover:border-primary 
              hover:shadow-lg transition-all duration-300 cursor-pointer 
-             flex flex-col items-center justify-center h-full group"
+             flex flex-col items-center justify-center h-[200px] group"
       >
         <div className="p-6 text-center">
           <Plus

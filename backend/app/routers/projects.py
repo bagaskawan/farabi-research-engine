@@ -46,9 +46,209 @@ class SaveProjectResponse(BaseModel):
     project_id: str
     message: str
 
+import re
+
+def parse_markdown_inline(text: str) -> list:
+    """
+    Parse inline markdown (**bold**, *italic*, `code`) into BlockNote content array.
+    Returns a list of inline content objects with proper styles.
+    """
+    result = []
+    
+    # Pattern matches: **bold**, *italic*, `code`, or plain text
+    pattern = re.compile(r'(\*\*[^*]+\*\*|\*[^*]+\*|`[^`]+`|[^*`]+)')
+    
+    for match in pattern.finditer(text):
+        segment = match.group(0)
+        
+        if segment.startswith('**') and segment.endswith('**'):
+            # Bold text
+            inner_text = segment[2:-2]
+            if inner_text.strip():
+                result.append({
+                    "type": "text",
+                    "text": inner_text,
+                    "styles": {"bold": True}
+                })
+        elif segment.startswith('*') and segment.endswith('*') and not segment.startswith('**'):
+            # Italic text
+            inner_text = segment[1:-1]
+            if inner_text.strip():
+                result.append({
+                    "type": "text",
+                    "text": inner_text,
+                    "styles": {"italic": True}
+                })
+        elif segment.startswith('`') and segment.endswith('`'):
+            # Code text
+            inner_text = segment[1:-1]
+            if inner_text.strip():
+                result.append({
+                    "type": "text",
+                    "text": inner_text,
+                    "styles": {"code": True}
+                })
+        else:
+            # Plain text
+            if segment:
+                result.append({
+                    "type": "text",
+                    "text": segment,
+                    "styles": {}
+                })
+    
+    # If no content parsed, return the original as plain text
+    if not result and text:
+        result.append({"type": "text", "text": text, "styles": {}})
+    
+    return result
+
+
+def parse_text_block(text: str) -> list:
+    """
+    Parse a block of text that may contain markdown headers, tables, or regular paragraphs.
+    Returns a list of BlockNote blocks.
+    """
+    blocks = []
+    lines = text.split('\n')
+    current_paragraph = []
+    table_lines = []
+    in_table = False
+    
+    def flush_paragraph():
+        nonlocal current_paragraph
+        if current_paragraph:
+            para_text = ' '.join(current_paragraph).strip()
+            if para_text:
+                blocks.append({
+                    "type": "paragraph",
+                    "content": parse_markdown_inline(para_text)
+                })
+            current_paragraph = []
+    
+    def flush_table():
+        nonlocal table_lines, in_table
+        if table_lines:
+            table_block = parse_markdown_table(table_lines)
+            if table_block:
+                blocks.append(table_block)
+            table_lines = []
+        in_table = False
+    
+    for line in lines:
+        stripped = line.strip()
+        
+        # Check if this is a table line (starts with |)
+        is_table_line = stripped.startswith('|') and stripped.endswith('|')
+        # Also check for separator line like |---|---|
+        is_separator_line = bool(re.match(r'^\|[-:\|\s]+\|$', stripped))
+        
+        if is_table_line or is_separator_line:
+            # Flush paragraph before starting table
+            flush_paragraph()
+            in_table = True
+            table_lines.append(stripped)
+            continue
+        
+        # If we were in a table and now we're not, flush the table
+        if in_table and not is_table_line:
+            flush_table()
+        
+        # Check for markdown headers
+        header_match = re.match(r'^(#{1,6})\s+(.+)$', stripped)
+        
+        if header_match:
+            # Flush current paragraph first
+            flush_paragraph()
+            
+            # Create header block
+            level = min(len(header_match.group(1)), 3)  # BlockNote supports levels 1-3
+            header_text = header_match.group(2).strip()
+            blocks.append({
+                "type": "heading",
+                "props": {"level": level},
+                "content": parse_markdown_inline(header_text)
+            })
+        elif stripped:
+            # Regular text, accumulate for paragraph
+            current_paragraph.append(stripped)
+        else:
+            # Empty line - flush paragraph
+            flush_paragraph()
+    
+    # Flush remaining content
+    flush_table()
+    flush_paragraph()
+    
+    return blocks
+
+
+def parse_markdown_table(lines: list) -> dict:
+    """
+    Parse markdown table lines into a BlockNote table block.
+    
+    Example input:
+    ['| Header1 | Header2 |', '|---------|---------|', '| Cell1 | Cell2 |']
+    
+    Returns a BlockNote table block structure.
+    """
+    if not lines or len(lines) < 2:
+        return None
+    
+    # Parse rows
+    rows = []
+    for i, line in enumerate(lines):
+        # Skip separator lines (|---|---|)
+        if re.match(r'^\|[-:\|\s]+\|$', line):
+            continue
+        
+        # Parse cells
+        cells = [cell.strip() for cell in line.split('|')]
+        # Remove empty strings from start/end (from leading/trailing |)
+        cells = [c for c in cells if c]
+        
+        if cells:
+            rows.append(cells)
+    
+    if not rows:
+        return None
+    
+    # Determine column count
+    num_cols = max(len(row) for row in rows)
+    
+    # Build BlockNote table structure
+    table_content = {
+        "type": "table",
+        "content": {
+            "type": "tableContent",
+            "rows": []
+        }
+    }
+    
+    for row_idx, row in enumerate(rows):
+        row_cells = []
+        for col_idx in range(num_cols):
+            cell_text = row[col_idx] if col_idx < len(row) else ""
+            row_cells.append({
+                "type": "tableCell",
+                "content": [
+                    {
+                        "type": "paragraph",
+                        "content": parse_markdown_inline(cell_text) if cell_text else []
+                    }
+                ]
+            })
+        
+        table_content["content"]["rows"].append({
+            "type": "tableRow",
+            "cells": row_cells
+        })
+    
+    return table_content
+
 
 def generate_canvas_content(title: str, narrative: NarrativeInput, key_insights: List[KeyInsightInput]) -> list:
-    """Generate BlockNote-compatible blocks from narrative content."""
+    """Generate BlockNote-compatible blocks from narrative content with proper markdown parsing."""
     blocks = []
     
     # Title as H1
@@ -66,13 +266,9 @@ def generate_canvas_content(title: str, narrative: NarrativeInput, key_insights:
             "props": {"level": 2},
             "content": [{"type": "text", "text": "The Hook", "styles": {}}]
         })
-        # Split hook into paragraphs for better formatting
-        for para in narrative.hook.split("\n\n"):
-            if para.strip():
-                blocks.append({
-                    "type": "paragraph",
-                    "content": [{"type": "text", "text": para.strip(), "styles": {}}]
-                })
+        # Parse markdown in hook content
+        hook_blocks = parse_text_block(narrative.hook)
+        blocks.extend(hook_blocks)
         blocks.append({"type": "paragraph", "content": []})
     
     # Key Insights section
@@ -85,7 +281,7 @@ def generate_canvas_content(title: str, narrative: NarrativeInput, key_insights:
         for insight in key_insights:
             blocks.append({
                 "type": "numberedListItem",
-                "content": [{"type": "text", "text": insight.insight, "styles": {}}]
+                "content": parse_markdown_inline(insight.insight)
             })
         blocks.append({"type": "paragraph", "content": []})
     
@@ -96,12 +292,8 @@ def generate_canvas_content(title: str, narrative: NarrativeInput, key_insights:
             "props": {"level": 2},
             "content": [{"type": "text", "text": "Introduction", "styles": {}}]
         })
-        for para in narrative.introduction.split("\n\n"):
-            if para.strip():
-                blocks.append({
-                    "type": "paragraph",
-                    "content": [{"type": "text", "text": para.strip(), "styles": {}}]
-                })
+        intro_blocks = parse_text_block(narrative.introduction)
+        blocks.extend(intro_blocks)
         blocks.append({"type": "paragraph", "content": []})
     
     # The Deep Dive section (main content)
@@ -111,13 +303,8 @@ def generate_canvas_content(title: str, narrative: NarrativeInput, key_insights:
             "props": {"level": 2},
             "content": [{"type": "text", "text": "The Deep Dive", "styles": {}}]
         })
-        # Split deep_dive into paragraphs
-        for para in narrative.deep_dive.split("\n\n"):
-            if para.strip():
-                blocks.append({
-                    "type": "paragraph",
-                    "content": [{"type": "text", "text": para.strip(), "styles": {}}]
-                })
+        deep_dive_blocks = parse_text_block(narrative.deep_dive)
+        blocks.extend(deep_dive_blocks)
         blocks.append({"type": "paragraph", "content": []})
     
     # Conclusion section
@@ -127,12 +314,8 @@ def generate_canvas_content(title: str, narrative: NarrativeInput, key_insights:
             "props": {"level": 2},
             "content": [{"type": "text", "text": "Conclusion & Takeaways", "styles": {}}]
         })
-        for para in narrative.conclusion.split("\n\n"):
-            if para.strip():
-                blocks.append({
-                    "type": "paragraph",
-                    "content": [{"type": "text", "text": para.strip(), "styles": {}}]
-                })
+        conclusion_blocks = parse_text_block(narrative.conclusion)
+        blocks.extend(conclusion_blocks)
     
     return blocks
 

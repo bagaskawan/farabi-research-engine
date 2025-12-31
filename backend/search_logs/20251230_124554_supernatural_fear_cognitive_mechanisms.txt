@@ -1,0 +1,187 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: supernatural fear cognitive mechanisms
+Search Time: 2025-12-30 12:45:54
+Total Available in API: 3184
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: c589b36c3f745fdedd7d02c0fea621b4e9c15413
+Title: The Evolution of Horror: A Neo-Lovecraftian Poetics
+Authors: Mathias Clasen
+Year: 2018
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/c589b36c3f745fdedd7d02c0fea621b4e9c15413
+PDF URL: https://link.springer.com/content/pdf/bfm:978-3-319-95477-6/1?pdf=chapter%20toc
+
+Abstract: Not available
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: ae8fa6f5083677712dd05969eea1849f9fc7d50a
+Title: Protocol for a randomized controlled study examining the role of rapid eye movement sleep in fear-related mechanisms: rapid eye movement fragmentation and fear inhibition in adults with insomnia disorders before and after cognitive behavioral therapy for insomnia
+Authors: Vivien Vuong, A. Mellor, V. Risbrough, B. Bei, S. Drummond
+Year: 2023
+Citation Count: 4
+URL: https://www.semanticscholar.org/paper/ae8fa6f5083677712dd05969eea1849f9fc7d50a
+PDF URL: https://academic.oup.com/sleepadvances/advance-article-pdf/doi/10.1093/sleepadvances/zpad030/51032147/zpad030.pdf
+
+Abstract:
+Abstract Insomnia confers a 2.5-to-3-fold risk of developing posttraumatic stress disorder (PTSD) after a traumatic event. The mechanism underlying this increased risk, however, remains unknown. We postulate insomnia may contribute to PTSD by disrupting rapid eye movement (REM) sleep, as REM sleep disruption has been shown to impair fear inhibitory processes, which are central to the natural recovery from trauma. To test this hypothesis, the following protocol aims to: (1) examine the relationship between REM sleep and fear inhibition in insomnia, and (2) examine whether reducing REM fragmentation by treating insomnia, in turn, improves fear inhibition. Ninety-two adults with Insomnia Disorder will be block randomized (1:1; stratified by sex) to an active treatment (7 weekly sessions of Cognitive Behavioral Therapy for Insomnia (CBT-I) via telehealth) or waitlist control condition. REM sleep (latent variable derived from REM %, REM efficiency, and REM latency) and fear inhibition (i.e. safety signal and extinction recall) will be assessed pre- and post-treatment in a 4 night/3 day testing protocol via at-home polysomnography and the fear-potentiated startle paradigm, respectively. Fear extinction recall will serve as the primary outcome, while safety signal recall will serve as the secondary outcome. In summary, this study aims to test an underlying mechanism potentially explaining why insomnia greatly increases PTSD risk, while demonstrating an existing clinical intervention (CBT-I) can be used to improve this mechanism. Findings will have potential clinical implications for novel approaches in the prevention, early intervention, and treatment of PTSD.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 13efdccdbda586731bf8c4bba2707e29ac314fad
+Title: Identifying cognitive-affective mechanisms underlying disability in episodic migraine: Using the fear avoidance model to examine interactions.
+Authors: Janosch Fox, Charly Gaul, Merle Kuhlencord, N. Peperkorn, Julia Ohse, Joshua Krutzki, Youssef Shiban
+Year: 2025
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/13efdccdbda586731bf8c4bba2707e29ac314fad
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+OBJECTIVE
+Using the fear-avoidance model (FAM) as a theoretical framework, this study examined the interactions between empirical factors contributing to disability in episodic migraine. It was tested whether pain catastrophizing, fear of attacks, and depressiveness mediate the relationship between pain experience and disability.
+
+
+BACKGROUND
+Migraine is a prevalent primary headache disorder associated with significant impairment in daily life. Biological and psychosocial factors contribute to its impact; however, a comprehensive model explaining the mechanisms underlying migraine-related disability is still lacking.
+
+
+METHODS
+A cross-sectional online survey was conducted between October 2023 and March 2024 to collect sociodemographic and clinical characteristics of patients with episodic migraine. To evaluate the proposed links within the FAM, two confirmatory path analyses were performed. In Model 1, the Pain Disability Index was used to quantitatively measure subjective aspects of disability. In Model 2, the Migraine Disability Assessment questionnaire was used to assess quantitative aspects of disability. Mediators derived from the FAM included: pain experience (attack frequency and pain intensity), dysfunctional cognitive pain processing (pain catastrophizing), and dysfunctional cognitive-affective response to pain (fear of attacks and depressiveness).
+
+
+RESULTS
+Both path analyses demonstrated good model fit. The explained variance of migraine-related disability was 28% (adjusted R2 = 0.28) in both models, indicating large effect sizes. Attack frequency (standardized path coefficient [β] = 0.21, p < 0.001; β = 0.45, p < 0.001), pain intensity (β = 0.27, p < 0.001; β = 0.16, p < 0.001), fear of attacks (β = 0.12, p = 0.006; β = 0.13, p = 0.004), and depressiveness (β = 0.34, p < 0.001; β = 0.12, p = 0.006), were identified as independent predictors of disability in both models (Model 1; Model 2). Consistent with the hypothesis, an indirect pathway from attack frequency and pain intensity to disability via pain catastrophizing, fear of attacks, and depressiveness was observed in both models.
+
+
+CONCLUSION
+This study emphasizes the important role of (potentially modifiable) dysfunctional cognitive pain processing and provides empirical evidence for the theoretical assumptions of the FAM. Attack frequency, pain intensity, fear of attacks, and depressiveness were found to be independent predictors of subjectively and quantitatively measured disability in episodic migraine. Pain catastrophizing was identified to be a crucial cognitive-affective factor mediating the relationship between pain experience and disability.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: ee39cfd0c30eba69c5ecfb5bd11a5534b8921752
+Title: Mechanisms of change of a cognitive-existential group intervention for fear of cancer recurrence: mediation analyses of the FORT trial
+Authors: S. Lebel, C. Maheu, C. Tomei, Brittany Mutsaers, L. Bernstein, C. Courbasson, S. Ferguson, Cheryl Harris, L. Jolicoeur, Monique Lefebvre, Linda Muraca, A. Ramanakumar, Mina D. Singh, Julia Parrott
+Year: 2022
+Citation Count: 4
+URL: https://www.semanticscholar.org/paper/ee39cfd0c30eba69c5ecfb5bd11a5534b8921752
+PDF URL: https://doi.org/10.1097/or9.0000000000000077
+
+Abstract:
+Abstract Background: Meta-analyses have demonstrated that brief interventions can address fear of cancer recurrence (FCR), but their mechanisms of action are largely unknown. Our goal was to identify the mediators of treatment efficacy of the Fear Of Recurrence Therapy (FORT) intervention using data from a multisite randomized controlled trial targeting FCR. That randomized controlled trial compared a 6-week cognitive-existential group intervention with an active control group. Methods: Participants (n = 135) were women diagnosed with stage I-III breast or gynecological cancer who were assessed at 4 time points (pretherapy, post-therapy, 3-month, and 6-month follow-up). The primary outcome, changes in FCR at 6 months, was measured with the Fear of Cancer Recurrence Inventory. We examined 6 mediators based on our theoretical model of FCR: perceived risk of recurrence, uncertainty in illness, intolerance of uncertainty, positive beliefs about worrying, reassurance-seeking, and cognitive avoidance. Changes in the possible mediator variables were simultaneously investigated to predict changes in FCR using Generalized Structural Equation Models with robust variance estimation. Results: FORT predicted FCR at 6 months in univariate analyses (β  = −8.93, P = .0001). In the model including the 6 possible mediators, changes in uncertainty in illness (β = −8.72, P < .0001) and cognitive avoidance (β = −8.36, P < .0001) mediated the relationship between treatment and changes in FCR. However, FORT still predicted changes in FCR at 6 months (β = −6.35, P = .02), suggesting partial mediation. Conclusions: We identified 2 mechanisms of action that can be incorporated in future interventions. However, other processes that underlie the efficacy of these interventions need to be uncovered.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: e7f792d1a42268782eae9d901fa4a4082b4e70a4
+Title: Cognitive mechanisms of aversive prediction error-induced memory enhancements.
+Authors: Kaja Loock, F. Kalbe, L. Schwabe
+Year: 2025
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/e7f792d1a42268782eae9d901fa4a4082b4e70a4
+PDF URL: https://doi.org/10.1037/xge0001712
+
+Abstract:
+While prediction errors (PEs) have long been recognized as critical in associative learning, emerging evidence indicates their significant role in episodic memory formation. This series of four experiments sought to elucidate the cognitive mechanisms underlying the enhancing effects of PEs related to aversive events on memory for surrounding neutral events. Specifically, we aimed to determine whether these PE effects are specific to predictive stimuli preceding the PE or if PEs create a transient window of enhanced, unselective memory formation. In a combined incidental encoding-fear learning task, participants (n = 355) estimated aversive shock probabilities after trial-unique stimuli. Physiological arousal and explicit PEs were measured during encoding to predict recognition memory tested either immediately after encoding (Experiment 3) or 24 hr later (Experiments 1-4). Our results show that the retroactive memory enhancement induced by PEs may extend back longer than previously assumed, impacting stimuli presented 10 s before the PE. Furthermore, PE-driven memory enhancement extends beyond predictive stimuli preceding the PE event to those encountered afterward. Importantly, our findings reveal that PE-related memory enhancement for stimuli preceding the PE event is specific to predictive stimuli, with uninformative stimuli not benefiting from PEs and even interfering with the PE-driven memory enhancement. This pattern demonstrates that PE effects are not unspecific but that PEs enhance memory for predictive stimuli encountered around a PE event. Notably, memory-enhancing effects of PEs persisted even when controlling for changes in arousal. These findings provide insights into the cognitive mechanisms of PE-induced enhancements of memory, with potential implications for understanding aberrant emotional memory in fear-related disorders. (PsycInfo Database Record (c) 2025 APA, all rights reserved).
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: f52ffc738d836fa6c549a7fe64741f8505685860
+Title: Inclusionary and Exclusionary Preferences: A Test of Three Cognitive Mechanisms
+Authors: Marika Landau-Wells, Kirsten Lydic, Joachim Kennedy, Benjamin G. Mittman, Todd W. Thompson, Akhil Gupta, Rebecca Saxe
+Year: 2025
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/f52ffc738d836fa6c549a7fe64741f8505685860
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 9ecea37781117a7dfc9f02eb0d4bea20581272b8
+Title: Why won’t you leave the process alone? Exploring emotional, motivational and cognitive mechanisms triggering tampering
+Authors: Magdalena Smeds, Jason M. Martin, Mattias Elg, Ida Gremyr
+Year: 2022
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/9ecea37781117a7dfc9f02eb0d4bea20581272b8
+PDF URL: https://www.tandfonline.com/doi/pdf/10.1080/14783363.2022.2112514?needAccess=true
+
+Abstract:
+Quality management focuses on improvements aimed at enhancing the value created for various stakeholders. However, actions taken in response to a perceived problem sometimes lead to an inferior result rather than an improvement. Such actions have been denoted tampering. As an example, natural variation might unnecessarily be perceived as a problem, where the best way to handle that ‘problem’ would be to not act at all. However, for someone trained in quality management and striving for improvement, doing nothing might be more challenging than acting. The research question studied in this paper is: How do emotional, motivational and cognitive mechanisms influence tampering in problem-solving situations? Through interviews with 17 respondents, 33 tampering situations were identified and analysed. The findings describe emotional, motivational and cognitive mechanisms that lead individuals to take actions leading to tampering. Some examples of these mechanisms are fear of the consequences of not acting, feelings of guilt if not acting to resolve a problem, and taking actions based on experiences of past problem-solving. To counteract this, it is advised to set aside time for reflections before starting problem-solving and to establish an environment encouraging of reflections.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 498e8878f127b9420c9b6471e4ce3720a3f7db09
+Title: Social Media and Fear of Missing Out: An Exploration of the
+Role of Mindfulness, Cognitive Biases and Need to Belong in
+Chinese College Students
+Authors: Jing Li, Sijia Liu
+Year: 2023
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/498e8878f127b9420c9b6471e4ce3720a3f7db09
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+
+
+Fear of Missing Out (FoMO) on social media has emerged as
+a significant concern, particularly among college students, with implications for mental
+well-being and internet use. While previous studies have explored various aspects of
+mindfulness about digital behaviors, the specific link between mindfulness and FoMO,
+as well as the potential mechanisms involved, remains underexplored.
+
+
+
+Guided by the Conservation of Resources (COR) theory and the
+Interaction of Person-Affect-Cognition-Execution (I-PACE) model, this study
+investigates the relationship between mindfulness and FoMO among Chinese college
+students. Additionally, it explores the mediating roles of cognitive bias and the need
+to belong in understanding how mindfulness influences FoMO.
+
+
+
+Data was collected from 748 university students from two universities in
+China. Participants completed questionnaires assessing mindfulness, cognitive bias, the
+need to belong, and FoMO. Statistical analyses, including mediation models and
+bootstrapping, were conducted using SPSS 25.0 and the PROCESS macro version 3.3.
+
+
+
+The SPSS PROCESS macro Model 4 analysis revealed that the relationships
+between mindfulness and FoMO (β=-.011, P=.738) and between Attention to Positive
+Information (API) and FoMO (β=.029, P=.383) were nonsignificant. Mindfulness
+exhibited negative associations with Attention to Negative Information (ANI) (β=-
+.250, P<.001) and the need to belong (β=-.254, P<.001) and positive associations
+with API (β=.268, P<.001). Furthermore, ANI positively correlated with FoMO
+(β=.182, P<.001), and the need to belong had a significant positive impact on FoMO
+(β=.503, P<.001). The mediation analysis indicated that the effect of mindfulness on
+FoMO was fully mediated by ANI and the need to belong, with no direct effect
+through API.
+
+
+
+By recognizing mindfulness as a valuable psychological resource, this
+research offers insights for developing targeted interventions aimed at reducing
+FoMO and promoting healthier social media engagement among this population.
+These findings contribute to the broader understanding of the interplay between
+mindfulness, cognitive processes, motivation, and FoMO, offering guidance for
+future research and practical interventions.
+
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

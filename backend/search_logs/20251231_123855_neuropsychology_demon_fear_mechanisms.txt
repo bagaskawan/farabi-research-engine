@@ -1,0 +1,122 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: neuropsychology demon fear mechanisms
+Search Time: 2025-12-31 12:38:55
+Total Available in API: 95
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: b5ddbe2e0593ea735388ab707cf459f76d8262d0
+Title: Neuroanatomy and Neuropsychology of Pain
+Authors: S. Khalid, R. Tubbs
+Year: 2017
+Citation Count: 46
+URL: https://www.semanticscholar.org/paper/b5ddbe2e0593ea735388ab707cf459f76d8262d0
+PDF URL: https://www.cureus.com/articles/9165-neuroanatomy-and-neuropsychology-of-pain.pdf
+
+Abstract:
+We have reviewed here the neuroanatomical and neuropsychological literature of the human brain and have proposed the various pain mechanisms that we currently know of. Essentially when tissue is damaged, peripheral nociceptors are activated continuously and prostanoids are hence produced. Nonsteroidal anti-inflammatory drugs (NSAIDs) and medications aim to target these prostanoids to treat the inflammatory component of pain. Normal pain tends to have a protective response. It is important for the nervous system to learn and recognize this painful stimulus earlier and quicker with repeated exposure to avoid tissue damage. This neuronal plasticity and gain in sensitivity result in sensitization of the nervous system, both centrally and peripherally and help in earlier detection of the pain sensation. However, persistent pain can become pathologic and will eventually result in the loss of protection pain offers to the body. Pain-related fear has been implicated in the transition from acute to chronic low back pain and the persistence of disabling low back pain, making it a key target for physiotherapy intervention. The current understanding of pain-related fear is that it is a psychopathological problem where people who catastrophise about the meaning of pain become trapped in a vicious cycle of avoidance behaviour, pain and disability, as recognised in the fear-avoidance model. We looked at how pain is perceived, especially in low-back pain patients. It has been hypothesized that individuals with low-back pain (LBP) can change their motor behavior, which is fundamentally an adaptation mechanism aimed at minimizing the real or perceived risk of further pain.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 29e8183f2691a76fc8a664c9b07a06267876c24e
+Title: Xenophobia and Hate Speech towards Refugees on Social Media: Reinforcing Causes, Negative Effects, Defense and Response Mechanisms against That Speech
+Authors: Yasmin Aldamen
+Year: 2023
+Citation Count: 31
+URL: https://www.semanticscholar.org/paper/29e8183f2691a76fc8a664c9b07a06267876c24e
+PDF URL: https://www.mdpi.com/2075-4698/13/4/83/pdf?version=1680168364
+
+Abstract:
+This study aims to recognize the possible role of social media in forming xenophobia and hate speech against Syrian refugees and to understand the reinforcing causes and negative effects of that speech on the refugees, as well as the refugees’ response mechanisms against that speech. A mixed approach was used in this study. In addition to a questionnaire tool that was used to collect data, focus group discussions were conducted to support the obtained data. The study used a statistically representative sample of Syrian refugees who live in Turkey and Jordan. The participants see the negative representation of their image via social media as leading to hatred towards them. The findings showed that there are some causes that reinforce xenophobic speech, such as otherization and demonization of refugees, by the negative representation and spreading of fake news on social media, which are published continuously. Moreover, gatekeepers have a role in promoting negative representation by approving xenophobic speech transmission without filtering or ethical control. The results also showed that the negative representation containing hate speech contributes to more negative effects on the refugees, such as psychological effects, as a sense of hatred towards refugees is created in the host country, and the effect of changing the feelings of the public from empathy to compassion fatigue concluding to hatred towards those refugees. Furthermore, the results showed that the Syrian refugees follow different defense mechanisms against xenophobia and hate speech against them published and circulated through social media platforms. The participants were divided into two main categories; the first one is those who prefer replying, not being silent, and defending the refugees, and the second category is those who prefer keeping silent. The first category of refugees stated that they do not accept keeping silent and they prefer to reply using logical, emotional, or defensive and offensive ways to bad comments against Syrian refugees in general. While the second category claimed that either they do not have time to reply or they sometimes agree that it was only a reaction to the behavior of some individual refugees. Some of them explained that they are afraid of being subjected to more bad comments and negative reactions against them. When they encounter aggressive comments and see that such views represent the majority, they prefer to keep silent to avoid being attacked. This is understood within the framework of the spiral of silence theory, where refugees hide their opinions, views, and preferences when they think that they fall within a minority group. They fear social isolation through social media.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: b208e66142b5c30b555b28c874371bb364653a0d
+Title: Mechanisms of comorbidity, continuity, and discontinuity in anxiety-related disorders
+Authors: N. McNaughton, P. Corr
+Year: 2016
+Citation Count: 41
+URL: https://www.semanticscholar.org/paper/b208e66142b5c30b555b28c874371bb364653a0d
+PDF URL: https://openaccess.city.ac.uk/id/eprint/15849/3/Development%20and%20Psychopathology%20CITY.pdf
+
+Abstract: Not available
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: fc9940cea405b22a91ef437f0d082f50a88d139d
+Title: Prefrontal mechanisms of behavioral flexibility, emotion regulation and value updating
+Authors: P. Rudebeck, R. Saunders, Anna T. Prescott, L. Chau, E. Murray
+Year: 2013
+Citation Count: 343
+URL: https://www.semanticscholar.org/paper/fc9940cea405b22a91ef437f0d082f50a88d139d
+PDF URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3733248
+
+Abstract:
+Two ideas have dominated neuropsychology concerning the orbitofrontal cortex (OFC). One holds that OFC regulates emotion and enhances behavioral flexibility through inhibitory control. The other ascribes to OFC a role in updating valuations on the basis of current motivational states. Neuroimaging, neurophysiological and clinical observations are consistent with either or both hypotheses. Although these hypotheses are compatible in principle, we present results supporting the latter view of OFC function and arguing against the former. We found that excitotoxic, fiber-sparing lesions confined to OFC in monkeys did not alter either behavioral flexibility, as measured by object reversal learning, or emotion regulation, as assessed by fear of snakes. A follow-up experiment indicated that a previously reported loss of inhibitory control resulted from damage to nearby fiber tracts and not from OFC dysfunction. Thus, OFC has a more specialized role in reward-guided behavior and emotion than has been thought, a function that includes value updating.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 5db49748f9fed4ea4b536a2ee9182037da523c23
+Title: Left Amygdala Functional Connectivity Decreased after Fear of Negative Events was Disregarded in Obsessive-Compulsive Disorder
+Authors: Xian-Zhang Hu
+Year: 2022
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/5db49748f9fed4ea4b536a2ee9182037da523c23
+PDF URL: https://journals.sagepub.com/doi/pdf/10.1177/26331055221114823
+
+Abstract:
+Obsessive-compulsive disorder (OCD) is a chronic and debilitating mental disorder that affects patients throughout their lives, leading to a diminished quality of life for patients and families, reduced productivity, and higher health care costs. It is of clinical and theoretical importance to investigate a more efficacious therapeutic approach for OCD and the neurophysiological mechanism underlying the efficacy of treatment, potentially associated with the etiology of OCD. Recently, a novel psychotherapy designated cognitive-coping therapy (CCT) has been reported to have a large effect size in OCD treatment. CCT hypothesizes that fear of negative events plays a crucial role in OCD. The study entitled “Decreased left amygdala functional connectivity by cognitive-coping therapy in obsessive-compulsive disorder” attempted to investigate the potential neurophysiological mechanism underlying the efficacy of CCT for OCD. The study provides crystal evidence showing that 4-week pharmacotherapy plus CCT decreases the left amygdala seed-based functional connectivity (LA-FC) with the right anterior cingulate gyrus and the left paracentral lobule/the left superior parietal/left inferior parietal, and 4-week CCT decreases the LA-FC with the left middle occipital gyrus/the left superior parietal. The alteration of the LA-FC with the right anterior cingulate gyrus positively correlates to the reduction of the Yale-Brown obsessive-compulsive scale (Y-BOCS) score. Therefore, it provides new insights into understanding the neurophysiology and neuropsychology behind the onset and treatment of OCD.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: ca7ed96a09ee5129622fe403ed92ec701f44dec1
+Title: The Neuropsychology of the Unconscious: Integrating Brain and Mind Into Psychotherapy. Efrat Ginot, PhD (2015) New York
+Authors: R. Hernandez-Cardenache, A. Raffo
+Year: 2016
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/ca7ed96a09ee5129622fe403ed92ec701f44dec1
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 239da2f40faaeab0dcd4b48458cd2fd6d776078e
+Title: Handbook of emotion regulation
+Authors: J. Gross
+Year: 2007
+Citation Count: 1247
+URL: https://www.semanticscholar.org/paper/239da2f40faaeab0dcd4b48458cd2fd6d776078e
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 34dd7677598379facc61bb47cf4e28abbf8b58ed
+Title: Dangerous liaisons, fatal women: The fear and fantasy of soccer wives and girlfriends in Spain
+Authors: M. Vaczi
+Year: 2016
+Citation Count: 17
+URL: https://www.semanticscholar.org/paper/34dd7677598379facc61bb47cf4e28abbf8b58ed
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================
