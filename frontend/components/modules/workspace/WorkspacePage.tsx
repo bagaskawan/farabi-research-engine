@@ -157,7 +157,6 @@ export default function WorkspacePage({
               isSaving={isSaving}
               projectId={projectId}
               projectTitle={project?.title || "Untitled"}
-              canvasBlocks={content?.canvas_content || []}
             />
           </div>
         </div>

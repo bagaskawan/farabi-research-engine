@@ -27,29 +27,16 @@ import {
 import { createClient } from "@/lib/supabase/client";
 import PdfPreviewDialog from "@/components/modules/workspace/exportPDF/PdfPreviewDialog";
 
-interface Block {
-  type: string;
-  props?: { level?: number };
-  content?: Array<{
-    type: string;
-    text?: string;
-    styles?: Record<string, boolean>;
-  }>;
-  children?: Block[];
-}
-
 interface WorkspaceHeaderProps {
   isSaving?: boolean;
   projectId: string;
   projectTitle: string;
-  canvasBlocks?: Block[];
 }
 
 export default function WorkspaceHeader({
   isSaving,
   projectId,
   projectTitle,
-  canvasBlocks = [],
 }: WorkspaceHeaderProps) {
   const router = useRouter();
   const supabase = createClient();
@@ -198,8 +185,8 @@ export default function WorkspaceHeader({
       <PdfPreviewDialog
         isOpen={isPdfPreviewOpen}
         onClose={() => setIsPdfPreviewOpen(false)}
+        projectId={projectId}
         title={projectTitle}
-        blocks={canvasBlocks}
       />
     </>
   );
