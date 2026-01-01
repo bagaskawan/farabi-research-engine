@@ -9,10 +9,18 @@ app = FastAPI(
     version="1.0.0"
 )
 
-# Configure CORS
+# Domains statis (localhost, domain Railway)
+origins = [
+   "http://localhost:3000",
+   "https://farabi-research-engine-production.up.railway.app"
+]
+
+VERCEL_REGEX = r"https://.*\.vercel\.app$"
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[FRONTEND_URL, "http://localhost:3000", "http://127.0.0.1:3000"],
+    allow_origins=origins,   
+    allow_origin_regex=VERCEL_REGEX,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
