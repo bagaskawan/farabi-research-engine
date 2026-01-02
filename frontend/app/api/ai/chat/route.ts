@@ -1,47 +1,39 @@
-import { NextRequest, NextResponse } from "next/server";
-import { groq, INTERVIEWER_SYSTEM_PROMPT } from "@/lib/ai/groq";
+import { createGroq } from "@ai-sdk/groq";
+import { convertToModelMessages, streamText } from "ai";
+import {
+  aiDocumentFormats,
+  injectDocumentStateMessages,
+  toolDefinitionsToToolSet,
+} from "@blocknote/xl-ai/server";
 
-export async function POST(request: NextRequest) {
+// Allow streaming responses up to 30 seconds
+export const maxDuration = 30;
+const LLM_MODEL = "openai/gpt-oss-120b";
+
+// Create Groq client with API key from environment
+const groq = createGroq({
+  apiKey: process.env.NEXT_PUBLIC_GROQ_API_KEY || process.env.GROQ_API_KEY,
+});
+
+export async function POST(req: Request) {
   try {
-    const { messages } = await request.json();
+    const { messages, toolDefinitions } = await req.json();
 
-    if (!messages || !Array.isArray(messages)) {
-      return NextResponse.json(
-        { error: "Messages array is required" },
-        { status: 400 }
-      );
-    }
-
-    // Build messages array with system prompt
-    const chatMessages = [
-      { role: "system" as const, content: INTERVIEWER_SYSTEM_PROMPT },
-      ...messages.map((msg: { role: string; content: string }) => ({
-        role: msg.role as "user" | "assistant",
-        content: msg.content,
-      })),
-    ];
-
-    // Call Groq API
-    const completion = await groq.chat.completions.create({
-      model: "llama-3.3-70b-versatile",
-      messages: chatMessages,
-      temperature: 0.7,
-      max_tokens: 1024,
+    // Use Groq's Llama model for the AI operations
+    const result = streamText({
+      model: groq(LLM_MODEL),
+      system: aiDocumentFormats.html.systemPrompt,
+      messages: convertToModelMessages(injectDocumentStateMessages(messages)),
+      tools: toolDefinitionsToToolSet(toolDefinitions),
+      toolChoice: "required",
     });
 
-    const responseContent = completion.choices[0]?.message?.content || "";
-
-    return NextResponse.json({
-      content: responseContent,
-      role: "assistant",
-    });
+    return result.toUIMessageStreamResponse();
   } catch (error) {
-    console.error("Error in AI chat:", error);
-    const errorMessage =
-      error instanceof Error ? error.message : "Unknown error";
-    return NextResponse.json(
-      { error: "Failed to generate AI response", details: errorMessage },
-      { status: 500 }
+    console.error("[BlockNote AI] Error:", error);
+    return new Response(
+      JSON.stringify({ error: "Failed to process AI request" }),
+      { status: 500, headers: { "Content-Type": "application/json" } }
     );
   }
 }

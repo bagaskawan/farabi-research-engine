@@ -6,6 +6,7 @@ import { useUser } from "@/hooks/use-user";
 import { SendIcon } from "@/components/ui/icons";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { api } from "@/lib/api-client";
 
 // CSS for animations
 const animationStyles = `
@@ -180,8 +181,7 @@ interface ResearchStepProps {
   onBack: () => void;
 }
 
-// Backend API URL
-const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+// API client is now imported from @/lib/api-client
 
 export default function ResearchStep({
   searchQuery,
@@ -380,18 +380,10 @@ export default function ResearchStep({
       try {
         const conversation = buildConversation(currentMessages);
 
-        const response = await fetch(`${API_URL}/interview/continue`, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ conversation }),
-        });
-
-        if (!response.ok) {
-          const errorData = await response.json();
-          throw new Error(errorData.detail || "Failed to get AI response");
-        }
-
-        const data: AIResponse = await response.json();
+        const data: AIResponse = await api.continueInterview(
+          searchQuery,
+          conversation
+        );
 
         // Add AI response to messages
         setMessages((prev) => [
@@ -544,34 +536,24 @@ export default function ResearchStep({
     setIsSaving(true);
 
     try {
-      const response = await fetch(`${API_URL}/projects/save-project`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          user_id: user.id,
-          title: searchQuery,
-          query_topic: finalKeywords || searchQuery,
-          key_insights: contentBlueprint.key_insights,
-          narrative: contentBlueprint.narrative,
-          papers: papers.map((p) => ({
-            paperId: p.paperId,
-            title: p.title,
-            abstract: p.abstract,
-            authors: p.authors.map((a) => a.name),
-            year: p.year,
-            citationCount: p.citationCount,
-            url: p.url,
-            isOpenAccess: false,
-          })),
-        }),
+      const data = await api.saveProject({
+        user_id: user.id,
+        title: searchQuery,
+        query_topic: finalKeywords || searchQuery,
+        key_insights: contentBlueprint.key_insights,
+        narrative: contentBlueprint.narrative,
+        papers: papers.map((p) => ({
+          paperId: p.paperId,
+          title: p.title,
+          abstract: p.abstract,
+          authors: p.authors.map((a) => a.name),
+          year: p.year,
+          citationCount: p.citationCount,
+          url: p.url,
+          isOpenAccess: false,
+        })),
       });
 
-      if (!response.ok) {
-        const errorData = await response.json().catch(() => ({}));
-        throw new Error(errorData.detail || "Failed to save project");
-      }
-
-      const data = await response.json();
       router.push(`/workspace/${data.project_id}`);
     } catch (error: any) {
       console.error("Error saving to workspace:", error.message || error);
@@ -626,17 +608,10 @@ export default function ResearchStep({
       let startTime = Date.now();
       updateStepStatus(1, "in-progress");
 
-      const decomposeRes = await fetch(`${API_URL}/research/decompose`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          topic: searchQuery,
-          keywords: finalKeywords,
-        }),
-      });
-
-      if (!decomposeRes.ok) throw new Error("Decomposition failed");
-      const decomposeData = await decomposeRes.json();
+      const decomposeData = await api.decomposeTopic(
+        searchQuery,
+        finalKeywords
+      );
       const queries: string[] = decomposeData.sub_queries || [finalKeywords];
 
       setSubQueries(queries);
@@ -648,17 +623,7 @@ export default function ResearchStep({
       startTime = Date.now();
       updateStepStatus(2, "in-progress");
 
-      const searchRes = await fetch(`${API_URL}/research/multi-search`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          sub_queries: queries,
-          limit_per_query: 8,
-        }),
-      });
-
-      if (!searchRes.ok) throw new Error("Search failed");
-      const searchData = await searchRes.json();
+      const searchData = await api.multiSearch(queries, 8);
 
       // Convert papers to expected format
       const fetchedPapers: Paper[] = searchData.papers.map((p: any) => ({
@@ -686,14 +651,7 @@ export default function ResearchStep({
 
         try {
           // Start the fetch API call (runs in background)
-          const fetchPromise = fetch(`${API_URL}/research/fetch-content`, {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({
-              papers: searchData.papers,
-              max_papers: 8,
-            }),
-          });
+          const fetchPromise = api.fetchContent(searchData.papers, 8);
 
           // Show paper titles being "read" as ticker animation
           const papersToRead = searchData.papers.slice(0, 8);
@@ -707,9 +665,7 @@ export default function ResearchStep({
           setCurrentReadingPaper(""); // Clear ticker
 
           // Wait for API to complete
-          const fetchRes = await fetchPromise;
-          if (!fetchRes.ok) throw new Error("Content fetch failed");
-          const fetchData = await fetchRes.json();
+          const fetchData = await fetchPromise;
 
           papersWithContent = fetchData.papers_with_content;
           fullTextCount = fetchData.full_text_count;
@@ -776,17 +732,10 @@ export default function ResearchStep({
           url: p.url,
         }));
 
-      const analyzeRes = await fetch(`${API_URL}/research/analyze`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          papers: papersForAnalysis,
-          topic: searchQuery,
-        }),
-      });
-
-      if (!analyzeRes.ok) throw new Error("Analysis failed");
-      const analyzeData = await analyzeRes.json();
+      const analyzeData = await api.analyzePapers(
+        papersForAnalysis,
+        searchQuery
+      );
       const insights: KeyInsight[] = analyzeData.insights;
 
       completeStep(4, startTime, [`${insights.length} insights extracted`]);
@@ -797,18 +746,11 @@ export default function ResearchStep({
       startTime = Date.now();
       updateStepStatus(5, "in-progress");
 
-      const reportRes = await fetch(`${API_URL}/research/generate-report`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          topic: searchQuery,
-          papers_with_content: papersWithContent.slice(0, 10),
-          insights: insights,
-        }),
-      });
-
-      if (!reportRes.ok) throw new Error("Report generation failed");
-      const reportData = await reportRes.json();
+      const reportData = await api.generateResearchReport(
+        searchQuery,
+        papersWithContent.slice(0, 10),
+        insights
+      );
 
       setResearchReport(reportData.research_report);
       completeStep(5, startTime, [`${reportData.word_count} words`]);
@@ -827,18 +769,11 @@ export default function ResearchStep({
         url: p.url,
       }));
 
-      const scriptRes = await fetch(`${API_URL}/research/generate-script`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          insights: insights,
-          papers: papersForAnalysis,
-          topic: searchQuery,
-        }),
-      });
-
-      if (!scriptRes.ok) throw new Error("Script generation failed");
-      const scriptData = await scriptRes.json();
+      const scriptData = await api.generateScript(
+        insights,
+        papersForAnalysis,
+        searchQuery
+      );
 
       // Build complete blueprint
       const blueprint: ContentBlueprint = {

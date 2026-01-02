@@ -1,0 +1,123 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: indonesia precolonial political fragmentation
+Search Time: 2026-01-02 11:19:04
+Total Available in API: 340
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: b4f2f4d26e4c7925866ab4b8a26f6eac124c29bb
+Title: Local elections, political fragmentation, and service delivery in Indonesia
+Authors: B. Lewis
+Year: 2016
+Citation Count: 6
+URL: https://www.semanticscholar.org/paper/b4f2f4d26e4c7925866ab4b8a26f6eac124c29bb
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 7b3dd3f4483f23cf2ebc1207a6192dbccdf41352
+Title: Local political fragmentation: Fiscal and service delivery effects in Indonesia
+Authors: B. Lewis
+Year: 2016
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/7b3dd3f4483f23cf2ebc1207a6192dbccdf41352
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: e1ad1a22ec2cc3b223e8dde7a88e1cf60642f794
+Title: Electoral competition, district party fragmentation and environmental policy outcome: Empirical evidence from Indonesia
+Authors: Dini Tiara Sasmi, Jongho Park
+Year: 2023
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/e1ad1a22ec2cc3b223e8dde7a88e1cf60642f794
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This paper explores how party fragmentation and electoral competition relate to the outcome of environmental policy. It is assumed that when elections happen the electoral punishment and incentives will be distributed. Specifically, when there are high number of effective number parties (ENP) in the legislature, it brings competition to the incumbent to provide more public goods. Hence, the electoral competition and party fragmentation will bring more provision of public goods. Using these assumptions, the electoral competition theory provides basic pieces of information to predict the effect of electoral competition on environmental policy outcome; a high ENP will provide a better outcome of environmental policy. Taking Indonesia as our case selection, we discovered a positive association between the number of effective parties and energy efficiency, such as LED, and a negative correlation between the usage of wood for domestic fuel. This means that political competition such as electoral competition promotes better outcome for environmental policy.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: bb894aa208984f67a08ef166e28513b717df588a
+Title: Islam and Prosper Indonesia: Contestation and Fragmentation of Contemporary Islamic Thought
+Authors: Yusdani
+Year: 2023
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/bb894aa208984f67a08ef166e28513b717df588a
+PDF URL: https://journal.uii.ac.id/Millah/article/download/26423/14963
+
+Abstract:
+The following article examines Islamic thought and changes in state structure in Indonesia since the reform era from 1998 to the present. The fundamental change of state order in Indonesia is marked by the amendment of the 1945 Constitution and the wide space open for the people to participate in the life of the country. In this situation, progressive Islam, mainstream Islam, and political Islamist thought emerged. The main problem in this article is how Islamic thought is transformed by three variants of Indonesian Muslims in changing state order in the reformation era of Indonesia. The basic theoretical framework that is used to explain Islamic thought and changes of state order above, in addition to using the people's approach as full citizens before the state, also uses a socio-historical approach, political economy. Then the analysis used in this article is political philosophy. The main sources used are the official publications and decisions of each figure and organization related to changes in state order during the reformation era in Indonesia from 1998 to the present. The results of the study can be concluded that three variants of Islamic thought in Indonesia that are very prominent in responding to and directing the changes in state order in Indonesia become a just and welfare state.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 1cdc40dc2a15683aa9f276c56c10f2143f6c6de9
+Title: Identity Politics and Social Fragmentation: A Comparative Study of Indonesia's 2024 Presidential Candidate Campaign Narratives
+Authors: Muhamad Zaenal Asikin
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/1cdc40dc2a15683aa9f276c56c10f2143f6c6de9
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+The 2024 Indonesian presidential election takes place in an increasingly complex socio-political atmosphere, characterized by the strengthening of identity politics and social fragmentation in the public sphere. Campaign narratives of presidential candidates play a strategic role in shaping public perceptions, building a support base, while paradoxically deepening the polarization of society. This phenomenon raises questions about how identity narratives are constructed and distributed in contemporary political campaigns. This study aims to compare the campaign narratives of three pairs of presidential and vice presidential candidates in the 2024 presidential election, focusing on identity issues (religion, ethnicity, social class) and their impact on social fragmentation. This research uses a qualitative approach with Fairclough's critical discourse analysis (AWK) model, as well as triangulation with social media data, official speeches, and campaign team statements. The results showed that the three candidate pairs used different narrative strategies in framing national identity, but simultaneously strengthened social segmentation based on political affiliation, religious symbols, and constructions of morality. Inclusive narratives were often overshadowed by populist rhetoric and "us vs them" imagery that reinforced group identification and weakened social cohesion. This research highlights the need for political literacy and regulation of campaign ethics to prevent continued political exclusivism.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 92d5096b1b9d54ecb99ba1c7e6a919754db7efcf
+Title: Policy implementation and strategic effects: Assessing the impact of parliamentary thresholds on Indonesia’s political system and governance
+Authors: I. M. Sumada, Azhari Aziz Samudra, Yudistira Adnyana, Bambang Irawan
+Year: 2024
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/92d5096b1b9d54ecb99ba1c7e6a919754db7efcf
+PDF URL: https://doi.org/10.24294/jipd.v8i10.8548
+
+Abstract:
+This study examines the impact of parliamentary thresholds on the Indonesian political system through the lens of the Routine Policy Implementation Model and the Strategic Policy Implementation Model. The main objective is to evaluate the effectiveness of parliamentary thresholds in managing political fragmentation, assess their impact on stability and representation in the legislative system, and understand their implementation’s technical and strategic implications. Using a qualitative approach supported by interview studies and field observations, this research combines analysis of election data in the 2009, 2014, and 2019 elections with a qualitative assessment of policy changes and political dynamics. The Routine Policy Implementation Model focuses on the technical aspects of threshold implementation, including vote counting procedures and seat allocation efficiency. Meanwhile, the Strategic Policy Implementation Model examines the broader implications of these thresholds for political consolidation, government effectiveness, and the representation of minor parties. The results show that the parliamentary threshold has significantly reduced political fragmentation by consolidating the number of parties in Parliament, resulting in a legislative system that is cleaner and easier to administer. However, this consolidation has also marginalized small parties and limited political diversity. The novelty of this study lies in its comprehensive analysis of how parliamentary thresholds affect administrative efficiency and strategic political stability in Indonesia, compared to democratic countries in transition, such as Slovenia and Montenegro. In conclusion, although parliamentary thresholds have increased political stability and government effectiveness, they have also raised concerns about the reduced representation of small and regional parties. The study recommends maintaining balanced thresholds that ensure stability and diversity, implementing mechanisms to review thresholds periodically, and involving diverse stakeholders in adjusting policies to reflect evolving political dynamics. This approach will help balance the need for a stable legislative environment with broad representation.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 8b017aef4cedb1959658f8870051ac14b4fff34a
+Title: An evaluation of Indonesia's open proportional electoral system and its impact on party fragmentation in the 2024 general election
+Authors: Bella Argoebie, Cindy, Muhammad Raffata Umar, Lia Wulandari
+Year: 2025
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/8b017aef4cedb1959658f8870051ac14b4fff34a
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This study looks at how the open-list proportional voting system in Indonesia affects political division and democratic representation in the 2024 elections. The research will find out if this system increases diversity in party beliefs or just creates more parties without really improving representation. Using a qualitative case study method, the research reviews secondary data from election results, party beliefs, and existing research to evaluate how the system affects political stability and leadership. The findings show that while the open-list system has improved political involvement by allowing voters to choose candidates directly, it has not significantly increased ideological representation.Mst parties are focused on a nationalist-Islamic direction, with some exceptions like the the Labor Party and PSI. Even though many parties are emerging, the division is mostly surface-level because major parties, like the Koalisis Indonesia Maju Plus, tend to centralize power instead of creating healthy competition. The system also worsens problems like high campaign cost, poor candidate management by parties, and money-driven politics, reducing its democratic value. The study concludes that the open-list system increases voter independence but needs changes to address its weaknesses. Suggested improvements include adopting a mixed voting system, developing party members better, improving voter education, and implementing stricter rules on campaign financing. These actions would help balance democratic representation with political stability and match the system with Indonesia’s constitutional principle of popular sovereignty.The research contributes to discussions on electoral reform and offers policy suggestions to strengthen Indonesia's democratic governance. 
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 229b16e5afae6fb8bc1a91f03c2620cb42f28c2f
+Title: Political Fragmentation, Labour Mobility, and Voter Turnout Decline in Border Areas (Batam Island) in Indonesia
+Authors: N/A
+Year: None
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/229b16e5afae6fb8bc1a91f03c2620cb42f28c2f
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

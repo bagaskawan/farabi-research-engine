@@ -6,6 +6,16 @@ import { BlockNoteView } from "@blocknote/mantine";
 import { useBlocknoteTheme } from "@/hooks/use-blocknote";
 import { useAutoSave } from "@/hooks/use-autosave";
 import "@blocknote/mantine/style.css";
+import { AIExtension, AIMenuController } from "@blocknote/xl-ai";
+import { DefaultChatTransport } from "ai";
+import { en } from "@blocknote/core/locales";
+import { en as aiEn } from "@blocknote/xl-ai/locales";
+import "@blocknote/xl-ai/style.css";
+import {
+  CustomAIMenu,
+  FormattingToolbarWithAI,
+  SlashMenuWithAI,
+} from "@/components/modules/workspace/EditorComponents";
 
 interface WorkspaceCanvasProps {
   canvasContent?: any; // Bisa berupa Array (Blocks) atau Object (AI Markdown)
@@ -26,8 +36,21 @@ export default function WorkspaceCanvas({
   const [isMounted, setIsMounted] = useState(false);
   const [hasLoadedInitialData, setHasLoadedInitialData] = useState(false);
 
-  // 1. Inisialisasi Editor (Biarkan kosong di awal)
-  const editor = useCreateBlockNote();
+  // 1. Inisialisasi Editor dengan AI Extension
+  const editor = useCreateBlockNote({
+    dictionary: {
+      ...en,
+      ai: aiEn,
+    },
+    extensions: [
+      AIExtension({
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        transport: new DefaultChatTransport({
+          api: "/api/ai/chat",
+        }) as any,
+      }),
+    ],
+  });
   const theme = useBlocknoteTheme();
 
   // 2. Logic Utama: Parsing Data & Loading ke Editor
@@ -176,8 +199,14 @@ export default function WorkspaceCanvas({
           <BlockNoteView
             editor={editor}
             theme={theme}
+            formattingToolbar={false}
+            slashMenu={false}
             className="[&_.bn-editor]:!pl-0 [&_.bn-editor]:!pr-0 dark:[&_.bn-editor]:text-white dark:[&_.bn-block-content]:text-white"
-          />
+          >
+            <AIMenuController aiMenu={CustomAIMenu} />
+            <FormattingToolbarWithAI />
+            <SlashMenuWithAI editor={editor} />
+          </BlockNoteView>
         </div>
       </div>
     </main>

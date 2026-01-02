@@ -1,0 +1,125 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: comparative analysis european colonization southeast asia
+Search Time: 2026-01-02 11:19:05
+Total Available in API: 8430
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 740e981005946e457fce086db4af599c204c0e5e
+Title: AI and Digital Economies: A Comparative Analysis of South and Southeast Asia and Africa
+Authors: E. A. Abanga, Stephen Dotse
+Year: 2024
+Citation Count: 4
+URL: https://www.semanticscholar.org/paper/740e981005946e457fce086db4af599c204c0e5e
+PDF URL: https://doi.org/10.9734/ajrcos/2024/v17i10506
+
+Abstract:
+This study aims to analyze the adoption of Artificial Intelligence (AI) in South and Southeast Asia and Africa, focusing on how AI technologies shape the digital economies in these regions. The objective is to assess AI's role in key sectors such as energy, manufacturing, healthcare, and finance, and examine its impact on policy formulation, public service delivery, and governance. The paper employs a comparative literature review methodology. Data is gathered from secondary sources, including academic papers and reports, to analyze AI infrastructure, policy frameworks, sectoral impacts, and barriers to adoption. The study identifies similarities and differences in AI integration across the regions. The study reveals that South and Southeast Asia have made greater advancements in AI adoption, driven by stronger infrastructure and government policies, while Africa faces challenges due to infrastructure deficits and limited AI expertise. However, both regions show potential for leveraging AI to drive economic growth, particularly in underserved sectors like agriculture and financial inclusion. Additionally, the research highlights the critical role of AI governance, with a strong need for both regions to develop robust regulatory frameworks to ensure responsible and ethical AI implementation. The study is limited by its reliance on secondary data, which restricts deeper insight into on-the-ground challenges. Future research should incorporate field studies and interviews with AI practitioners for a more comprehensive understanding of AI’s impact. This paper contributes to the limited comparative research on AI adoption between South and Southeast Asia and Africa. It offers insights for policymakers and industry leaders on how AI can be harnessed for inclusive economic growth and transformation in these regions.
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 0f2f2de01ed32f04893b2886ea20f3c05b385f61
+Title: Primary immunodeficiencies (PID) Life Index in Southeast Asia: A comparative analysis of PID Principles of Care (PoC)
+Authors: C. M. Chan, N. Mahlaoui, Silvia Sánchez−Ramón, Martine Pergent, Leire Solís, J. Prévot, Adli Ali
+Year: 2023
+Citation Count: 9
+URL: https://www.semanticscholar.org/paper/0f2f2de01ed32f04893b2886ea20f3c05b385f61
+PDF URL: https://www.frontiersin.org/articles/10.3389/fimmu.2023.1151335/pdf
+
+Abstract:
+Objective To analyze the implementation of the Principles of Care (PoC) in primary immunodeficiencies (PID) in Southeast Asia (SEA) countries - six years after its call of action. Methodology Using the newly developed PID Life Index software, the index of implementation of principles of care in the management of PIDs patients involving the six participating SEA countries (Cambodia, Indonesia, Malaysia, Vietnam, Thailand, and Philippines) were extracted. For each of the six separate principles, the index from the six countries will be compared and presented based on the calculated index. Results Comparative analysis of the six principles of care of PID in the SEA countries showed low diagnostic rate with minimal availability of diagnostic tests options. Generally, almost all SEA countries provide curative treatments, vaccines, and anti-infectious therapies although the reimbursement scheme varied in relieving patients’ financial burden. We also highlighted the active involvement of patient organizations in SEA, with main areas of work focused on advocacy and increasing awareness among public and healthcare professionals. Discussion and conclusion It is applaudable that the SEA continent is gradually strengthening its work in management of PID, especially in Thailand and Vietnam. However, more emphasis must be placed among stakeholders in SEA countries towards successful implementation of the PoC for a holistic management of PID patients.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: 49b45ee3908e8494e09be512125a1085481d5476
+Title: Use of Mythical Creatures in Folk Literature of Southeast Asia: A Comparative analysis
+Authors: Edgar R. Eslit
+Year: 2023
+Citation Count: 5
+URL: https://www.semanticscholar.org/paper/49b45ee3908e8494e09be512125a1085481d5476
+PDF URL: https://rayyanjurnal.com/index.php/ijrael/article/download/493/pdf
+
+Abstract:
+This paper presents a comparative analysis of the use of mythical creatures in Southeast Asian folk literature, focusing on the dragons in Javanese folktales from Indonesia, the naga in Thai folklore, and the aswang in Filipino mythology. The paper examines the historical and cultural context of Southeast Asia, the evolution of folk literature in the region, and the role of mythical creatures in Southeast Asian culture. It analyzes the similarities and differences in the portrayal of mythical creatures across different cultures, identifies common themes and motifs in Southeast Asian folk literature, and evaluates the significance of the use of mythical creatures in conveying cultural values and beliefs. The paper concludes that the use of mythical creatures is an important aspect of Southeast Asian folk literature and highlights the implications of the study for future research in the field. The findings contribute to a deeper understanding of the cultural and historical heritage of Southeast Asia and shed light on the unique features of its folk literature.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: d335beb0f9cc1d7edcbe7148a31ed4752a2b49c6
+Title: China and Regional Security in South and Southeast Asia: A Comparative Analysis of ASEAN and SAARC
+Authors: Salman Ali Bettani, Z. Ahmed
+Year: 2023
+Citation Count: 4
+URL: https://www.semanticscholar.org/paper/d335beb0f9cc1d7edcbe7148a31ed4752a2b49c6
+PDF URL: https://journal.binus.ac.id/index.php/jas/article/download/9600/4977
+
+Abstract:
+Asian regionalism is largely represented by economic cooperation at sub-regional levels, and the Association of Southeast Asian Nations (ASEAN) is seen as a prominent example of that. In contrast, the South Asian Association for Regional Cooperation (SAARC) has failed to take off as a platform for economic cooperation and has been hostage to the India-Pakistan rivalry. While ASEAN was established as a forum to address members’ security apprehensions concerning China, SAARC was created to focus on regional cooperation in non-controversial matters like trade and human security. Hence, ASEAN has engaged more deeply with China through various mechanisms. Conversely, SAARC-China relations remain limited because India, the most dominant actor in the organization and the region, views China as a threat to its security and hegemony in South Asia. The research, therefore, aims to answer the following question: How does one region successfully manage security challenges/threats while the other remains ensnared by them? Resolving this puzzle necessitates a nuanced understanding of the role of regionalism in Southeast Asia, emphasizing the significance of comprehending the process and evolution of regionalism in this context. To address this inquiry, the research employs a comparative-historical analysis grounded in archival data encompassing both primary and secondary sources. The investigation reveals that SAARC’s limited engagement with China is a consequence of India’s opposition, a dynamic absent in ASEAN, where Indonesia actively supports cooperation with China. The research underscores the critical importance of unraveling the complexities of regionalism in Southeast Asia to grasp the underlying factors contributing to divergent outcomes in these regional organizations.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: a92e6b17af2423122f0ccd5413da3e498104f030
+Title: Assessing the Sustainability of Southeast Asia’s Energy Transition: A Comparative Analysis
+Authors: Faten Derouez, Adel Ifa
+Year: 2025
+Citation Count: 12
+URL: https://www.semanticscholar.org/paper/a92e6b17af2423122f0ccd5413da3e498104f030
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+The rapid economic growth in Southeast Asia has heightened concerns about its environmental sustainability, particularly in relation to CO2 emissions. Despite the growing focus on climate change mitigation, the region faces significant challenges in balancing economic development, energy transitions, and environmental conservation. Existing studies often overlook the complex interplay between these factors, leaving a critical gap in understanding how tailored strategies can address country-specific dynamics. To bridge this gap, this study introduces the “Sustainable Energy-Environment Nexus” (SEEN) framework, which integrates economic growth, energy transitions, and environmental conservation as interconnected elements necessary for achieving carbon neutrality in both the short and long run. Using data from eight Southeast Asian countries (Indonesia, Malaysia, China, South Korea, Vietnam, Singapore, Thailand, and Japan) over the period 1990–2023, this study employs the Autoregressive Distributed Lag (ARDL) approach and the Vector Error Correction Model (VECM) technique to analyze the relationships between CO2 emissions, GDP, financial development, forest areas, renewable energy, non-renewable energy consumption, and trade openness. The findings reveal that GDP and non-renewable energy consumption significantly drive CO2 emissions in countries like Indonesia, Malaysia, Japan, and South Korea. Conversely, forest areas, financial development, renewable energy, and trade openness are effective in reducing emissions in countries such as Vietnam and China. This study highlights the critical role of renewable energy adoption while addressing challenges such as inadequate infrastructure and limited technology transfer. It also identifies opportunities for regional cooperation in innovation and policy harmonization. To support sustainable energy development, tailored policy recommendations include incentivizing investments in renewable energy, enhancing technology transfer, expanding forest conservation efforts, and aligning regional renewable energy targets across ASEAN. The SEEN framework provides a robust foundation for advancing research and policy design aimed at reducing CO2 emissions and promoting environmental sustainability across Southeast Asia.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: 2ae4f33ce0265c6cb5811bf345342ec358df09e8
+Title: Comparative Analysis of Investment Environments for Chinese Auto Parts Enterprises in Mexico and Southeast Asia and Different Development Strategies
+Authors: Xin Sun, Tieshan Wang
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/2ae4f33ce0265c6cb5811bf345342ec358df09e8
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This paper employs the PESTEL six-dimensional analytical framework to systematically compare the investment environments and strategic differences for Chinese automotive parts enterprises in Mexico and Southeast Asia. The study examines six dimensions—political, economic, social, technological, environmental, and legal—to analyze similarities and differences between the two regions in terms of policy stability, economic potential, social labor force structure, technological innovation capabilities, sustainable development policies, and legal safeguards. Results indicate that Mexico, leveraging its proximity to North American markets, industrial support systems, and free trade agreement networks, is well-suited for high-value-added and technology-intensive enterprises. Conversely, Southeast Asian nations offer greater appeal in terms of labor costs, policy flexibility, and market diversification. Based on these findings, this paper proposes that Chinese enterprises should adopt differentiated international investment strategies: strengthening supply chain coordination and smart manufacturing capabilities in Mexico, while prioritizing localized operations, environmental responsibility, and social governance in Southeast Asia. This dual-track approach will help build a competitive and resilient global development framework.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 41a02c3e77e0f860909f76c663aa4f37061d9466
+Title: Cancer incidence and mortality estimates in 2022 in southeast Asia: a comparative analysis.
+Authors: E. Dee, M. Laversanne, N. Bhoo-Pathy, F. D. Ho, E. Feliciano, M.A. Eala, F. I. Ting, Ophira Ginsburg, F. Y. Moraes, Bishal Gyawali, S. Gomez, K. Ng, J. Wu, Urvisha Jain, Bhav Jain, R. C. Columbres, T. Matsuda, S. Sangrajrang, E. S. Sinuraya, T. D. Bui, Wenqiang Wei, Young-Joo Won, Ling Li Foo, Mei Chuan Annie Ling, Les Mery, I. Soerjomataram, Freddie Bray
+Year: 2025
+Citation Count: 16
+URL: https://www.semanticscholar.org/paper/41a02c3e77e0f860909f76c663aa4f37061d9466
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 5113de20c1ce575284054288efcdcb069e6a1cb0
+Title: Pathogens associated with seafood exports from Southeast Asia to the European Union: Analysis of the Rapid Alert System for Food and Feed (1997–2020)
+Authors: O. Odeyemi, Y. Somorin, C. Ateba, H. Onyeaka, A. Anyogu, M. Amin, F. Dewi, D. Stratev, J. O. Oko, N. A. Kasan
+Year: 2024
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/5113de20c1ce575284054288efcdcb069e6a1cb0
+PDF URL: https://doi.org/10.15547/bjvm.2022-0026
+
+Abstract:
+Over the years, the need for healthy food has increased the demand for seafood in the international market. However, despite the high global demand, seafood is highly perishable and may harbour pathogenic microorganisms that could be transferred to humans during handling, processing, and consumption. Therefore, establishing strict food safety standards and risk communication tools is critical to prevent the infiltration of unsafe seafood into global markets. In the global food supply chain, the European Union (EU) is the largest importer of seafood, while more than 80% of global seafood production is from Asia. Additionally, Southeast Asian countries account for 32% of global seafood production. Therefore, this study aimed to evaluate the microbiological safety of seafood imported from Southeast Asia to the EU by analysing alert notifications in the Rapid Alert System for Food and Feed (RASFF) database. The RASFF is a tool used for reporting and communicating food safety-related risks among the EU Member States and other members of the RASFF network. A total of 301 notifications of pathogens in seafood originating from four Southeast Asian countries (Malaysia, Thailand, Vietnam, and Indonesia) were reported by 19 EU countries, including the United Kingdom (1997-2020). More than 56% of the pathogen notifications involved crustaceans and related products. Fifty-two percent of the notifications involved seafood from Vietnam, while 30% of the notifications from EU member countries were from Italy. Vibrio spp. was the most predominant bacterial pathogen responsible for 50% of the notifications, followed by Salmonella spp. and Clostridium accounting for 38% and 2% of the notifications, respectively. Norovirus was implicated in 10% of the notifications, and this was only in clams from Vietnam. These pathogens pose a risk to consumers’ health, indicating the need to enforce stringent food safety standards in producing countries to ensure the safety of seafood exported to other parts of the world. These actions will ultimately prevent economic loss associated with the rejection, destruction or import restrictions of contaminated seafood originating from Southeast Asia to the EU.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

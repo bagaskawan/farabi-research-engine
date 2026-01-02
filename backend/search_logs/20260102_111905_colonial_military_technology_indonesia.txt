@@ -1,0 +1,125 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: colonial military technology indonesia
+Search Time: 2026-01-02 11:19:05
+Total Available in API: 1665
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: 7781b225b89045c31693d54546406b39ccae96c3
+Title: Marginalizing colonial violence at the beginning of the 21st century The representation of colonial military expedition to Banten of 1808 in the National Museum of Indonesia
+Authors: N/A
+Year: 2023
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/7781b225b89045c31693d54546406b39ccae96c3
+PDF URL: https://scholarhub.ui.ac.id/cgi/viewcontent.cgi?article=1692&context=wacana
+
+Abstract: Not available
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: e6b6a73564edc917009baa8cdd9969953c5fa78d
+Title: Military Responses to and Forms of Knowledge About Natural Disaster in Colonial Indonesia, 1865–1930
+Authors: Susie Protschky
+Year: 2022
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/e6b6a73564edc917009baa8cdd9969953c5fa78d
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+Abstract:This is the first study to chart changes in military responses to natural disaster in colonial Indonesia (the Netherlands East Indies). It reveals that, up until the early twentieth century, colonial forces conducting wars of conquest across the archipelago were caught in disasters as they happened, and their responses were localized and reactive. Around 1918, colonial policy shifted toward a more coordinated, interventionist role for the military that attended to the humanitarian needs of Indonesian disaster victims. The groundwork for an integrated, first-responder role for the military in natural disasters was laid during the 1920s, with the establishment of an air force with capabilities in aerial reconnaissance and photography. These new technologies fostered a militarization of colonial knowledge about natural disasters that reached its fullest expression during the Merapi eruption of 1930 and, notably, exceeded operational purposes by shaping colonial science, as well as disaster- and geo-tourism.
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: a87f5d51295371c092ea6d4f1300f4ee3977ea42
+Title: Impact of Technology, Military, and Socio-Economic Welfare on Conflict in Indonesia and Japan
+Authors: Alwan Mubarok, Hikmat Z. Almubaroq, Surachman Surjaatmadja, Agung Risdhianto
+Year: 2023
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/a87f5d51295371c092ea6d4f1300f4ee3977ea42
+PDF URL: https://ijhess.com/index.php/ijhess/article/download/615/530
+
+Abstract:
+Conflicts are driven by various factors, but over time, conflicts have evolved in nature and complexity. In addition to traditional factors, the emergence of technology has played a significant role in shaping conflicts. Technological advancements also have been a driving force in shaping societies and economies, and impacting various sectors and aspects of life. Our research uses Structural Equation Model (SEM) analysis. We will analyze the direct and indirect impacts of digital connectivity, technology trade, military expenditure and personnel, and socio-economic welfare on conflicts and tensions in Indonesia and Japan. The findings of our study suggest that technology variables such as digital connectivity and technology trade have a positive effect on socio-economic welfare in Indonesia with coefficients 0.311 and 0.457. A similar thing also happened in Japan with coefficients 1.312 and 0.310. However, technology trade can increase conflicts and tensions in Indonesia with coefficients 0.796, and digital connectivity can increase conflicts and tensions in Japan with coefficients 0.761. Additionally, socio-economic welfare significantly reduces conflict in Japan.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 574ff2b6d7ff53bb1ea83dcc81954acfe00f2f8d
+Title: Empowering Indonesia's Defense: The Evolution of Smart Military Society in the Total People's War System
+Authors: Ridwan Akhmad Nugraha, Edy Sulistyadi, Buddy Suseto
+Year: 2024
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/574ff2b6d7ff53bb1ea83dcc81954acfe00f2f8d
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+In the context of Indonesia's Total People’s War, the concept of a Smart Military Society emerges as a pivotal element in modern defense practices. This study aims to explore the integration of information technology, artificial intelligence, connectivity, and collaboration within military operations to construct an efficacious Smart Military Society. By harnessing the potential of ICT and smart technology, the Indonesian defense sector can effectively enhance situational awareness, decision-making processes, and response capabilities to address evolving threats. The collaboration with societal stakeholders, academia, and industries fosters innovation, adaptability, and the development of a technologically advanced defense industry. Through joint exercises and information sharing, the interoperability of defense forces improves, leading to coordinated efforts across different military components. Challenges such as cybersecurity measures must be addressed to safeguard sensitive information and critical infrastructure. The implementation of a Smart Military Society not only strengthens Indonesia's defense capabilities but also stimulates economic growth, promotes self-reliance, and enhances national security. This research contributes profound insights into the potential and challenges associated with Smart Military Society, offering valuable implications for adaptive defense strategies in the complexities of modern warfare.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: bfddec7287c7254ef4b1d5c07df3c87056136738
+Title: Employing Poland's Military Depolitization and Professionalism As Security Sector Reform Strategy For Indonesia
+Authors: Fathomi Abdillah, Safi
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/bfddec7287c7254ef4b1d5c07df3c87056136738
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This article examines the reform of Poland’s security sector and its relevance for Indonesia. The study focuses on the depoliticization and professionalization of the Polish military. Depoliticization aims to remove political party influence from the military and ensure civilian control over strategic and defense decisions. This involves reducing political roles within the military, reforming military education, and establishing an independent legal framework. Professionalization has been achieved by modernizing technology and weaponry, enhancing soldier skills to meet NATO standards, and participating in joint exercises with NATO allies. These efforts have improved the effectiveness and efficiency of the Polish military in maintaining national security and regional stability. Using qualitative methods and Creswell’s comparative study approach, the research highlights how Poland’s experience can guide Indonesia in its military reforms. By integrating depoliticization and professionalization strategies inspired by Huntington and Stephan, the article provides a framework to accelerate and improve military reform in Indonesia.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: f9ec2d0c1f0336c44f95f8e5e6b2d3970caa278e
+Title: Literature Review On Fast Missile Ships (KCR) In The Context Of Military Modernization: A Historical Review And Challenges To Indonesia's Contribution To Maritime Defense
+Authors: Shidqi Divreda Sulaeman, Nengah Putra, Imanuel Dindin
+Year: 2024
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/f9ec2d0c1f0336c44f95f8e5e6b2d3970caa278e
+PDF URL: https://ijhess.com/index.php/ijhess/article/download/825/730
+
+Abstract:
+This research presents a in-depth analysis of the history and contribution of Indonesia's Fast Attack Craft (Kapal Cepat Rudal or KCR), focusing on the evolution from the first generation to the sixth generation. As an archipelagic nation with complex maritime defense challenges, Indonesia views KCR as a critical asset in maintaining sovereignty and maritime security. In the context of military modernization, this research aims to understand the impact of KCR on national defense. The applied research method is Systematic Literature Review (SLR), providing a comprehensive analytical framework for relevant literature on the research topic. A total of 80 articles were collected and analyzed, forming a strong foundation to illustrate the transformation of KCR in terms of history, technology, operations, and tactics. The research results indicate that the first-generation KCR, such as the Komar class, played a key role during the confrontation with Malaysia and various military operations. In the second generation, the Ahmad Yani class showed technological advancements and weapon system success in maintaining national security. The third generation, represented by the Fatahillah class, brought significant innovation with the use of MM38 Exocet missiles, enhancing self-defense capabilities. Subsequent generations demonstrated significant development, both in terms of technology and involvement in humanitarian and regional conflict operations. The sixth-generation KCR, recently completed by PT PAL, marks the peak of Indonesia's military modernization with automatic weapons and state-of-the-art technology. However, challenges for the seventh generation and beyond lie in rapid technological developments, increased firepower and precision, operational flexibility, cyber security, environmental sustainability, and human resource management. By understanding and addressing these challenges, it is expected that future generations of KCR can continue to be a strategic element in Indonesia's maritime defense, responding to evolving threats in the era of military modernization.
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 5202134c72b9166e9c21bbfd71f8873244f2e530
+Title: The Colonial Sugar Industry in Indonesia and the Philippines: A Comparative Perspective
+Authors: Nawiyanto Nawiyanto, Jose Wendell Capili, Nina Mutiara Calvaryni
+Year: 2023
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/5202134c72b9166e9c21bbfd71f8873244f2e530
+PDF URL: https://journal.unnes.ac.id/nju/index.php/paramita/article/download/46347/pdf
+
+Abstract:
+The sugar industry played a significant role in the colonial economies of Indonesia and the Philippines. Growing the same commodity for the global market, the conditions under which the sugar industry operated in the two places were quite different. Using historical methods and drawing upon secondary sources, this article compares the colonial sugar industry in Indonesia with particular reference to Java and the Philippines between 1890 and 1940. Unlike the case of Indonesia, where the sugar industry operated in densely populated lowland areas, the Philippine sugar industry was established in a sparsely populated region. However, the sugar producers in the two countries took various measures to make their ventures more efficient and competitive. This article will outline broadly the early development of the sugar industry in Java and the Philippines, followed by a discussion on the choice of production technology and the performance of the sugar industry in the interwar period to provide a better understanding of the different development of the sugar industry in Java and the Philippines. The sugar industry in Java was more successful in improving its productivity and efficiency, making the industry more competitive than the Philippines. However, the sugar industry in the two countries had different destinies when the global crises hit hard in the 1930s. Only because of the preferential treatment obtained in the American market did the less efficient sugar industry in the Philippines survive during the Depression. Meanwhile, Java's more efficient sugar industry collapsed due to the unfair protection policy in the world sugar market.Industri gula memainkan peran penting dalam perekonomian kolonial di Indonesia dan Filipina. Menumbuhkan komoditas yang sama untuk pasar global, kondisi industri gula yang beroperasi di kedua tempat tersebut cukup berbeda. Dengan menggunakan metode sejarah dan memanfaatkan sumber-sumber sekunder, artikel ini membandingkan industri gula kolonial di Indonesia dengan referensi khusus di Jawa dan Filipina antara tahun 1890 dan 1940. Berbeda dengan kasus di Indonesia, dimana industri gula beroperasi di daerah dataran rendah yang padat penduduknya, Filipina industri gula didirikan di wilayah yang jarang penduduknya. Namun, produsen gula di kedua negara mengambil berbagai langkah untuk menjadikan usaha mereka lebih efisien dan kompetitif. Artikel ini akan menguraikan secara garis besar perkembangan awal industri gula di Jawa dan Filipina, dilanjutkan dengan diskusi mengenai pilihan teknologi produksi dan kinerja industri gula pada periode antar perang untuk memberikan pemahaman yang lebih baik mengenai perbedaan perkembangan industri gula di Jawa dan Filipina. industri gula di Jawa dan Filipina. Industri gula di Pulau Jawa lebih berhasil meningkatkan produktivitas dan efisiensinya, sehingga industri ini lebih kompetitif dibandingkan Filipina. Namun industri gula di kedua negara mempunyai nasib yang berbeda ketika krisis global melanda pada tahun 1930an. Hanya karena perlakuan istimewa yang diperoleh di pasar Amerika, industri gula yang kurang efisien di Filipina dapat bertahan selama masa Depresi. Sementara itu, industri gula di Jawa yang lebih efisien terpuruk akibat kebijakan proteksi yang tidak adil di pasar gula dunia.
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: a3a50536367c70d40aa32821c715a757bcf18b9e
+Title: Revitalization of Colonial Buildings as Community Centre: Case study of the Former Radio Cililin Building, Bandung, West Java, Indonesia
+Authors: H. Nurrahman, Rahmadean Alifani Purwatiana, Yohanes Karyadi Kusliansjah, A. Y. Permana
+Year: 2023
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/a3a50536367c70d40aa32821c715a757bcf18b9e
+PDF URL: https://ejournal.um.edu.my/index.php/jdbe/article/download/44141/16167
+
+Abstract:
+The historical remnants of the former Cililin Radio Transmitter area comprise the Cililin Radio Transmitter Building and the remnants of the Transformer Building, which served as tangible artifacts from the Dutch colonial era when it functioned as a radio transmission station. These remnants hold profound historical and archaeological significance, representing a bygone communication technology era. Cililin Radio Transmitter Building is interwoven with pivotal historical events, including the sovereignty transfer from the Netherlands to Indonesia in the Cililin region, and marks the inception of SMA N 1 Cililin (State Senior High School 1 Cililin). These structures' condition and surroundings were neglected, rendering them susceptible to deterioration. This led to the restoration and revitalization of this area to safeguard its historical value and make it accessible to the community. This design research aims to revitalize the former area. Cililin Radio Transmitter is a community center, where the process begins with studies related to revitalization to obtain design parameters that can be applied to the case. Therefore, this research and design will transform the former Cililin Radio Transmitter Area into a vibrant community center. A creative metaphorical approach was employed, which ensured the preservation of the buildings, amplification of the historical essence of the site, and the provision of community-oriented facilities. A qualitative method was used to analyze the objects through field surveys connected with literature related to revitalization and metaphorical architecture. The results showed that the adaptation and addition of new functions to the study objects rejuvenated the environment and accommodated the community's social activities.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================

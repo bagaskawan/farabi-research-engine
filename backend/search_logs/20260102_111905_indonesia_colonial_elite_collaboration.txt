@@ -1,0 +1,125 @@
+================================================================================
+FARABI RESEARCH ENGINE - SEMANTIC SCHOLAR SEARCH RESULTS
+================================================================================
+
+Search Keywords: indonesia colonial elite collaboration
+Search Time: 2026-01-02 11:19:05
+Total Available in API: 661
+Papers Retrieved: 8
+--------------------------------------------------------------------------------
+
+============================================================
+PAPER #1
+============================================================
+Paper ID: c4dd5cb9334f4c364103724a2850c6f87b2a5116
+Title: Social Control and Influence in Nineteenth Century Indonesia: Opium Farms and the Chinese of Java
+Authors: J. R. Rush
+Year: 1983
+Citation Count: 10
+URL: https://www.semanticscholar.org/paper/c4dd5cb9334f4c364103724a2850c6f87b2a5116
+PDF URL: https://ecommons.cornell.edu/bitstreams/9d1e7e5a-4372-4978-a618-08d239092184/download
+
+Abstract: Not available
+
+============================================================
+PAPER #2
+============================================================
+Paper ID: 47e2b859790e294b88ec11d7473e609ba1c87564
+Title: Dependency and neocolonialism in international research collaboration: evidence from a Ghanaian elite university
+Authors: Jacob Oppong Nkansah, Y. Oldac, Lili Yang
+Year: 2024
+Citation Count: 3
+URL: https://www.semanticscholar.org/paper/47e2b859790e294b88ec11d7473e609ba1c87564
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #3
+============================================================
+Paper ID: f1ef3fcca36b1c6ee077ad64d8a61c97c6df0b81
+Title: Innovation and Transformation of PT Telekomunikasi Indonesia: Colonial Legacy to Global Market
+Authors: Rhin Khairina Rahmat, C. Marghanita, Safira Nur Lathifah Eka Murti
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/f1ef3fcca36b1c6ee077ad64d8a61c97c6df0b81
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+The telecommunications market in Indonesia is proliferating to become the backbone of the national economy. PT Telekomunikasi Indonesia, PT Telekomunikasi Indonesia, Tbk. Alternatively, (Telkom) has undergone a significant transformation from infrastructure management in the Dutch Colonial era to a leading digital service provider in Indonesia and even the global market. From a concessionary strategy of international expansion, as well as multinational collaborations, Telkom increases its competitiveness and supports Indonesia's digital economy. Telkom invests in global infrastructure, such as the Sea Cable Communication System (SKKL), and operates various international business schemes through its subsidiary, Telkom Indonesia International (Telin). This paper is analysed using the Network Approach concept to compare patterns of industrial cooperation between countries. The findings in this paper are that private involvement and the role of government are needed to overcome market failure in a country. Telkom's transformation includes changes in ownership and cooperation that enable adaptation to evolving market dynamics, strengthening its position as a leader in the regional and global telecommunications sector.
+
+============================================================
+PAPER #4
+============================================================
+Paper ID: 57b2c9e577930a2a2ca9a26d05b930091653cbda
+Title: Collaborating elite of Kalabagh and patterns of control in colonial Punjab, 1849–1939
+Authors: Saadia Sumbal
+Year: 2021
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/57b2c9e577930a2a2ca9a26d05b930091653cbda
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+ABSTRACT This article discusses the local dynamics of control by the rural elite in colonial Punjab over agricultural land, the informal credit market and labour supply. I argue, the landed elite in collaboration with bureaucratic patronage, developed linkages between indigenous institutions and imperial ideology, controlled and manipulated the means of power and wealth. This led to a one-dimensional flow of capital and profit, towards elite and state, causing a serious check on social mobility and economic development. In a local study of a rural town, Kalabagh, in the north-west of Pakistani Punjab, the article brings forward an understudied aspect of colonial policies which followed a different trajectory from the rest of the Punjab. The colonial state, instead of development, maintained the structure of society under feudal setup. Rais, the ruling elite of the town, as colonial collaborator, managed the moneylending system in his estate and trapped the wage labourers in complex debt bondage, perpetuating jajmani type relationship in the twentieth century. At one level this arrangement invigorated hierarchical differentiation and dispossession of rural proletariat, at another level, the social differentiation acted as an instrument to mobilize the community for collective action towards nationalist discourse.
+
+============================================================
+PAPER #5
+============================================================
+Paper ID: 20ac7d812a9f35f66255b85e7cb204cd4f86af18
+Title: The Kingdom of Pepper and Colonial Resistance: Transforming Historical and Cultural Heritage into a Source of Sustainable Tourism in Aceh, Indonesia
+Authors: Aulia Rahman, Husaini Husaini, Okhaifi Prasetyo, Usman Usman
+Year: 2025
+Citation Count: 0
+URL: https://www.semanticscholar.org/paper/20ac7d812a9f35f66255b85e7cb204cd4f86af18
+PDF URL: Not available (paywalled or no open access)
+
+Abstract:
+This study examines the potential for developing sustainable tourism based on cultural heritage preservation through a heritage trail on the eastern coast of Aceh, Indonesia, highlighting the local narrative of the Kingdom of Pepper. The primary aim of this research is to explore how the development of the heritage trail concept can contribute to strengthening historical and cultural identity, supporting the revitalization of relevant historical sites, providing economic benefits to local communities, and promoting environmental and cultural sustainability. This study employs a tourism approach that integrates cultural preservation with sustainable development, analyzed as a solution to the existing challenges. The findings indicate that the heritage trail concept can reinforce local cultural identity, encourage active community participation, and enhance economic well-being through empowering local communities as key stakeholders in the tourism sector. The study also emphasizes the importance of collaboration between the government, local communities, and the private sector to create a sustainable tourism model. The findings suggest that policymakers should prioritize the development of culture-based tourism in tourism planning in Aceh, ensuring the preservation of historical and cultural values while increasing economic benefits for local communities.
+
+============================================================
+PAPER #6
+============================================================
+Paper ID: d6ea6552a5efe17de988d83acd4b369ce77f593b
+Title: Another Perspective in the Education of Netherlands in Indonesia During Colonial Period (1799 - 1942)
+Authors: Nguyen Van Thang, Nguyen Huu Phuc, Dinh Van Trong, L. H. Kiet, Tran Xuan Hiep
+Year: 2024
+Citation Count: 6
+URL: https://www.semanticscholar.org/paper/d6ea6552a5efe17de988d83acd4b369ce77f593b
+PDF URL: https://www.richtmann.org/journal/index.php/jesr/article/download/13905/13456
+
+Abstract:
+During the colonial period in Indonesia (1799-1942), education played a pivotal role in the Dutch colonial government’s strategy of establishing and maintaining its rule. This study employs qualitative analytical methods to provide a comprehensive analysis of the Dutch educational policies implemented throughout this period, examining their objectives, strategies, and impacts on Indonesian society. The Dutch applied a Western-style education system alongside the existing traditional Islamic education, with the dual aims of training personnel for the colonial administration and promoting cultural assimilation. The findings reveal the implementation of a “dual education system”, with Western-style schools using Dutch as the language of instruction and traditional schools teaching in local languages. Over time, the education system evolved, establishing various types of schools, from primary to university levels. However, racial discrimination persisted in access and opportunities, posing significant barriers for indigenous Indonesians compared to their Dutch and Eurasian counterparts. Notably, this study highlights the unintended consequence of Western education nurturing an educated indigenous elite class, many of whom later became driving forces behind the nationalist movement for Indonesian independence. While serving colonial interests of training a loyal workforce and promoting cultural assimilation, the Dutch educational policy inadvertently laid the foundation for the modernization of Indonesia’s education system and the emergence of a new intellectual class. The research findings contribute to understanding the complex role of education in the colonial context and its long-lasting impacts on Indonesia’s development trajectory. 
+  
+Received: 3 March 2024 / Accepted: 29 June 2024 / Published: 5 July 2024
+
+============================================================
+PAPER #7
+============================================================
+Paper ID: 1fd8fb9d744845b7758f543bb89b449ca69cdaa6
+Title: 'Collaboration is a very delicate concept' : alliance-formation and the colonial defence of Indonesia and Malaysia, 1945-1957
+Authors: Roel Frakking
+Year: 2017
+Citation Count: 1
+URL: https://www.semanticscholar.org/paper/1fd8fb9d744845b7758f543bb89b449ca69cdaa6
+PDF URL: Not available (paywalled or no open access)
+
+Abstract: Not available
+
+============================================================
+PAPER #8
+============================================================
+Paper ID: 22a539c82ebfe0343a5d4844ce6fd3ce95500981
+Title: Meetings and minutes: Spaces of lawmaking and legal translation in colonial Indonesia
+Authors: S. Ravensbergen
+Year: 2023
+Citation Count: 2
+URL: https://www.semanticscholar.org/paper/22a539c82ebfe0343a5d4844ce6fd3ce95500981
+PDF URL: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/39D57343B50DAA84FD2676F8BFB19163/S0022463423000711a.pdf/div-class-title-meetings-and-minutes-spaces-of-lawmaking-and-legal-translation-in-colonial-indonesia-div.pdf
+
+Abstract:
+Central to this article are the minutes of nine codification meetings held in 1865 at various locations in West Sumatra. During these meetings the draft regulations for a new colonial legal system were discussed and negotiated by West Sumatran elites and Dutch officials. This episode and its unique archives serve as a microhistory of lawmaking, legal translation, and erasure. The article argues that the process of making colonialism procedural, as well as the genealogical workings of colonial knowledge production, are crucial to understanding the making and unmaking of law in the context of legal pluralities. It shows that finding similarities in interests and worldview, moments of ‘erasure through translation’, the symbolic language of fluidity of adat and legal hybridity, as well as the archival power of the material and the spatial elements of both the meetings and the minutes, were vehicles through which codification in West Sumatra was attempted and contested.
+
+
+================================================================================
+END OF SEARCH RESULTS
+================================================================================
